@@ -29,8 +29,3 @@ For the full datasets look:
 imdb: Maas et. al., 2011 'Learning word vectors for sentiment analysis'
 amazon: McAuley et. al., 2013 'Hidden factors and hidden topics: Understanding rating dimensions with review text'
 yelp: Yelp dataset challenge http://www.yelp.com/dataset_challenge
-
-link: http://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences
-
-note: imdb dataset could not be loaded into google big query so had to modify. Some rows started with a quote and ended without a quote. the starting quote in these rows were removed. 5 rows were modified.
-furthermore, added column names at beginning of data

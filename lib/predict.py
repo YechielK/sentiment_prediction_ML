@@ -1,5 +1,5 @@
 from pickle import load, loads
-from sentence_cleaning import text_pipeline
+from lib.sentence_cleaning import text_pipeline
 with open("pickles/model.pickle", mode="rb") as pickle_file:
     pickled_model = load(pickle_file)
     model = loads(pickled_model)

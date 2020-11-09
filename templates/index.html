@@ -5,11 +5,12 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>{{Title}}</h1>
-    <p>testing</p>
-    <form action="/user-input">
-        <input type="text" placeholder="Enter sentence heree" name="sentence" id="sentence"/>
+    <form action="/predict">
+        <input type="text" placeholder="Enter sentence here" name="sentence" id="sentence"/>
         <button type="submit">Submit</button>
     </form>
+    {%if showPrediction == True%}
+    <p>"{{sentence}}" is predicted to be <strong>{{result}}</strong></p>
+    {% endif %}
 </body>
 </html>

@@ -9,7 +9,7 @@
         <input type="text" placeholder="Enter sentence here" name="sentence" id="sentence"/>
         <button type="submit">Predict</button>
     </form>
-    {%if showPrediction == True%}
+    {%if showPrediction%}
     <p>"{{sentence}}" is predicted to be <strong>{{result}}</strong></p>
     {% endif %}
 </body>

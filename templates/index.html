@@ -1,16 +1,17 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <form action="/predict">
-        <input type="text" placeholder="Enter sentence here" name="sentence" id="sentence"/>
-        <button type="submit">Predict</button>
-    </form>
-    {%if showPrediction%}
-    <p>"{{sentence}}" is predicted to be <strong>{{result}}</strong></p>
-    {% endif %}
-</body>
-</html>
+{% extends "layout.html" %}
+{% block content %}
+
+
+
+<h1 >Sentiment Predictor</h1>
+<form class="align-middle" action="/predict">
+    <input type="text" placeholder="Enter sentence here" name="sentence" id="sentence"/>
+    <button type="submit">Predict</button>
+</form>
+
+{%if showPrediction%}
+<p>"{{sentence}}" is predicted to be <strong>{{result}}</strong></p>
+{% endif %}
+
+  
+{% endblock %}

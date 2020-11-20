@@ -1,0 +1,1501 @@
+,text,sentiment,clean_message
+4,The best scene in the movie was when Gerardo is trying to find a song that keeps running through his head.  ,1,the best scene in the movi be when gerardo be tri to find a song that keep run through hi head
+7,"Saw the movie today and thought it was a good effort, good messages for kids.  ",1,saw the movi today and think it be a good effort good messag for kid
+9,Loved the casting of Jimmy Buffet as the science teacher.  ,1,love the cast of jimmi buffet a the scienc teacher
+10,And those baby owls were adorable.  ,1,and those babi owl be ador
+11,"The movie showed a lot of Florida at it's best, made it look very appealing.  ",1,the movi show a lot of florida at it best make it look veri appeal
+12,The Songs Were The Best And The Muppets Were So Hilarious.  ,1,the song be the best and the muppet be so hilari
+13,It Was So Cool.  ,1,it be so cool
+14,"This is a very ""right on case"" movie that delivers everything almost right in your face.  ",1,thi be a veri right on case movi that deliv everyth almost right in your face
+16,"This review is long overdue, since I consider A Tale of Two Sisters to be the single greatest film ever made.  ",1,thi review be long overdu sinc i consid a tale of two sister to be the singl greatest film ever make
+17,"I'll put this gem up against any movie in terms of screenplay, cinematography, acting, post-production, editing, directing, or any other aspect of film-making.  ",1,ill put thi gem up against ani movi in term of screenplay cinematographi act postproduct edit direct or ani other aspect of filmmak
+18,"It's practically perfect in all of them  a true masterpiece in a sea of faux ""masterpieces.""  ",1,it practic perfect in all of them a true masterpiec in a sea of faux masterpiec
+19,The structure of this film is easily the most tightly constructed in the history of cinema.  ,1,the structur of thi film be easili the most tightli construct in the histori of cinema
+20,I can think of no other film where something vitally important occurs every other minute.  ,1,i can think of no other film where someth vital import occur everi other minut
+21,"In other words, the content level of this film is enough to easily fill a dozen other films.  ",1,in other word the content level of thi film be enough to easili fill a dozen other film
+22,How can anyone in their right mind ask for anything more from a movie than this?  ,1,how can anyon in their right mind ask for anyth more from a movi than thi
+23,"It's quite simply the highest, most superlative form of cinema imaginable.  ",1,it quit simpli the high most superl form of cinema imagin
+24,"Yes, this film does require a rather significant amount of puzzle-solving, but the pieces fit together to create a beautiful picture.  ",1,ye thi film do requir a rather signific amount of puzzlesolv but the piec fit togeth to creat a beauti pictur
+27,This is the number one best TH game in the series.  ,1,thi be the number one best th game in the seri
+28,It deserves strong love.  ,1,it deserv strong love
+29,It is an insane game.  ,1,it be an insan game
+30,"There are massive levels, massive unlockable characters... it's just a massive game.  ",1,there be massiv level massiv unlock charact it just a massiv game
+31,Waste your money on this game.  ,1,wast your money on thi game
+32,This is the kind of money that is wasted properly.  ,1,thi be the kind of money that be wast properli
+33,"Actually, the graphics were good at the time.  ",1,actual the graphic be good at the time
+35,"As they say in Canada, This is the fun game, aye.  ",1,a they say in canada thi be the fun game aye
+36,This game rocks.  ,1,thi game rock
+37,"Buy it, play it, enjoy it, love it.  ",1,buy it play it enjoy it love it
+38,It's PURE BRILLIANCE.  ,1,it pure brillianc
+49,"The film succeeds despite, or perhaps because of, an obviously meagre budget.  ",1,the film succeed despit or perhap becaus of an obvious meagr budget
+50,"I'm glad the film didn't go for the most obvious choice, as a lesser film certainly would have.  ",1,im glad the film didnt go for the most obviou choic a a less film certainli would have
+51,"In addition to having one of the most lovely songs ever written, French Cancan also boasts one of the cutest leading ladies ever to grace the screen.  ",1,in addit to have one of the most love song ever write french cancan also boast one of the cut lead ladi ever to grace the screen
+52,It's hard not to fall head-over-heels in love with that girl.  ,1,it hard not to fall headoverheel in love with that girl
+56,"Excellent cast, story line, performances.  ",1,excel cast stori line perform
+57,Totally believable.  ,1,total believ
+58,Anne Heche was utterly convincing.  ,1,ann hech be utterli convinc
+59,Sam Shepard's portrayal of a gung ho Marine was sobering.  ,1,sam shepard portray of a gung ho marin be sober
+60,I sat riveted to the TV screen.  ,1,i sit rivet to the tv screen
+61,All in all I give this one a resounding 9 out of 10.  ,1,all in all i give thi one a resound 9 out of 10
+62,I do think Tom Hanks is a good actor.  ,1,i do think tom hank be a good actor
+63,I enjoyed reading this book to my children when they were little.  ,1,i enjoy read thi book to my child when they be littl
+73,There are some generally great things in it.  ,1,there be some gener great thing in it
+75,"The suspense builders were good, & just cross the line from G to PG.  ",1,the suspens builder be good just cross the line from g to pg
+76,"I especially liked the non-cliche choices with the parents; in other movies, I could predict the dialog verbatim, but the writing in this movie made better selections.  ",1,i especi like the nonclich choic with the parent in other movi i could predict the dialog verbatim but the write in thi movi make good select
+77,"If you want a movie that's not gross but gives you some chills, this is a great choice.  ",1,if you want a movi that not gross but give you some chill thi be a great choic
+78,Alexander Nevsky is a great film.  ,1,alexand nevski be a great film
+79,"He is an amazing film artist, one of the most important whoever lived.  ",1,he be an amaz film artist one of the most import whoever live
+81,This if the first movie I've given a 10 to in years.  ,1,thi if the first movi ive give a 10 to in year
+82,"If there was ever a movie that needed word-of-mouth to promote, this is it.  ",1,if there be ever a movi that need wordofmouth to promot thi be it
+83,"Overall, the film is interesting and thought-provoking.  ",1,overal the film be interest and thoughtprovok
+84,"Plus, it was well-paced and suited its relatively short run time.  ",1,plu it be wellpac and suit it rel short run time
+85,Give this one a look.  ,1,give thi one a look
+86,I gave it a 10  ,1,i give it a 10
+87,The Wind and the Lion is well written and superbly acted.  ,1,the wind and the lion be well write and superbl act
+88,It is a true classic.  ,1,it be a true classic
+89,It actually turned out to be pretty decent as far as B-list horror/suspense films go.  ,1,it actual turn out to be pretti decent as far a blist horrorsuspens film go
+90,Definitely worth checking out.  ,1,definit worth check out
+95,MANNA FROM HEAVEN is a terrific film that is both predictable and unpredictable at the same time.  ,1,manna from heaven be a terrif film that be both predict and unpredict at the same time
+96,The scenes are often funny and occasionally touching as the characters evaluate their lives and where they are going.  ,1,the scene be often funni and occasion touch a the charact evalu their life and where they be go
+97,The cast of veteran actors are more than just a nostalgia trip.  ,1,the cast of veteran actor be more than just a nostalgia trip
+98,Ursula Burton's portrayal of the nun is both touching and funny at the same time with out making fun of nuns or the church.  ,1,ursula burton portray of the nun be both touch and funni at the same time with out make fun of nun or the church
+99,"If you are looking for a movie with a terrific cast, some good music(including a Shirley Jones rendition of ""The Way You Look Tonight""), and an uplifting ending, give this one a try.  ",1,if you be look for a movi with a terrif cast some good musicinclud a shirley jone rendit of the way you look tonight and an uplift end give thi one a tri
+100,I don't think you will be disappointed.  ,1,i dont think you will be disappoint
+106,"The only thing really worth watching was the scenery and the house, because it is beautiful.  ",1,the onli thing realli worth watch be the sceneri and the hous becaus it be beauti
+109,But in terms of the writing it's very fresh and bold.  ,1,but in term of the write it veri fresh and bold
+110,"The acting helps the writing along very well (maybe the idiot-savant sister could have been played better), and it is a real joy to watch.  ",1,the act help the write along veri well mayb the idiotsav sister could have be play well and it be a real joy to watch
+118,"Some applause should be given to the ""prelude"" however.  ",1,some applaus should be give to the prelud howev
+119,I really liked that.  ,1,i realli like that
+120,A great film by a great director.  ,1,a great film by a great director
+121,The movie had you on the edge of your seat and made you somewhat afraid to go to your car at the end of the night.  ,1,the movi have you on the edg of your seat and make you somewhat afraid to go to your car at the end of the night
+122,The music in the film is really nice too.  ,1,the music in the film be realli nice too
+123,I'd advise anyone to go and see it.  ,1,id advis anyon to go and see it
+124,Brilliant!  ,1,brilliant
+125,10/10  ,1,1010
+126,I liked this movie way too much.  ,1,i like thi movi way too much
+128,It rocked my world and is certainly a must see for anyone with no social or physical outlets.  ,1,it rock my world and be certainli a must see for anyon with no social or physic outlet
+144,This is definitely a cult classic well worth viewing and sharing with others.  ,1,thi be definit a cult classic well worth view and share with other
+151,"Also, it's a real treat to see Anthony Quinn playing Crazy Horse.  ",1,also it a real treat to see anthoni quinn play crazi hors
+168,"Still, I do like this movie for it's empowerment of women; there's not enough movies out there like this one.  ",1,still i do like thi movi for it empower of woman there not enough movi out there like thi one
+189,An excellent performance from Ms.  ,1,an excel perform from m
+190,"Garbo, who showed right off the bat that her talents could carry over from the silent era (I wanted to see some of her silent work, but Netflix doesn't seem to be stocking them.  ",1,garbo who show right off the bat that her talent could carri over from the silent era i want to see some of her silent work but netflix doesnt seem to be stock them
+191,It's also great to see that renowned silent screenwriter Frances Marion hasn't missed a step going from silent to sound.  ,1,it also great to see that renown silent screenwrit franc marion hasnt miss a step go from silent to sound
+196,You'll love it!  ,1,youll love it
+201,The movie I received was a great quality film for it's age.  ,1,the movi i receiv be a great qualiti film for it age
+202,John Wayne did an incredible job for being so young in the movie industry.  ,1,john wayn do an incred job for be so young in the movi industri
+203,His on screen presence shined thought even though there were other senior actors on the screen with him.  ,1,hi on screen presenc shin think even though there be other senior actor on the screen with him
+204,I think that it is a must see older John Wayne film.  ,1,i think that it be a must see old john wayn film
+209,Jamie Foxx absolutely IS Ray Charles.  ,1,jami foxx absolut be ray charl
+210,His performance is simply genius.  ,1,hi perform be simpli geniu
+211,"He owns the film, just as Spacek owned ""Coal Miner's Daughter"" and Quaid owned ""Great Balls of Fire.  ",1,he own the film just a spacek own coal miner daughter and quaid own great ball of fire
+212,"In fact, it's hard to remember that the part of Ray Charles is being acted, and not played by the man himself.  ",1,in fact it hard to rememb that the part of ray charl be be act and not play by the man himself
+213,Ray Charles is legendary.  ,1,ray charl be legendari
+214,"Ray Charles' life provided excellent biographical material for the film, which goes well beyond being just another movie about a musician.  ",1,ray charl life provid excel biograph materi for the film which go well beyond be just anoth movi about a musician
+215,Hitchcock is a great director.  ,1,hitchcock be a great director
+217,"Secondly, Hitchcock pretty much perfected the thriller and chase movie.  ",1,secondli hitchcock pretti much perfect the thriller and chase movi
+228,"When I first watched this movie, in the 80s, I loved it.  ",1,when i first watch thi movi in the 80 i love it
+229,"I was totally fascinated by the music, the dancing... everything.  ",1,i be total fascin by the music the danc everyth
+242,"If good intentions made a film great, then this film might be one of the greatest films ever made.  ",1,if good intent make a film great then thi film might be one of the great film ever make
+243,"The film has great actors, a master director, a significant theme--at least a would-be significant theme, undertone of fifties existential world-weariness, aerial scenes that ought to have thrilled both senses and imagination, and characters about which one might deeply care.  ",1,the film have great actor a master director a signific themeat least a wouldb signific theme underton of fifti existenti worldweari aerial scene that ought to have thrill both sen and imagin and charact about which one might deepli care
+247,"Yet, I enjoy watching it.  ",1,yet i enjoy watch it
+255,That was nice.  ,1,that be nice
+256,That was funny.  ,1,that be funni
+257,It was so funny.  ,1,it be so funni
+261,"***SPOILERS*** Whatever else can (or can't) be said about it, SURFACE is superbly crafted.  ",1,spoiler whatev els can or cant be say about it surfac be superbl craft
+262,The cinematography is simply stunning (to say the least) and the fx are nothing if not state-of-the-art.  ,1,the cinematographi be simpli stun to say the least and the fx be noth if not stateoftheart
+263,"Conceptually, the show offers a little bit of everything- and for just about everybody (parents, kids, fantasy and/or fx fans).  ",1,conceptu the show offer a littl bit of everyth and for just about everybodi parent kid fantasi andor fx fan
+264,"And there wasn't a single sour note struck acting-wise, either; some surprisingly solid casting, here.  ",1,and there wasnt a singl sour note strike actingwis either some surprisingli solid cast here
+265,"All things considered, a job very well done.  ",1,all thing consid a job veri well do
+266,Thanks good a movie like this was done and released.  ,1,thank good a movi like thi be do and releas
+267,"One of the best mexican movies ever!, and one of the less understood, even by mexican themselves, no matter how identified the should have felt with it.  ",1,one of the best mexican movi ever and one of the less understood even by mexican themselv no matter how identifi the should have felt with it
+268,"It ranks highly as a great noir-crime-drama, incredible performances by Belmondo and Lino Ventura.  ",1,it rank highli a a great noircrimedrama incred perform by belmondo and lino ventura
+269,"The attention given to every character, and complex psychological portrayals, detailing loyalty, treachery, love, and hope, are tremendous.  ",1,the attent give to everi charact and complex psycholog portray detail loyalti treacheri love and hope be tremend
+270,"It is an excellent drama, an excellent thriller, and an excellent film.  ",1,it be an excel drama an excel thriller and an excel film
+271,Up there with the best of Melville.  ,1,up there with the best of melvil
+272,Everything about this film is simply incredible.  ,1,everyth about thi film be simpli incred
+273,You truly take this journey through the eyes and soul of a child.  ,1,you truli take thi journey through the eye and soul of a child
+274,BLACK WATER is a thriller that manages to completely transcend it's limitations (it's an indie flick) by continually subverting expectations to emerge as an intense experience.  ,1,black water be a thriller that manag to complet transcend it limit it an indi flick by continu subvert expect to emerg a an intens experi
+275,"The performances are real and gripping, the crocdodile is extremely well done, indeed if the Black Water website is to be believed that's because they used real crocs and the swamp location is fabulous.  ",1,the perform be real and grip the crocdodil be extrem well do inde if the black water websit be to be believ that becaus they use real croc and the swamp locat be fabul
+276,I thoroughly enjoyed it when Christopher Eccleston took control of the TARDIS and the continuation of the series.  ,1,i thoroughli enjoy it when christoph eccleston take control of the tardi and the continu of the seri
+279,There is a lot of beautiful places.  ,1,there be a lot of beauti place
+292,An AMAZING finale to possibly the BEST trilogy of all time!  ,1,an amaz final to possibl the best trilog of all time
+293,Kieslowski never ceases to amaze me.  ,1,kieslowski never ceas to amaz me
+294,"He is one of my favourite directors, and one of the most talented directors in the history of cinema.  ",1,he be one of my favourit director and one of the most talent director in the histori of cinema
+295,"His use of the colours of the French flag in the three films was nothing short of incredible, every shot, every scene was like a work of art.  ",1,hi use of the colour of the french flag in the three film be noth short of incred everi shot everi scene be like a work of art
+296,Three of the most visually appealing movies i've ever seen.  ,1,three of the most visual appeal movi ive ever see
+297,And his subtle connections between the three films are awesome.  ,1,and hi subtl connect between the three film be awesom
+298,"I have to mention this and it is a huge SPOILER, i loved the ending, how all the characters of the three films were the remaining survivors of the ferry disaster, with Valentine and the young judge together, and the old man watching it on her TV, solidifying his happiness over the suffering which he dealt with for those many years.  ",1,i have to mention thi and it be a huge spoiler i love the end how all the charact of the three film be the remain survivor of the ferri disast with valentin and the young judg togeth and the old man watch it on her tv solidifi hi happi over the suffer which he deal with for those mani year
+299,"I couldn't think of a better way to end the film, but a smile on my face, great way to wrap up an amazing film and trilogy!  ",1,i couldnt think of a good way to end the film but a smile on my face great way to wrap up an amaz film and trilog
+300,"I recommend this for EVERYONE who loves film, movies, anything...A Work of Art!  ",1,i recommend thi for everyon who love film movi anythinga work of art
+301,10 out of 10 for both the movie and trilogy.  ,1,10 out of 10 for both the movi and trilog
+303,I think i was one of the people who found this another one of roth's pearls.  ,1,i think i be one of the peopl who find thi anoth one of roth pearl
+304,"his performance, as awarded, was stunning.  ",1,hi perform a award be stun
+305,"the story which was told so eloquently by Francis ford Coppola 25 years earlier, really unfolds gradually and leaves room for the characters to develop.  ",1,the stori which be tell so eloqu by franci ford coppola 25 year earlier realli unfold gradual and leav room for the charact to develop
+306,In a most wonderful location lies a story of contrast.  ,1,in a most wonder locat lie a stori of contrast
+307,All in all a beautiful directed film from Nicola's roeg wih a sublime cast.  ,1,all in all a beauti direct film from nicola roeg wih a sublim cast
+312,This is such a fun and funny movie.  ,1,thi be such a fun and funni movi
+313,Highly entertaining at all angles.  ,1,highli entertain at all angl
+314,"It features an outlandish array of memorable, psychotic but lovable nuts.  ",1,it featur an outlandish array of memor psychot but lovabl nut
+315,"So for our enjoyment we get to see them run around, play games, and be dangerous.  ",1,so for our enjoy we get to see them run around play game and be danger
+316,It even has its sweet moments.  ,1,it even have it sweet moment
+317,The telephone repair man was really funny and his reactions to the nuts and bitchy boss were truly genuine.  ,1,the telephon repair man be realli funni and hi reaction to the nut and bitchi bo be truli genuin
+318,All the characters in this film are tremendously well played.  ,1,all the charact in thi film be tremend well play
+319,And I really did find them funny.  ,1,and i realli do find them funni
+320,This is actually a very smart movie.  ,1,thi be actual a veri smart movi
+321,There is a brilliant twist ending.  ,1,there be a brilliant twist end
+322,I love it.  ,1,i love it
+323,"The ending is so, SO perfect... you'll shed a tear.  ",1,the end be so so perfect youll shed a tear
+324,I am so thrilled after seeing a movie like this.  ,1,i be so thrill after see a movi like thi
+325,I will never forget it now.  ,1,i will never forget it now
+326,It is not just a cult... it is a cult CLASSIC.  ,1,it be not just a cult it be a cult classic
+341,It is a really good show to watch.  ,1,it be a realli good show to watch
+342,It is very educational for children 1 to 8 years old.  ,1,it be veri educ for child 1 to 8 year old
+343,Barney is definitely super DE duper.  ,1,barney be definit super de duper
+344,is pretty funny.  ,1,be pretti funni
+345,Babie Bop is very cute.  ,1,babi bop be veri cute
+346,The kids are very cool too.  ,1,the kid be veri cool too
+353,I would give this television series a 10 plus if i could.  ,1,i would give thi televis seri a 10 plu if i could
+354,"The writers were ""smack on"" and I think the best actors and actresses were a bonus to the show.These characters were so real.  ",1,the writer be smack on and i think the best actor and actress be a bonu to the showthes charact be so real
+355,I must say I have taped most of the episodes and i find myself watching them over and over again.  ,1,i must say i have tap most of the episod and i find myself watch them over and over again
+356,Now you know why I gave it a 10+!  ,1,now you know whi i give it a 10
+357,"I don't know exactly what it is about this movie, but we latched on to this endearing movie and it has become a special part of our family's memories.  ",1,i dont know exactli what it be about thi movi but we latch on to thi endear movi and it have becom a special part of our famili memori
+358,I totally and absolutely recommend this movie to anyone who likes good wholesome family movies because that is exactly what this is.  ,1,i total and absolut recommend thi movi to anyon who like good wholesom famili movi becaus that be exactli what thi be
+359,The things that the four kids get themselves into is absolutely hilarious to watch.  ,1,the thing that the four kid get themselv into be absolut hilari to watch
+360,This is one of the best movies out there that shows such strong sibling bond for each other.  ,1,thi be one of the best movi out there that show such strong sibl bond for each other
+361,"Much more interesting, more action, more suspense, and less of the unneeded controversy.  ",1,much more interest more action more suspens and less of the unneed controversi
+362,Everything from acting to cinematography was solid.  ,1,everyth from act to cinematographi be solid
+363,Definitely worth checking out.  ,1,definit worth check out
+364,Damian is so talented and versatile in so many ways of writing and portraying different Characters on screen.  ,1,damian be so talent and versatil in so mani way of write and portray differ charact on screen
+365,This movie has a cutting edge to it.  ,1,thi movi have a cut edg to it
+366,"I am so pleased to know such a modern day genius is out there , letting is passion for Art drive him and taking us as an audience with him.  ",1,i be so pleas to know such a modern day geniu be out there let be passion for art drive him and take u a an audienc with him
+375,"Elias Koteas,Jack Palance play good roles Angelina is hot and gets naked.Billy Drago appears in this and is cool as usual + a cameo by Sven ole Thorsen helps make this a very enjoyable movie with good acting and a decent budget.  ",1,elia koteasjack palanc play good role angelina be hot and get nakedbilli drago appear in thi and be cool a usual a cameo by sven ole thorsen help make thi a veri enjoy movi with good act and a decent budget
+376,This was such an awesome movie that i bought it off of Ebay.  ,1,thi be such an awesom movi that i buy it off of ebay
+377,"I really loved the story line and the poler bear was kinda cute.But if anyone has a question about Fort Steele, just ask away:)  ",1,i realli love the stori line and the poler bear be kinda cutebut if anyon have a question about fort steel just ask away
+382,"I think the most wonderful parts (literally, full of ""wonder"") are the excerpts from his works.  ",1,i think the most wonder part liter full of wonder be the excerpt from hi work
+383,"The sets (especially designed to work with the camera) are amazing....stylized, beautiful and effective.  ",1,the set especi design to work with the camera be amazingstyl beauti and effect
+384,They could be used as exemplars for any set designer.  ,1,they could be use a exemplar for ani set design
+385,The stories were powerful explorations of the nature of man and of art.  ,1,the stori be power explor of the natur of man and of art
+386,"After watching this film, I wanted to learn more about the works of this artist.  ",1,after watch thi film i want to learn more about the work of thi artist
+387,"I highly recommend this movie for anyone interested in art, poetry, theater, politics, or Japanese history.  ",1,i highli recommend thi movi for anyon interest in art poetri theater polit or japanes histori
+388,"Here, in The Wind and the Lion, we see a wonderful rendering of America's own Imperial age.  ",1,here in the wind and the lion we see a wonder render of america own imperi age
+389,") What makes this story different are the terrific production values - faultless photography, composition and editing - the terrific casting - the underappreciated Brian Keith playing a bully Teddy - and vivid history.  ",1,what make thi stori differ be the terrif product valu faultless photographi composit and edit the terrif cast the underappreci brian keith play a bulli teddi and vivid histori
+390,"Though The Wind and the Lion is told largely through the eyes of the son, every member of the family can identify with one of the characters, whether it be Sean Connery's noble brigand, Candace Bergen's feisty heroine, John Huston's wily John Hay or Steve Kanaly's spiffy, radiant, ruthless can-do lieutenant, Roosevelt's ""Big Stick"".  ",1,though the wind and the lion be tell larg through the eye of the son everi member of the famili can identifi with one of the charact whether it be sean conneri nobl brigand candac bergen feisti heroin john huston wili john hay or steve kanali spiffi radiant ruthless cando lieuten roosevelt big stick
+391,This is high adventure at its best.  ,1,thi be high adventur at it best
+392,"I think it was Robert Ryans best film, because he portrayed someone like my father, and he was a schizophrenic in real life,(my father) although he never murdered anyone but was affected more so during the second world war which made him worse.  ",1,i think it be robert ryan best film becaus he portray someon like my father and he be a schizophren in real lifemi father although he never murder anyon but be affect more so dure the second world war which make him wors
+393,Having to humour him just to get by and get through the day was so apt.  ,1,have to humour him just to get by and get through the day be so apt
+394,"(My mother and brother had to do this)When I saw Robert Ryan portraying this type of man, it was a very good imitation of this type of individual, and I was impressed.  ",1,my mother and brother have to do thiswhen i saw robert ryan portray thi type of man it be a veri good imit of thi type of individu and i be impress
+398,Non-linear narration thus many flashbacks and every part are articulated quite well.  ,1,nonlinear narrat thu mani flashback and everi part be articul quit well
+399,The good cinematography also makes her and Monica Bellucci look very beautiful.  ,1,the good cinematographi also make her and monica bellucci look veri beauti
+400,A good commentary of today's love and undoubtedly a film worth seeing.  ,1,a good commentari of today love and undoubtedli a film worth see
+401,"For people who are first timers in film making, I think they did an excellent job!!  ",1,for peopl who be first timer in film make i think they do an excel job
+402,"It was very popular when I was in the cinema, a good house and very good reactions and plenty of laughs.  ",1,it be veri popular when i be in the cinema a good hous and veri good reaction and plenti of laugh
+403,It's a feel-good film and that's how I felt when I came out of the cinema!  ,1,it a feelgood film and that how i felt when i come out of the cinema
+404,It has northern humour and positive about the community it represents.  ,1,it have northern humour and posit about the commun it repres
+405,I rather enjoyed it.  ,1,i rather enjoy it
+406,I liked it.  ,1,i like it
+408,It really created a unique feeling though.  ,1,it realli creat a uniqu feel though
+409,Vivian Schilling did an excellent job with the script.  ,1,vivian schill do an excel job with the script
+410,A world better than 95% of the garbage in the theatres today.  ,1,a world good than 95 of the garbag in the theatr today
+411,Her role was played well.  ,1,her role be play well
+412,Not too screamy not to masculine but just right.  ,1,not too screami not to masculin but just right
+413,The camera really likes her in this movie.  ,1,the camera realli like her in thi movi
+414,I would have casted her in that role after ready the script.  ,1,i would have cast her in that role after readi the script
+415,"As a European, the movie is a nice throwback to my time as a student in the 1980's and the experiences I had living abroad and interacting with other nationalities, although the circumstances were slightly different.  ",1,a a european the movi be a nice throwback to my time a a student in the 1980 and the experi i have live abroad and interact with other nation although the circumst be slightli differ
+421,"This movie is excellent!Angel is beautiful and Scamp is adorable!His little yelps when hes scared,and the funniest parts are when:Scamp is caught under the curtain and when Angel and Scamp are singing 'Ive Never Had This Feeling Before'.I totally recommend this movie,its coming out on special edition on June 20.The cover has scamp on a garbage can and Angel underneath the lid.  ",1,thi movi be excellentangel be beauti and scamp be adorablehi littl yelp when he scaredand the funni part be whenscamp be catch under the curtain and when angel and scamp be sing ive never have thi feel beforei total recommend thi movieit come out on special edit on june 20the cover have scamp on a garbag can and angel underneath the lid
+422,"I just cant explain this movie more than romantic,charming,hilarious,and adorable.The junkyard scenes are funny,all the junkyard dogs have something special.Too funny i laughed,kids will LOVE it.Buy it when it comes out,it has new features!  ",1,i just cant explain thi movi more than romanticcharminghilariousand adorableth junkyard scene be funnyal the junkyard dog have someth specialtoo funni i laughedkid will love itbuy it when it come outit have new featur
+435,"An interesting premise, and Billy Drago is always good as a dangerous nut-bag (side note: I'd love to see Drago, Stephen McHattie and Lance Hendrikson in a flick together; talk about raging cheekbones!).  ",1,an interest premis and billi drago be alway good a a danger nutbag side note id love to see drago stephen mchatti and lanc hendrikson in a flick togeth talk about rag cheekbon
+436,"The soundtrack wasn't terrible, either.  ",1,the soundtrack wasnt terribl either
+438,"Still, it was the SETS that got a big ""10"" on my ""oy-vey"" scale.  ",1,still it be the set that get a big 10 on my oyvey scale
+440,Both do good jobs and are quite amusing.  ,1,both do good job and be quit amus
+443,The last 15 minutes of movie are also not bad as well.  ,1,the last 15 minut of movi be also not bad a well
+446,"I like Armand Assante & my cable company's summary sounded interesting, so I watched it, twice already, and probably will again.  ",1,i like armand assant my cabl compani summari sound interest so i watch it twice alreadi and probabl will again
+447,I believe the screenwriter did a good job of tying up the loose ends.  ,1,i believ the screenwrit do a good job of tie up the loos end
+448,My 8/10 score is mostly for the plot.  ,1,my 810 score be mostli for the plot
+449,"I won't say any more - I don't like spoilers, so I don't want to be one, but I believe this film is worth your time.  ",1,i wont say ani more i dont like spoiler so i dont want to be one but i believ thi film be worth your time
+467,I was deeply impressed with the character he played.  ,1,i be deepli impress with the charact he play
+468,I knew when I saw the film that more great things were to come from this gifted actor.  ,1,i know when i saw the film that more great thing be to come from thi gift actor
+482,"I loved this movie it was a great portrayal of a family who had it's share of ups and down, but in the end they knew that special love they had for each other.  ",1,i love thi movi it be a great portray of a famili who have it share of up and down but in the end they know that special love they have for each other
+483,"I have seen many movies starring Jaclyn Smith, but my god this was one of her best, though it came out 12 years ago.  ",1,i have see mani movi star jaclyn smith but my god thi be one of her best though it come out 12 year ago
+484,"This movie contained an all-star cast, and what I loved the most was that it opened my eyes to see other actors who I haven't seen before.  ",1,thi movi contain an allstar cast and what i love the most be that it open my eye to see other actor who i havent see befor
+485,"This movie was kind of long in length, but I enjoyed every minute of it.  ",1,thi movi be kind of long in length but i enjoy everi minut of it
+486,Overall I rate this movie a 10 out of a 1-10 scale.  ,1,overal i rate thi movi a 10 out of a 110 scale
+487,"Lifetime does not air it enough, so if anyone knows what store sells it let me know because this is a must-have.  ",1,lifetim do not air it enough so if anyon know what store sell it let me know becaus thi be a musthav
+490,"Totally different, with loads of understatement and black comedy, this is a film few get to see, but those who do will remember it.  ",1,total differ with load of understat and black comedi thi be a film few get to see but those who do will rememb it
+491,"This movie creates its own universe, and is fascinating in every way.  ",1,thi movi creat it own univers and be fascin in everi way
+492,But this movie really got to me.  ,1,but thi movi realli get to me
+493,See it.  ,1,see it
+494,"I really hope the team behind this movie makes more movies, and that they will continue to do so in their own, some kinda weird style.  ",1,i realli hope the team behind thi movi make more movi and that they will continu to do so in their own some kinda weird style
+495,"And I forgot: The Casting here i superb, with Trond Fausa Aurvåg being perfect in the role as the Bothersome Man, who doesn't understand where he is, what he is doing and why.  ",1,and i forget the cast here i superb with trond fausa aurvåg be perfect in the role a the bothersom man who doesnt understand where he be what he be do and whi
+496,This movie is a good and humorous comment on life in 2006.  ,1,thi movi be a good and humor comment on life in 2006
+497,"I found this move beautiful, enjoyable, and uplifting.  ",1,i find thi move beauti enjoy and uplift
+498,"Initially the local sites in the film, which was filmed here in Buffalo, intrigued me.  ",1,initi the local site in the film which be film here in buffalo intrigu me
+499,Later I found myself lost in the power of the film.  ,1,later i find myself lose in the power of the film
+500,The entire audience applauded at the conclusion of the film.  ,1,the entir audienc applaud at the conclus of the film
+501,"I left the theater with a lilt in my step, joy in my heart and hope for the human race.  ",1,i leav the theater with a lilt in my step joy in my heart and hope for the human race
+502,Duris has a wholesome appearance and gives a fine performance.  ,1,duri have a wholesom appear and give a fine perform
+503,The rest of the cast also play well.  ,1,the rest of the cast also play well
+504,Cinematography noteworthy including fine views of Barcelona and its famed Gaudi towers.  ,1,cinematographi noteworthi includ fine view of barcelona and it fame gaudi tower
+511,The cast is good.  ,1,the cast be good
+512,"For that, it's worth checking out.  ",1,for that it worth check out
+531,the cast was great.  ,1,the cast be great
+532,"steve martin delivers a really funny performance of a middle-aged, upper class, uptight white guy.  ",1,steve martin deliv a realli funni perform of a middleag upper class uptight white guy
+533,add betty white and jean smart and you have a great cast - everyone played their parts really well.  ,1,add betti white and jean smart and you have a great cast everyon play their part realli well
+540,STEAMBOAT WILLIE is an amazingly important film to our cinema history.  ,1,steamboat willi be an amazingli import film to our cinema histori
+541,This second appearance of Mickey Mouse (following the silent PLANE CRAZY earlier that year) is probably his most famous film--mostly because it was so ground-breaking.  ,1,thi second appear of mickey mous follow the silent plane crazi earlier that year be probabl hi most famou filmmostli becaus it be so groundbreak
+542,"While you don't yet hear Mickey speak, there are tons of sound effects and music throughout the film--something we take for granted now but which was a huge crowd pleaser in 1928.  ",1,while you dont yet hear mickey speak there be ton of sound effect and music throughout the filmsometh we take for grant now but which be a huge crowd pleaser in 1928
+543,"However, after seeing the short again after about 25 years, I was amazed at how timeless the film actually is.  ",1,howev after see the short again after about 25 year i be amaz at how timeless the film actual be
+544,"It's just adorable seeing Mickey playing ""Turkey in the Straw"" in a highly imaginative (if occasionally cruel) way.  ",1,it just ador see mickey play turkey in the straw in a highli imagin if occasion cruel way
+545,Clever and a real crowd-pleaser--this film still ranks among Mickey's best films even after 80 wonderful years.  ,1,clever and a real crowdpleaserthi film still rank among mickey best film even after 80 wonder year
+548,The original Body and Soul (1947) is a masterpiece.  ,1,the origin bodi and soul 1947 be a masterpiec
+549,"John Garfield, Ann revere, Lilli Plmer, William Conrad, Canada Lee...and filmed by one of the greatest cinematographers to ever grace the screen..James Wong Howe.  ",1,john garfield ann rever lilli plmer william conrad canada leeand film by one of the great cinematograph to ever grace the screenjam wong howe
+569,"Okay, I like to consider myself a fair critic, so I'll give credit where credit's due--the creature effects were actually pretty cool.  ",1,okay i like to consid myself a fair critic so ill give credit where credit dueth creatur effect be actual pretti cool
+570,"Gotta love those close-ups of slimy, drooling teeth!  ",1,get ta love those closeup of slimi drool teeth
+577,The film's sole bright spot was Jonah Hill (who will look almost unrecognizable to fans of the recent Superbad due to the amount of weight he lost in the interim).  ,1,the film sole bright spot be jonah hill who will look almost unrecogniz to fan of the recent superbad due to the amount of weight he lose in the interim
+592,"Being a 90's child, I truly enjoyed this show and I can proudly say that I enjoyed it big time and even more than the classical WB cartoons.  ",1,be a 90 child i truli enjoy thi show and i can proudli say that i enjoy it big time and even more than the classic wb cartoon
+593,"But ""Tiny Toons"" kept the 90's vibe and delivered one of the most popular, funny, and underrated cartoons ever created.  ",1,but tini toon keep the 90 vibe and deliv one of the most popular funni and underr cartoon ever creat
+594,The memories are murky but I can only say that I enjoyed every single episode and product related to the show.  ,1,the memori be murki but i can onli say that i enjoy everi singl episod and product relat to the show
+595,"Easily, none other cartoon made me laugh in a tender way (before getting into dark sitcoms oriented for teenagers).  ",1,easili none other cartoon make me laugh in a tender way befor get into dark sitcom orient for teenag
+596,The characters were all funny and had the peculiarity of not having a true lead character.  ,1,the charact be all funni and have the peculiar of not have a true lead charact
+597,Every single character was hilarious and deserved to be called a lead.  ,1,everi singl charact be hilari and deserv to be call a lead
+600,Perabo has a nice energy level and is obviously very comfortable in front of a camera.  ,1,perabo have a nice energi level and be obvious veri comfort in front of a camera
+611,I believe that Pitch Black was done well.  ,1,i believ that pitch black be do well
+612,"The characters are interesting and you want to find out more about them the longer the movie goes on, and I think people will be surprised by who does and doesn't make it.  ",1,the charact be interest and you want to find out more about them the longer the movi go on and i think peopl will be surpris by who do and doesnt make it
+613,Go watch it!  ,1,go watch it
+615,VERY funny!  ,1,veri funni
+617,The characters are interesting and you really care for them.  ,1,the charact be interest and you realli care for them
+618,"An instant classic, with a great soundtrack and a catchy song during the ending credits.  ",1,an instant classic with a great soundtrack and a catchi song dure the end credit
+619,Don't miss it.  ,1,dont miss it
+620,"This is a masterful piece of film-making, with many themes simmering and occasionally boiling over in this warts and all study of the poet's bohemian, self-indulgent wartime years that span the aerial bombardments of London and the outward tranquillity of a Welsh coastal retreat - the borderlines between friendship, lust and love, dedication to art and experience versus practical concerns, jealousy, rivalry, cowardice and egotism versus heroism and self-sacrifice and more.  ",1,thi be a master piec of filmmak with mani theme simmer and occasion boil over in thi wart and all studi of the poet bohemian selfindulg wartim year that span the aerial bombard of london and the outward tranquil of a welsh coastal retreat the borderlin between friendship lust and love dedic to art and experi versu practic concern jealousi rivalri cowardic and egot versu heroism and selfsacrific and more
+621,"A mature, subtle script that suggests and occasionally brings into dramatic focus the underlying tensions is well served by perfect performances (apart from the odd inappropriate smiling that Keira Knightley is prone to, though perhaps under direction this time as the other characters themselves often mention it).  ",1,a matur subtl script that suggest and occasion bring into dramat focu the underli tension be well serv by perfect perform apart from the odd inappropri smile that keira knightley be prone to though perhap under direct thi time a the other charact themselv often mention it
+622,"But above all the exquisite visual composition of each moment, with inventive and elegant use of close-up, camera angle and lighting, including pointillistic faux home movie footage, is a wonder and joy to behold.  ",1,but abov all the exquisit visual composit of each moment with invent and eleg use of closeup camera angl and light includ pointillist faux home movi footag be a wonder and joy to behold
+623,"It's as continuously beautiful to look at as a Bertolucci, but the relationships here are more convincing and the narrative more engaging than some of that master's work.  ",1,it a continu beauti to look at a a bertolucci but the relationship here be more convinc and the narr more engag than some of that master work
+627,"I saw this film over Christmas, and what a great film it was!  ",1,i saw thi film over christma and what a great film it be
+628,I thought Errol Flynn was brilliant as Custer and has since become my favourite actor!  ,1,i think errol flynn be brilliant a custer and have sinc becom my favourit actor
+629,His acting alongside Olivia De Havilland was brilliant and the ending was fantastic!  ,1,hi act alongsid olivia de havilland be brilliant and the end be fantast
+630,"I had always known that Errol Flynn was a brilliant actor as he was my dads favourite actor, and I grew up watching his films as a child.  ",1,i have alway know that errol flynn be a brilliant actor a he be my dad favourit actor and i grow up watch hi film a a child
+631,But it wasn't until I watched this film that I realised how great he actually was.  ,1,but it wasnt until i watch thi film that i realis how great he actual be
+632,I'll give this film 10 out of 10!  ,1,ill give thi film 10 out of 10
+635,"Lovely little thriller from Hitchcock, with lots of nice shenanigans surrounding a murdered spy, a kidnapped child, a nasty church, a foreign plot and some random taxidermists.  ",1,love littl thriller from hitchcock with lot of nice shenanigan surround a murder spi a kidnap child a nasti church a foreign plot and some random taxidermist
+636,"Jimmy Stewart is as ever a great hero for Hitchcock, the story rips along to its cool climax at an embassy function, but it lacks the brooding menace of Hitchcock's black and white, low-budget original.  ",1,jimmi stewart be a ever a great hero for hitchcock the stori rip along to it cool climax at an embassi function but it lack the brood menac of hitchcock black and white lowbudget origin
+637,Nevertheless yet another wonderful film from the great master's stable.  ,1,nevertheless yet anoth wonder film from the great master stabl
+638,I have to say that this film was excellently produced and tops the ratings as a typical sci fi film!  ,1,i have to say that thi film be excel produc and top the rate a a typic sci fi film
+639,Excellently produced by one of Sci-fi's best producers Scot Vandiver !  ,1,excel produc by one of scifi best produc scot vandiv
+640,"But it is entertaining, nonetheless.  ",1,but it be entertain nonetheless
+641,It's a campy sort of film that's a joy to watch.  ,1,it a campi sort of film that a joy to watch
+642,There's barely a boring moment in the film and there are plenty of humorous parts.  ,1,there bare a bore moment in the film and there be plenti of humor part
+643,The cast is always entertaining as usual.  ,1,the cast be alway entertain a usual
+644,"Overall, a delight!  ",1,overal a delight
+648,This movie does an excellent job of revealing the complexity of the task and the incredible challenges facing South Africa.  ,1,thi movi do an excel job of reveal the complex of the task and the incred challeng face south africa
+649,I believe every one should see this movie as I think few people outside of South Africa understand its past and what is being attempted in the Truth and Reconciliation process.  ,1,i believ everi one should see thi movi a i think few peopl outsid of south africa understand it past and what be be attempt in the truth and reconcili process
+650,Nothing short of magnificent photography/cinematography in this film.  ,1,noth short of magnific photographycinematographi in thi film
+651,"The acting is fantastic, the stories are seamlessly woven together, and the dogs are splendid............. A must rent, view, or see.  ",1,the act be fantast the stori be seamlessli weav togeth and the dog be splendid a must rent view or see
+652,Don't be afraid of subtitles........ its worth a little aversion therapy 10/10  ,1,dont be afraid of subtitl it worth a littl avers therapi 1010
+653,Excellent performance.  ,1,excel perform
+654,There still are good actors around!  ,1,there still be good actor around
+655,Also great directing and photography.  ,1,also great direct and photographi
+656,"Very true to Shakespear, and a 'must' for all Shakespear fans.  ",1,veri true to shakespear and a must for all shakespear fan
+657,"Macbeth (Jason Connery) moved me to tears with his final monolog (out brief candle, out)He gave the sphere of moral decay and dark forces a human face, which makes it the more interesting.  ",1,macbeth jason conneri move me to tear with hi final monolog out brief candl outh give the sphere of moral decay and dark forc a human face which make it the more interest
+658,"Helen Baxendale is a very credible lady Macbeth who can be very cheerfull at times and sometimes she just looks like a naughty girl, but deadly in her taste for blood and evil.  ",1,helen baxendal be a veri credibl ladi macbeth who can be veri cheerful at time and sometim she just look like a naughti girl but deadli in her tast for blood and evil
+659,"If you love death and decay, and Shakespears lyrics... this is the one.  ",1,if you love death and decay and shakespear lyric thi be the one
+660,"This is a witty and delightful adaptation of the Dr Seuss book, brilliantly animated by UPA's finest and thoroughly deserving of its Academy Award.  ",1,thi be a witti and delight adapt of the dr seuss book brilliantli anim by upa finest and thoroughli deserv of it academi award
+661,"Special mention should be made of the superb music score and sound effects, which are an integral element in helping to make this such a memorable and enjoyable cartoon.  ",1,special mention should be make of the superb music score and sound effect which be an integr element in help to make thi such a memor and enjoy cartoon
+662,"However Paul Schrader has indeed made a film ""about"" Mishima that is both superb & complex.  ",1,howev paul schrader have inde make a film about mishima that be both superb complex
+663,Also notable is John Bailey's fine crisp beautifully colored cinematography and the great production design & costumes by Eiko Ishioka who went on to do the memorable costumes for Coppola's Dracula for which she received a well deserved Oscar.  ,1,also notabl be john bailey fine crisp beauti color cinematographi and the great product design costum by eiko ishioka who go on to do the memor costum for coppola dracula for which she receiv a well deserv oscar
+666,"If you do watch it, however, there are small consolations: The actresses playing Anne's sisters each do a wonderful job with their roles.  ",1,if you do watch it howev there be small consol the actress play ann sister each do a wonder job with their role
+670,This is a stunning movie.  ,1,thi be a stun movi
+671,Raw and sublimely moving.  ,1,raw and sublim move
+672,"It felt like a very gripping, intelligent stage play (but without the overly theatrical feeling one actually gets from watching people on a stage) which plays on everyone's terror of a white lie escalating to monstrous consequences.  ",1,it felt like a veri grip intellig stage play but without the overli theatric feel one actual get from watch peopl on a stage which play on everyon terror of a white lie escal to monstrou consequ
+673,All of the main players are mesmerising.  ,1,all of the main player be mesmeris
+674,Tom Wilkinson broke my heart at the end... and everyone else's judging by the amount of fumbling for hankies and hands going up to faces among males and females alike.  ,1,tom wilkinson break my heart at the end and everyon el judg by the amount of fumbl for hanki and hand go up to face among male and femal alik
+675,Julian Fellowes has triumphed again.  ,1,julian fellow have triumph again
+676,He's a national treasure.  ,1,he a nation treasur
+677,GO AND SEE IT!  ,1,go and see it
+678,This is an excellent film.  ,1,thi be an excel film
+679,The aerial scenes were well-done.  ,1,the aerial scene be welldon
+680,It was also the right balance of war and love.  ,1,it be also the right balanc of war and love
+681,"The film gives meaning to the phrase, ""Never in the history of human conflict has so much been owed by so many to so few.  ",1,the film give mean to the phrase never in the histori of human conflict have so much be owe by so mani to so few
+682,Kris Kristoffersen is good in this movie and really makes a difference.  ,1,kri kristoffersen be good in thi movi and realli make a differ
+683,A good film by a great director!  ,1,a good film by a great director
+684,This is definitely one of the better documentaries I have seen looking at family relationships and marriage.  ,1,thi be definit one of the good documentari i have see look at famili relationship and marriag
+686,This is just a great movie.  ,1,thi be just a great movi
+687,10 out of 10 stars.  ,1,10 out of 10 star
+690,Punishment Park is a brilliant piece of cinema.  ,1,punish park be a brilliant piec of cinema
+691,"Shot in the Southern California desert using his patent faux documentary style, Watkins creates a film like no other.  ",1,shot in the southern california desert use hi patent faux documentari style watkin creat a film like no other
+692,This is one of Peter Watkins most accessible films.  ,1,thi be one of peter watkin most access film
+693,I advise you to look out for it.  ,1,i advis you to look out for it
+694,You wont regret it!  ,1,you wont regret it
+695,Highly recommended A+  ,1,highli recommend a
+712,"Stanwyck and Morgan are perfectly cast in what is, in many ways, a modern equivalent of Dickens' Christmas Carol in its sensibility.  ",1,stanwyck and morgan be perfectli cast in what be in mani way a modern equival of dicken christma carol in it sensibl
+713,The success of the film depends on the casting of Sydney Greenstreet as the Alexander Yardley character.  ,1,the success of the film depend on the cast of sydney greenstreet a the alexand yardley charact
+714,The attractive set used throughout most of the film is an eye-pleasing gem.  ,1,the attract set use throughout most of the film be an eyepleas gem
+727,The transfers are very good.  ,1,the transfer be veri good
+728,Very nice and relaxing late night viewing.  ,1,veri nice and relax late night view
+729,The movie is full of wonderful dancing (hence the title!  ,1,the movi be full of wonder danc henc the titl
+730,") some great music, and terrific scenery.  ",1,some great music and terrif sceneri
+731,"It handles some tough issues with dignity and grace, and, of course, has (shocking spoiler here!  ",1,it handl some tough issu with digniti and grace and of cours have shock spoiler here
+732,") a happy, wonderful, feel good ending!  ",1,a happi wonder feel good end
+733,"The point is the journey, a journey that touches every member of the family.  ",1,the point be the journey a journey that touch everi member of the famili
+734,It's one of the movies I need to see whenever it comes on TV...never mind the fact that I already have it memorized!  ,1,it one of the movi i need to see whenev it come on tvnever mind the fact that i alreadi have it memor
+740,I just saw this film and I recommend it.  ,1,i just saw thi film and i recommend it
+741,"It has a very good plot, it holds your complete attention, the acting is superb, Tom Wilkinson was fantastic and Emily Watson was also very good.  ",1,it have a veri good plot it hold your complet attent the act be superb tom wilkinson be fantast and emili watson be also veri good
+742,"A very good film indeed, about great and unconditional love.  ",1,a veri good film inde about great and uncondit love
+743,"Tom Wilkinson's character is a man who is not prepared for the ordeal that is about to begin, but he takes the matter in hand as the story progresses, and this great actor gives a performance that makes you feel the character's anguish and suffering.  ",1,tom wilkinson charact be a man who be not prepar for the ordeal that be about to begin but he take the matter in hand a the stori progress and thi great actor give a perform that make you feel the charact anguish and suffer
+744,"Emily Watson's character is very strong, and she has only to give a quick glance and you understand everything.  ",1,emili watson charact be veri strong and she have onli to give a quick glanc and you understand everyth
+745,"Despite the pans of reviewers, I liked this movie.  ",1,despit the pan of review i like thi movi
+746,"In fact, I liked it better than Interview With a Vampire and I liked this Lestat (Stuart Townsend) better than Cruise's attempt.  ",1,in fact i like it good than interview with a vampir and i like thi lestat stuart townsend good than cruis attempt
+747,"Aailiyah was pretty good as Akasha, in places compelling (her first entrance and mini dance scene).  ",1,aailiyah be pretti good a akasha in place compel her first entranc and mini danc scene
+748,"I'm a big fan of this series mostly due to Anne Rice's style, sensitivities and treatments.  ",1,im a big fan of thi seri mostli due to ann rice style sensit and treatment
+749,I guess I liked the details of his dysfunction--he was believable.  ,1,i guess i like the detail of hi dysfunctionh be believ
+751,But I thought his acting was skilled.  ,1,but i think hi act be skill
+752,Meredith M was better than all right.  ,1,meredith m be good than all right
+753,A very charming film with wonderful sentiment and heart.  ,1,a veri charm film with wonder sentiment and heart
+754,It is rare when a film-maker takes the time to tell a worthy moral tale with care and love that doesn't fall into the trap of being overly syrupy or over indulgent.  ,1,it be rare when a filmmak take the time to tell a worthi moral tale with care and love that doesnt fall into the trap of be overli syrupi or over indulg
+755,Nine out of ten for a truly lovely film.  ,1,nine out of ten for a truli love film
+756,This early film from future goremeister Lucio Fulci is a very good addition to the giallo sub-genre.  ,1,thi earli film from futur goremeist lucio fulci be a veri good addit to the giallo subgenr
+757,This is one of the best Italian thrillers of the early 70's.  ,1,thi be one of the best italian thriller of the earli 70
+758,A standout scene.  ,1,a standout scene
+760,"Technically, the film is well made with impressive camera-work, solid acting and effective music from Riz Ortolani  particularly good is a recurring unaccompanied female vocal that sounds like it's coming from a distant hill.  ",1,technic the film be well make with impress camerawork solid act and effect music from riz ortolani particularli good be a recur unaccompani femal vocal that sound like it come from a distant hill
+761,It's still wild stuff though and is highly recommended to fans of giallo cinema.  ,1,it still wild stuff though and be highli recommend to fan of giallo cinema
+762,The movie was very interesting from beginning to the end.  ,1,the movi be veri interest from begin to the end
+763,I liked the way Dustin Hoffman's character was ready to do just about everything to stay with his son.  ,1,i like the way dustin hoffman charact be readi to do just about everyth to stay with hi son
+764,This movie is also revealing.  ,1,thi movi be also reveal
+765,"Personally, I think it shows that people should learn to find a compromise them self without involving other people into issue.  ",1,person i think it show that peopl should learn to find a compromis them self without involv other peopl into issu
+768,PS the only scene in the movie that was cool is when the central character finds her room blown up.  ,1,ps the onli scene in the movi that be cool be when the central charact find her room blow up
+769,"It's a fresh, subtle, and rather sublime effect.  ",1,it a fresh subtl and rather sublim effect
+770,"An Italian reviewer called this ""a small, great film,"" and that's right.  ",1,an italian review call thi a small great film and that right
+771,"All the actors give a wonderful performance, especially Jennifer Rubin as Jamie Harris, who changes from the nervous starlet in the beginning through the strange events she is part of to the cool star.  ",1,all the actor give a wonder perform especi jennif rubin a jami harri who chang from the nervou starlet in the begin through the strang event she be part of to the cool star
+772,"You learn a lot about the real inside emotions of people in this movie, and a lot about the movie business itself.  ",1,you learn a lot about the real insid emot of peopl in thi movi and a lot about the movi busi itself
+773,"The movie in movie situations in the beginning and through the game that is played with her by the ""acting coach"" are fascinating.  ",1,the movi in movi situat in the begin and through the game that be play with her by the act coach be fascin
+774,Also the music by Mark Snow is possibly the best score I've ever heard.  ,1,also the music by mark snow be possibl the best score ive ever heard
+775,You won't forget this movie!  ,1,you wont forget thi movi
+782,"I saw it as a child on TV back in 1973, when it was ""The Stranger"" and I loved it.  ",1,i saw it a a child on tv back in 1973 when it be the stranger and i love it
+783,But the duet between the astronaut and his doctor at the beginning of the movie is a perfect exchange if one considers that this movie was made well into the Cold War and the astronaut's biggest fear is that he has crashed in the USSR.  ,1,but the duet between the astronaut and hi doctor at the begin of the movi be a perfect exchang if one consid that thi movi be make well into the cold war and the astronaut big fear be that he have crash in the ussr
+784,This movie is so awesome!  ,1,thi movi be so awesom
+785,"I loved it, it was really scary.  ",1,i love it it be realli scari
+786,I love the Scream movies and all horror movies and this one ranks way up there.  ,1,i love the scream movi and all horror movi and thi one rank way up there
+787,If you want a real scare rent this one!  ,1,if you want a real scare rent thi one
+788,10/10  ,1,1010
+789,This is an extraordinary film.  ,1,thi be an extraordinari film
+790,"As a courtroom drama, it's compelling, as an indictment on the American justice system, it's frightening.  ",1,a a courtroom drama it compel a an indict on the american justic system it frighten
+791,"This film highlights the fundamental flaws of the legal process, that it's not about discovering guilt or innocence, but rather, is about who presents better in court.  ",1,thi film highlight the fundament flaw of the legal process that it not about discov guilt or innoc but rather be about who present good in court
+792,"The film is well paced, understated and one of the best courtroom documentaries I've seen.  ",1,the film be well pace underst and one of the best courtroom documentari ive see
+793,This mostly routine fact-based TV drama gets a boost from the fine performance by Cole.  ,1,thi mostli routin factbas tv drama get a boost from the fine perform by cole
+794,"Predictable, but not a bad watch.  ",1,predict but not a bad watch
+795,It was clear that she had the range and ability to pull off this part.  ,1,it be clear that she have the rang and abil to pull off thi part
+796,She carries the movie well.  ,1,she carri the movi well
+797,Constantine gives everything the right intensity and seems to have a good understanding of the underlying psychological motivations.  ,1,constantin give everyth the right intens and seem to have a good understand of the underli psycholog motiv
+798,"It is wonderful and inspiring to watch, and I hope that it gets released again on to video or DVD.  ",1,it be wonder and inspir to watch and i hope that it get releas again on to video or dvd
+807,Editing: The editing of this film was phenomenal in my opinion.  ,1,edit the edit of thi film be phenomen in my opinion
+808,"When a song could explain the emotions of the subjects better, such as when Jay Adams' unfortunate life was a subject of talk, the song Old Man by Neil Young was played, which evokes many emotions.  ",1,when a song could explain the emot of the subject well such a when jay adam unfortun life be a subject of talk the song old man by neil young be play which evok mani emot
+809,Cinematography: The film was shot in an interesting way.  ,1,cinematographi the film be shoot in an interest way
+810,"Of course the footage from the 70s was grainy, but that only enhanced the film.  ",1,of cours the footag from the 70 be graini but that onli enhanc the film
+811,This film offers many delights and surprises.  ,1,thi film offer mani delight and surpris
+812,"When Achille and Philippa beautifully sing a duet from ""Don Giovanni"" that perfectly describes their situation in the movie, you appreciate the subtle layers of this excellent film.  ",1,when achil and philippa beauti sing a duet from don giovanni that perfectli describ their situat in the movi you appreci the subtl layer of thi excel film
+813,The story unfolds in 18th century Jutland and the use of period music played on period instruments is just one more fine touch.  ,1,the stori unfold in 18th centuri jutland and the use of period music play on period instrument be just one more fine touch
+814,You share General Loewenhielm's exquisite joy in his partaking of the Cailles en Sarcophage even though you are just watching a movie - but you do wish for just a small sample to savor.  ,1,you share gener loewenhielm exquisit joy in hi partak of the caill en sarcophag even though you be just watch a movi but you do wish for just a small sampl to savor
+815,But this understated film leaves a lasting impression.  ,1,but thi underst film leav a last impress
+816,The warmth it generates is in contrast to its austere backdrop.  ,1,the warmth it gener be in contrast to it auster backdrop
+817,You will leave the theater wanting to go out and dance under the stars.  ,1,you will leav the theater want to go out and danc under the star
+818,"The acting, as you'd expect from this cast, is top notch.  ",1,the act a youd expect from thi cast be top notch
+819,"The characters are fleshed out surprisingly well, particularly Grimes and Blake, and all the actors deliver their sharply scripted lines with just the right amount of deadpan tongue in cheek to make the dialogue both hilarious and realistic.  ",1,the charact be flesh out surprisingli well particularli grime and blake and all the actor deliv their sharpli script line with just the right amount of deadpan tongu in cheek to make the dialogu both hilari and realist
+820,"Angus Scrimm also turns in a good performance in a somewhat brief but memorable role as the gently menacing, violin-playing anatomist Doctor Quinn.  ",1,angu scrimm also turn in a good perform in a somewhat brief but memor role a the gentli menac violinplay anatomist doctor quinn
+821,Conclusion - I loved it.  ,1,conclus i love it
+822,It's a long time since I was so entertained by a movie.  ,1,it a long time sinc i be so entertain by a movi
+823,I struggle to find anything bad to say about it.  ,1,i struggl to find anyth bad to say about it
+824,"Mark my words, this is one of those cult films like Evil Dead 2 or Phantasm that people will still be discovering and falling in love with 20, 30, 40 years down the line.  ",1,mark my word thi be one of those cult film like evil dead 2 or phantasm that peopl will still be discov and fall in love with 20 30 40 year down the line
+825,"It's pretty surprising that this wonderful film was made in 1949, as Hollywood generally had its collective heads in the sand concerning black and white issues at that time.  ",1,it pretti surpris that thi wonder film be make in 1949 a hollywood gener have it collect head in the sand concern black and white issu at that time
+826,"The film deserves strong kudos for taking this stand, for having exceptional acting from its mostly lesser-known cast and for the super-intelligent script that doesn't insult the audience or take the easy way out when it comes to white racism.  ",1,the film deserv strong kudo for take thi stand for have except act from it mostli lesserknown cast and for the superintellig script that doesnt insult the audienc or take the easi way out when it come to white racism
+827,"Plus, with the movie's rather modest budget and fast running time, it does an amazing job!  ",1,plu with the movi rather modest budget and fast run time it do an amaz job
+828,Juano Hernandez (an exceptional actor who played supporting roles in many films of the era) is a proud black man who is accused of murdering a white man in the South.  ,1,juano hernandez an except actor who play support role in mani film of the era be a proud black man who be accus of murder a white man in the south
+829,Trumbull on I LOVE LUCY).  ,1,trumbul on i love luci
+830,See it with your kids if you have a chance--it will open up some amazing dialog about how far race relations have come in the last 50 years.  ,1,see it with your kid if you have a chanceit will open up some amaz dialog about how far race relat have come in the last 50 year
+831,See both films if you can.  ,1,see both film if you can
+832,"It was that year, however, that reminded us that Huston was still at the top of his game as evinced by his faithful adaptation of James Joyce's acclaimed novella ""The Dead.  ",1,it be that year howev that remind u that huston be still at the top of hi game a evinc by hi faith adapt of jame joyc acclaim novella the dead
+833,"Feelings, thoughts...Gabriel's discomfort during the dance...all these intangibles leap to life and come within the viewer's grasp in Huston's portrayal.  ",1,feel thoughtsgabriel discomfort dure the danceal these intang leap to life and come within the viewer grasp in huston portray
+842,This movie is possibly one of the most creative works of horror ever.  ,1,thi movi be possibl one of the most creativ work of horror ever
+843,"It has everything you could want... suspense, drama, comedy, confusing subplots, native americans, brain eating... If you're looking for the be-all, end-all of brainsucking movies, look no further.  ",1,it have everyth you could want suspens drama comedi confus subplot nativ american brain eat if your look for the beall endal of brainsuck movi look no further
+844,"With great sound effects, and impressive special effects, I cant recommend this movie enough.  ",1,with great sound effect and impress special effect i cant recommend thi movi enough
+845,"Call me a nut, but I think this is one of the best movies ever.  ",1,call me a nut but i think thi be one of the best movi ever
+846,Great character actors Telly Savalas and Peter Boyle.  ,1,great charact actor telli savala and peter boyl
+858,"I won't spoil it, but the ending in pretty amazing.  ",1,i wont spoil it but the end in pretti amaz
+859,"The best scene in the movie is at the end, but I won't spoil it.  ",1,the best scene in the movi be at the end but i wont spoil it
+860,"If there was ever an indication of a writer and a director's ability to meld two highly volatile temperaments into a seamless union of creativity, then this is it!  ",1,if there be ever an indic of a writer and a director abil to meld two highli volatil tempera into a seamless union of creativ then thi be it
+861,"The result is a powerhouse achievement, made more timely now perhaps because of our culture's disturbing fascination with celebrity, and it's distorted interpretations of fame.  ",1,the result be a powerhous achiev make more time now perhap becaus of our cultur disturb fascin with celebr and it distort interpret of fame
+862,A film not easily forgotten.  ,1,a film not easili forget
+863,"But, Kevin Spacey is an excellent, verbal tsunami as Buddy Ackerman  and totally believable because he is a great actor.  ",1,but kevin spacey be an excel verbal tsunami a buddi ackerman and total believ becaus he be a great actor
+864,The scripting of the subtle comedy is unmatched by any movie in recent years.  ,1,the script of the subtl comedi be unmatch by ani movi in recent year
+865,"The characters are interesting, even if a bit predictable.  ",1,the charact be interest even if a bit predict
+866,"Highly recommended for all ages, although the younger set will probably not appreciate some of the more subtle references, they will certainly appreciate one galley scene in particular!  ",1,highli recommend for all age although the young set will probabl not appreci some of the more subtl refer they will certainli appreci one galley scene in particular
+867,Great movie!  ,1,great movi
+877,Linda Cardellini is the only thing good in this film.  ,1,linda cardellini be the onli thing good in thi film
+878,She's poised and amazing.  ,1,she pois and amaz
+897,"The fact is, this film is a wonderful, heartwarming tale about two people chasing their dreams.  ",1,the fact be thi film be a wonder heartwarm tale about two peopl chase their dream
+898,"The best part about ""Nurse Betty"" is it's unpredictability.  ",1,the best part about nurs betti be it unpredict
+899,"Director Neil LaBute uses brutal violence to seperate dreams from reality, and along with the touching drama, and hilarious comedy, you can never tell what is going to happen next.  ",1,director neil labut us brutal violenc to seper dream from realiti and along with the touch drama and hilari comedi you can never tell what be go to happen next
+903,"There is, however, some pretty good acting (at least, for this type of film).  ",1,there be howev some pretti good act at least for thi type of film
+914,I saw this short film on HBO the other day and absolutely loved it.  ,1,i saw thi short film on hbo the other day and absolut love it
+915,I didn't realize how wonderful the short really is until the last two scenes.  ,1,i didnt realiz how wonder the short realli be until the last two scene
+916,Excellent short film.  ,1,excel short film
+917,"Hopefully, the director James Cox can turn the short into a feature length film with the same cast, or win us over with a whole new film.  ",1,hope the director jam cox can turn the short into a featur length film with the same cast or win u over with a whole new film
+921,"Not much dialogue, not much music, the whole film was shot as elaborately and aesthetically like a sculpture.  ",1,not much dialogu not much music the whole film be shoot a elabor and aesthet like a sculptur
+926,"Funny, clever, hip - just like Pray's previous film, Hype!  ",1,funni clever hip just like pray previou film hype
+927,It was a long time that i didn't see a so charismatic actor on screen.  ,1,it be a long time that i didnt see a so charismat actor on screen
+928,Paolo Sorrentino has written a wonderful story about loneliness and Tony has built one of the most unforgettable characters seen in movies in recent years.  ,1,paolo sorrentino have write a wonder stori about loneli and toni have build one of the most unforgett charact see in movi in recent year
+929,The movie is not completely perfect but 'Titta Di Girolamo' will stay with you for a long time after the vision of the movie.  ,1,the movi be not complet perfect but titta di girolamo will stay with you for a long time after the vision of the movi
+930,I rate this movie 9/10.  ,1,i rate thi movi 910
+931,"I do not know if this was Emilio Estevez's directorial debut, but the pacing, the interplay and development of the characters as well as some clever camera work surrounding the character Estevez plays all suggest a natural eye.  ",1,i do not know if thi be emilio estevez directori debut but the pace the interplay and develop of the charact as well a some clever camera work surround the charact estevez play all suggest a natur eye
+932,The interplay between Martin and Emilio contains the same wonderful chemistry we saw in Wall Street with Martin and Charlie.  ,1,the interplay between martin and emilio contain the same wonder chemistri we saw in wall street with martin and charli
+933,"Kathy Bates is wonderful in her characters subtle desperation and escapism; a variation on her character in ""At Play In The Fields Of The Lord"".  ",1,kathi bate be wonder in her charact subtl desper and escap a variat on her charact in at play in the field of the lord
+934,For readers who have already seen one of Miyazaki's films: he is still in top form and made another worthwhile experience.  ,1,for reader who have alreadi see one of miyazaki film he be still in top form and make anoth worthwhil experi
+935,"It never condescends, all the characters have good genuine hearts and believable problems.  ",1,it never condescend all the charact have good genuin heart and believ problem
+936,The two main characters may be two of the most believable children I ever saw put on screen.  ,1,the two main charact may be two of the most believ child i ever saw put on screen
+937,"They are so easy to love, but even more easy to identify with.  ",1,they be so easi to love but even more easi to identifi with
+938,This movie is great--especially if you enjoy visual arts.  ,1,thi movi be greatespeci if you enjoy visual art
+939,The scenery that the two daughters paint and photograph are beautiful.  ,1,the sceneri that the two daughter paint and photograph be beauti
+940,The story is also both funny and poignant at times.  ,1,the stori be also both funni and poignant at time
+941,"People who like European films and ""art movies"" will like this movie.  ",1,peopl who like european film and art movi will like thi movi
+942,This is truly an art movie--it actually has a lot of art in it.  ,1,thi be truli an art movieit actual have a lot of art in it
+943,Go rent it.  ,1,go rent it
+944,"However, after finally watching this film, I realized that not only had I had a closed mind to the brilliance it depicts, I also found myself watching it over and over again.  ",1,howev after final watch thi film i realiz that not onli have i have a close mind to the brillianc it depict i also find myself watch it over and over again
+945,"It's the one movie that never ceases to interest me, simply because it keeps me alert, as I try to attempt to decipher it's meanings.  ",1,it the one movi that never ceas to interest me simpli becaus it keep me alert a i tri to attempt to deciph it mean
+946,Brilliance indeed.  ,1,brillianc inde
+947,"But if you liked movies like The Matrix (and better yet, their sequels) I think you'll appreciate the thought provoking, mindblowing experience this film will give you.  ",1,but if you like movi like the matrix and good yet their sequel i think youll appreci the thought provok mindblow experi thi film will give you
+948,Think of the film being like a dream.  ,1,think of the film be like a dream
+949,Simply beautiful.  ,1,simpli beauti
+950,Both Rickman and Stowe play their roles to the hilt in this tale of a childrens' book writer who-- maybe?-- has written a subversive tract.  ,1,both rickman and stow play their role to the hilt in thi tale of a children book writer who mayb have write a subvers tract
+951,"It's a gloriously fun, fast paced and fairly accurate portrayal of the night of a raver.  ",1,it a glorious fun fast pace and fairli accur portray of the night of a raver
+952,It presents a idyllic yet serious portrayal of the ups and downs of the characters lives.  ,1,it present a idyl yet seriou portray of the up and down of the charact life
+956,But it picked up speed and got right to the point.  ,1,but it pick up speed and get right to the point
+957,"It showed exactly how the government and the scientist argued for humanity and the reasons of the ""gadget"".  ",1,it show exactli how the govern and the scientist argu for human and the reason of the gadget
+958,I enjoyed it.  ,1,i enjoy it
+959,I have recommended it to friends.  ,1,i have recommend it to friend
+960,I was particularly pleased with the acting ability of Dwight Schultz.  ,1,i be particularli pleas with the act abil of dwight schultz
+961,"Both actors truly understand and become their particular character, delivering a convincing, sincere performance.  ",1,both actor truli understand and becom their particular charact deliv a convinc sincer perform
+962,"Their on-screen chemistry, critical to the entire film, is genuine.  ",1,their onscreen chemistri critic to the entir film be genuin
+963,"The film's dialogue is natural, real to life.  ",1,the film dialogu be natur real to life
+964,"The writer, Gorman Bechard, undoubtedly did his homework because all references are industry and character-age appropriate.  ",1,the writer gorman bechard undoubtedli do hi homework becaus all refer be industri and characterag appropri
+965,The incredible soundtrack truly captures the essence of the film.  ,1,the incred soundtrack truli captur the essenc of the film
+966,"Each track commands sentiment, actually contributing to the scenes and characters.  ",1,each track command sentiment actual contribut to the scene and charact
+967,Definitely worth seeing it's the sort of thought provoking film that forces you to question your own threshold of loneliness.  ,1,definit worth see it the sort of thought provok film that forc you to question your own threshold of loneli
+968,"Hayao Miyazaki's latest and eighth film for Studio Ghibili, ""Gake No Ue No Ponyo"" (Ponyo on the Cliff by the Sea) is a wonderfully fun and imaginative look at childhood.  ",1,hayao miyazaki late and eighth film for studio ghibili gake no ue no ponyo ponyo on the cliff by the sea be a wonder fun and imagin look at childhood
+969,"At a time when it seems that film animation has been dominated by Disney/Pixar's CGI masterpieces, it is both refreshing and comforting to know that Miyazaki is still relying on traditional hand-drawn animation to tell his charming and enchanting stories.  ",1,at a time when it seem that film anim have be domin by disneypixar cgi masterpiec it be both refresh and comfort to know that miyazaki be still reli on tradit handdrawn anim to tell hi charm and enchant stori
+970,Enough can not be said of the remarkable animation in this film.  ,1,enough can not be say of the remark anim in thi film
+971,The art style has the appearance of crayon/pencil drawings and is wonderfully colorful and fanciful.  ,1,the art style have the appear of crayonpencil draw and be wonder color and fanci
+975,"Still, it makes up for all of this with a super ending that depicts a great sea vessel being taken out by the mighty frost.  ",1,still it make up for all of thi with a super end that depict a great sea vessel be take out by the mighti frost
+976,"Just consider the excellent story, solid acting and look of the film as added bonuses.  ",1,just consid the excel stori solid act and look of the film a ad bonu
+978,"Then I watched it again two Sundays ago (March 20th, 2005) and I began to really enjoy it and this time I taped the entire thing.  ",1,then i watch it again two sunday ago march 20th 2005 and i begin to realli enjoy it and thi time i tap the entir thing
+979,It is a very well acted and done TV Movie.  ,1,it be a veri well act and do tv movi
+980,Judith Light is one of my favorite actresses and I think she does a superb job in this film!  ,1,judith light be one of my favorit actress and i think she do a superb job in thi film
+981,I keep watching it over and over.  ,1,i keep watch it over and over
+982,"It's a sad movie, but very good.  ",1,it a sad movi but veri good
+983,"If you have not seen this movie, I definitely recommend it!  ",1,if you have not see thi movi i definit recommend it
+984,"She is as lovely as usual, this cutie!  ",1,she be as love a usual thi cuti
+985,Still it's quite interesting and entertaining to follow.  ,1,still it quit interest and entertain to follow
+986,;) Recommend with confidence!  ,1,recommend with confid
+987,This movie is well-balanced with comedy and drama and I thoroughly enjoyed myself.  ,1,thi movi be wellbalanc with comedi and drama and i thoroughli enjoy myself
+988,It was a riot to see Hugo Weaving play a sex-obsessed gay real estate salesman who uses his clients' houses for his trysts with the flaming Darren (Tom Hollander).  ,1,it be a riot to see hugo weav play a sexobsess gay real estat salesman who use hi client hous for hi tryst with the flame darren tom holland
+989,":) Anyway, the plot flowed smoothly and the male-bonding scenes were a hoot.  ",1,anyway the plot flow smoothli and the malebond scene be a hoot
+990,"The opening sequence of this gem is a classic, and the cat n mouse games that follow are a delight to watch.  ",1,the open sequenc of thi gem be a classic and the cat n mous game that follow be a delight to watch
+991,Fans of the genre will be in heaven.  ,1,fan of the genr will be in heaven
+992,Lange had become a great actress.  ,1,lang have becom a great actress
+993,It looked like a wonderful story.  ,1,it look like a wonder stori
+1000,Wow... Loved this place.,1,wow love thi place
+1003,Stopped by during the late May bank holiday off Rick Steve recommendation and loved it.,1,stop by dure the late may bank holiday off rick steve recommend and love it
+1004,The selection on the menu was great and so were the prices.,1,the select on the menu be great and so be the price
+1008,The fries were great too.,1,the fri be great too
+1009,A great touch.,1,a great touch
+1010,Service was very prompt.,1,servic be veri prompt
+1013,"I tried the Cape Cod ravoli, chicken,with cranberry...mmmm!",1,i tri the cape cod ravoli chickenwith cranberrymmmm
+1016,Highly recommended.,1,highli recommend
+1021,"The food, amazing.",1,the food amaz
+1022,Service is also cute.,1,servic be also cute
+1023,I could care less... The interior is just beautiful.,1,i could care less the interior be just beauti
+1024,So they performed.,1,so they perform
+1025,That's right....the red velvet cake.....ohhh this stuff is so good.,1,that rightth red velvet cakeohhh thi stuff be so good
+1027,"This hole in the wall has great Mexican street tacos, and friendly staff.",1,thi hole in the wall have great mexican street taco and friendli staff
+1030,"Also there are combos like a burger, fries, and beer for 23 which is a decent deal.",1,also there be combo like a burger fri and beer for 23 which be a decent deal
+1032,I found this place by accident and I could not be happier.,1,i find thi place by accid and i could not be happi
+1034,"Overall, I like this place a lot.",1,overal i like thi place a lot
+1035,The only redeeming quality of the restaurant was that it was very inexpensive.,1,the onli redeem qualiti of the restaur be that it be veri inexpens
+1036,Ample portions and good prices.,1,ampl portion and good price
+1038,My first visit to Hiro was a delight!,1,my first visit to hiro be a delight
+1040,The shrimp tender and moist.,1,the shrimp tender and moist
+1043,"On a positive note, our server was very attentive and provided great service.",1,on a posit note our server be veri attent and provid great servic
+1045,The only thing I did like was the prime rib and dessert section.,1,the onli thing i do like be the prime rib and dessert section
+1047,"The burger is good beef, cooked just right.",1,the burger be good beef cook just right
+1048,If you want a sandwich just go to any Firehouse!!!!!,1,if you want a sandwich just go to ani firehous
+1049,"My side Greek salad with the Greek dressing was so tasty, and the pita and hummus was very refreshing.",1,my side greek salad with the greek dress be so tasti and the pita and hummu be veri refresh
+1050,We ordered the duck rare and it was pink and tender on the inside with a nice char on the outside.,1,we order the duck rare and it be pink and tender on the insid with a nice char on the outsid
+1051,He came running after us when he realized my husband had left his sunglasses on the table.,1,he come run after u when he realiz my husband have leav hi sunglass on the tabl
+1052,Their chow mein is so good!,1,their chow mein be so good
+1054,The portion was huge!,1,the portion be huge
+1055,"Loved it...friendly servers, great food, wonderful and imaginative menu.",1,love itfriendli server great food wonder and imagin menu
+1058,"The salad had just the right amount of sauce to not over power the scallop, which was perfectly cooked.",1,the salad have just the right amount of sauc to not over power the scallop which be perfectli cook
+1061,This place receives stars for their APPETIZERS!!!,1,thi place receiv star for their appet
+1062,The cocktails are all handmade and delicious.,1,the cocktail be all handmad and delici
+1063,We'd definitely go back here again.,1,wed definit go back here again
+1064,We are so glad we found this place.,1,we be so glad we find thi place
+1065,"Great food and service, huge portions and they give a military discount.",1,great food and servic huge portion and they give a militari discount
+1066,Always a great time at Dos Gringos!,1,alway a great time at do gringo
+1067,Update.....went back for a second time and it was still just as amazing,1,updatew back for a second time and it be still just a amaz
+1069,A great way to finish a great.,1,a great way to finish a great
+1070,"The deal included 5 tastings and 2 drinks, and Jeff went above and beyond what we expected.",1,the deal includ 5 tast and 2 drink and jeff go abov and beyond what we expect
+1071,"- Really, really good rice, all the time.",1,realli realli good rice all the time
+1077,The sweet potato fries were very good and seasoned well.,1,the sweet potato fri be veri good and season well
+1078,Today is the second time I've been to their lunch buffet and it was pretty good.,1,today be the second time ive be to their lunch buffet and it be pretti good
+1083,This place has it!,1,thi place have it
+1085,I love the Pho and the spring rolls oh so yummy you have to try.,1,i love the pho and the spring roll oh so yummi you have to tri
+1087,All I have to say is the food was amazing!!!,1,all i have to say be the food be amaz
+1088,Omelets are to die for!,1,omelet be to die for
+1089,Everything was fresh and delicious!,1,everyth be fresh and delici
+1091,"It's like a really sexy party in your mouth, where you're outrageously flirting with the hottest person at the party.",1,it like a realli sexi parti in your mouth where your outrag flirt with the hot person at the parti
+1093,Best breakfast buffet!!!,1,best breakfast buffet
+1096,Will be back again!,1,will be back again
+1097,Food arrived quickly!,1,food arriv quickli
+1099,"On the up side, their cafe serves really good food.",1,on the up side their cafe serf realli good food
+1100,"Our server was fantastic and when he found out the wife loves roasted garlic and bone marrow, he added extra to our meal and another marrow to go!",1,our server be fantast and when he find out the wife love roast garlic and bone marrow he add extra to our meal and anoth marrow to go
+1101,"The only good thing was our waiter, he was very helpful and kept the bloddy mary's coming.",1,the onli good thing be our waiter he be veri help and keep the bloddi mari come
+1102,"Best Buffet in town, for the price you cannot beat it.",1,best buffet in town for the price you can not beat it
+1103,"I LOVED their mussels cooked in this wine reduction, the duck was tender, and their potato dishes were delicious.",1,i love their mussel cook in thi wine reduct the duck be tender and their potato dish be delici
+1104,This is one of the better buffets that I have been to.,1,thi be one of the good buffet that i have be to
+1105,So we went to Tigerlilly and had a fantastic afternoon!,1,so we go to tigerlilli and have a fantast afternoon
+1106,"The food was delicious, our bartender was attentive and personable AND we got a great deal!",1,the food be delici our bartend be attent and person and we get a great deal
+1107,The ambience is wonderful and there is music playing.,1,the ambienc be wonder and there be music play
+1108,Will go back next trip out.,1,will go back next trip out
+1109,Sooooo good!!,1,sooooo good
+1112,This is a really fantastic Thai restaurant which is definitely worth a visit.,1,thi be a realli fantast thai restaur which be definit worth a visit
+1113,"Nice, spicy and tender.",1,nice spici and tender
+1114,Good prices.,1,good price
+1115,Check it out.,1,check it out
+1122,Service was fine and the waitress was friendly.,1,servic be fine and the waitress be friendli
+1123,"The guys all had steaks, and our steak loving son who has had steak at the best and worst places said it was the best steak he's ever eaten.",1,the guy all have steak and our steak love son who have have steak at the best and bad place say it be the best steak he ever eat
+1124,"We thought you'd have to venture further away to get good sushi, but this place really hit the spot that night.",1,we think youd have to ventur far away to get good sushi but thi place realli hit the spot that night
+1127,"Phenomenal food, service and ambiance.",1,phenomen food servic and ambianc
+1129,"Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas.",1,definit worth ventur off the strip for the pork belli will return next time im in vega
+1131,Penne vodka excellent!,1,penn vodka excel
+1132,"They have a good selection of food including a massive meatloaf sandwich, a crispy chicken wrap, a delish tuna melt and some tasty burgers.",1,they have a good select of food includ a massiv meatloaf sandwich a crispi chicken wrap a delish tuna melt and some tasti burger
+1134,"Delicious NYC bagels, good selections of cream cheese, real Lox with capers even.",1,delici nyc bagel good select of cream chees real lox with caper even
+1135,"Great Subway, in fact it's so good when you come here every other Subway will not meet your expectations.",1,great subway in fact it so good when you come here everi other subway will not meet your expect
+1136,I had a seriously solid breakfast here.,1,i have a serious solid breakfast here
+1137,This is one of the best bars with food in Vegas.,1,thi be one of the best bar with food in vega
+1139,My drink was never empty and he made some really great menu suggestions.,1,my drink be never empti and he make some realli great menu suggest
+1144,Nice blanket of moz over top but i feel like this was done to cover up the subpar food.,1,nice blanket of moz over top but i feel like thi be do to cover up the subpar food
+1145,The bathrooms are clean and the place itself is well decorated.,1,the bathroom be clean and the place itself be well decor
+1150,My fiancé and I came in the middle of the day and we were greeted and seated right away.,1,my fiancé and i come in the middl of the day and we be greet and seat right away
+1151,This is a great restaurant at the Mandalay Bay.,1,thi be a great restaur at the mandalay bay
+1154,Some highlights : Great quality nigiri here!,1,some highlight great qualiti nigiri here
+1155,the staff is friendly and the joint is always clean.,1,the staff be friendli and the joint be alway clean
+1156,this was a different cut than the piece the other day but still wonderful and tender s well as well flavored.,1,thi be a differ cut than the piec the other day but still wonder and tender s well as well flavor
+1157,I ordered the Voodoo pasta and it was the first time I'd had really excellent pasta since going gluten free several years ago.,1,i order the voodoo pasta and it be the first time id have realli excel pasta sinc go gluten free sever year ago
+1158,this place is good.,1,thi place be good
+1161,I was seated immediately.,1,i be seat immedi
+1162,"Their menu is diverse, and reasonably priced.",1,their menu be divers and reason price
+1164,Restaurant is always full but never a wait.,1,restaur be alway full but never a wait
+1165,DELICIOUS!!,1,delici
+1166,This place is hands-down one of the best places to eat in the Phoenix metro area.,1,thi place be handsdown one of the best place to eat in the phoenix metro area
+1169,Bacon is hella salty.,1,bacon be hella salti
+1171,"This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that have no prices listed.",1,thi realli be how vega fine dine use to be right down to the menu hand to the ladi that have no price list
+1172,The waitresses are very friendly.,1,the waitress be veri friendli
+1173,"Lordy, the Khao Soi is a dish that is not to be missed for curry lovers!",1,lordi the khao soi be a dish that be not to be miss for curri lover
+1174,Everything on the menu is terrific and we were also thrilled that they made amazing accommodations for our vegetarian daughter.,1,everyth on the menu be terrif and we be also thrill that they make amaz accommod for our vegetarian daughter
+1177,"The atmosphere is modern and hip, while maintaining a touch of coziness.",1,the atmospher be modern and hip while maintain a touch of cozi
+1178,"Not a weekly haunt, but definitely a place to come back to every once in a while.",1,not a weekli haunt but definit a place to come back to everi onc in a while
+1184,"Love this place, hits the spot when I want something healthy but not lacking in quantity or flavor.",1,love thi place hit the spot when i want someth healthi but not lack in quantiti or flavor
+1185,I ordered the Lemon raspberry ice cocktail which was also incredible.,1,i order the lemon raspberri ice cocktail which be also incred
+1187,Interesting decor.,1,interest decor
+1188,What I really like there is the crepe station.,1,what i realli like there be the crepe station
+1189,"Also were served hot bread and butter, and home made potato chips with bacon bits on top....very original and very good.",1,also be serv hot bread and butter and home make potato chip with bacon bit on topveri origin and veri good
+1190,you can watch them preparing the delicious food!),1,you can watch them prepar the delici food
+1191,Both of the egg rolls were fantastic.,1,both of the egg roll be fantast
+1193,"I had a salad with the wings, and some ice cream for dessert and left feeling quite satisfied.",1,i have a salad with the wing and some ice cream for dessert and leav feel quit satisfi
+1195,The best place to go for a tasty bowl of Pho!,1,the best place to go for a tasti bowl of pho
+1198,Very friendly staff.,1,veri friendli staff
+1199,It is worth the drive.,1,it be worth the drive
+1200,"I had heard good things about this place, but it exceeding every hope I could have dreamed of.",1,i have hear good thing about thi place but it exceed everi hope i could have dream of
+1201,Food was great and so was the serivce!,1,food be great and so be the serivc
+1203,Great brunch spot.,1,great brunch spot
+1204,Service is friendly and inviting.,1,servic be friendli and invit
+1205,Very good lunch spot.,1,veri good lunch spot
+1209,"The sides are delish - mixed mushrooms, yukon gold puree, white corn - beateous.",1,the side be delish mix mushroom yukon gold pure white corn beateou
+1212,My friend loved the salmon tartar.,1,my friend love the salmon tartar
+1214,Extremely Tasty!,1,extrem tasti
+1215,Waitress was good though!,1,waitress be good though
+1217,The Jamaican mojitos are delicious.,1,the jamaican mojito be delici
+1219,- the food is rich so order accordingly.,1,the food be rich so order accordingli
+1225,I loved the bacon wrapped dates.,1,i love the bacon wrap date
+1226,This is an unbelievable BARGAIN!,1,thi be an unbeliev bargain
+1227,The folks at Otto always make us feel so welcome and special.,1,the folk at otto alway make u feel so welcom and special
+1229,This is the place where I first had pho and it was amazing!!,1,thi be the place where i first have pho and it be amaz
+1230,This wonderful experience made this place a must-stop whenever we are in town again.,1,thi wonder experi make thi place a muststop whenev we be in town again
+1232,Very very fun chef.,1,veri veri fun chef
+1234,Great place to have a couple drinks and watch any and all sporting events as the walls are covered with TV's.,1,great place to have a coupl drink and watch ani and all sport event a the wall be cover with tv
+1237,"I'd say that would be the hardest decision... Honestly, all of M's dishes taste how they are supposed to taste (amazing).",1,id say that would be the hard decis honestli all of m dish tast how they be suppos to tast amaz
+1239,"Everyone is very attentive, providing excellent customer service.",1,everyon be veri attent provid excel custom servic
+1241,Now this dish was quite flavourful.,1,now thi dish be quit flavour
+1246,"Seriously flavorful delights, folks.",1,serious flavor delight folk
+1247,Much better than the other AYCE sushi place I went to in Vegas.,1,much good than the other ayc sushi place i go to in vega
+1248,The lighting is just dark enough to set the mood.,1,the light be just dark enough to set the mood
+1250,Owner's are really great people.!,1,owner be realli great peopl
+1252,The Greek dressing was very creamy and flavorful.,1,the greek dress be veri creami and flavor
+1254,Now the pizza itself was good the peanut sauce was very tasty.,1,now the pizza itself be good the peanut sauc be veri tasti
+1255,We had 7 at our table and the service was pretty fast.,1,we have 7 at our tabl and the servic be pretti fast
+1256,Fantastic service here.,1,fantast servic here
+1258,They know how to make them here.,1,they know how to make them here
+1260,I hope this place sticks around.,1,i hope thi place stick around
+1262,The restaurant atmosphere was exquisite.,1,the restaur atmospher be exquisit
+1263,"Good service, very clean, and inexpensive, to boot!",1,good servic veri clean and inexpens to boot
+1264,The seafood was fresh and generous in portion.,1,the seafood be fresh and gener in portion
+1265,"Plus, it's only 8 bucks.",1,plu it onli 8 buck
+1267,"Thus far, have only visited twice and the food was absolutely delicious each time.",1,thu far have onli visit twice and the food be absolut delici each time
+1268,Just as good as when I had it more than a year ago!,1,just as good a when i have it more than a year ago
+1270,The Veggitarian platter is out of this world!,1,the veggitarian platter be out of thi world
+1271,You cant go wrong with any of the food here.,1,you cant go wrong with ani of the food here
+1272,You can't beat that.,1,you cant beat that
+1273,"Stopped by this place while in Madison for the Ironman, very friendly, kind staff.",1,stop by thi place while in madison for the ironman veri friendli kind staff
+1274,The chefs were friendly and did a good job.,1,the chef be friendli and do a good job
+1276,I liked the patio and the service was outstanding.,1,i like the patio and the servic be outstand
+1277,The goat taco didn't skimp on the meat and wow what FLAVOR!,1,the goat taco didnt skimp on the meat and wow what flavor
+1280,I went to Bachi Burger on a friend's recommendation and was not disappointed.,1,i go to bachi burger on a friend recommend and be not disappoint
+1284,I would definitely recommend the wings as well as the pizza.,1,i would definit recommend the wing as well a the pizza
+1285,Great Pizza and Salads!,1,great pizza and salad
+1288,This place is amazing!,1,thi place be amaz
+1292,"The staff is great, the food is delish, and they have an incredible beer selection.",1,the staff be great the food be delish and they have an incred beer select
+1294,I didn't know pulled pork could be soooo delicious.,1,i didnt know pull pork could be soooo delici
+1295,"You get incredibly fresh fish, prepared with care.",1,you get incred fresh fish prepar with care
+1297,I love the fact that everything on their menu is worth it.,1,i love the fact that everyth on their menu be worth it
+1299,The food was excellent and service was very good.,1,the food be excel and servic be veri good
+1300,Good beer & drink selection and good food selection.,1,good beer drink select and good food select
+1304,Good Service-check!,1,good servicecheck
+1308,"In the summer, you can dine in a charming outdoor patio - so very delightful.",1,in the summer you can dine in a charm outdoor patio so veri delight
+1309,I did not expect this to be so good!,1,i do not expect thi to be so good
+1310,Fantastic food!,1,fantast food
+1312,The food was very good.,1,the food be veri good
+1314,"Great food for the price, which is very high quality and house made.",1,great food for the price which be veri high qualiti and hous make
+1317,"Back to good BBQ, lighter fare, reasonable pricing and tell the public they are back to the old ways.",1,back to good bbq light fare reason price and tell the public they be back to the old way
+1318,"And considering the two of us left there very full and happy for about $20, you just can't go wrong.",1,and consid the two of u leav there veri full and happi for about 20 you just cant go wrong
+1319,All the bread is made in-house!,1,all the bread be make inhous
+1322,Service was exceptional and food was a good as all the reviews.,1,servic be except and food be a good a all the review
+1323,"A couple of months later, I returned and had an amazing meal.",1,a coupl of month later i return and have an amaz meal
+1324,Favorite place in town for shawarrrrrrma!!!!!!,1,favorit place in town for shawarrrrrrma
+1325,The black eyed peas and sweet potatoes... UNREAL!,1,the black eye pea and sweet potato unreal
+1326,You won't be disappointed.,1,you wont be disappoint
+1327,"They could serve it with just the vinaigrette and it may make for a better overall dish, but it was still very good.",1,they could serv it with just the vinaigrett and it may make for a good overal dish but it be still veri good
+1331,"Both of them were truly unbelievably good, and I am so glad we went back.",1,both of them be truli unbeliev good and i be so glad we go back
+1332,"We had fantastic service, and were pleased by the atmosphere.",1,we have fantast servic and be pleas by the atmospher
+1334,I love this place.,1,i love thi place
+1335,Great service and food.,1,great servic and food
+1338,"OMG, the food was delicioso!",1,omg the food be delicioso
+1341,"Of all the dishes, the salmon was the best, but all were great.",1,of all the dish the salmon be the best but all be great
+1342,The vegetables are so fresh and the sauce feels like authentic Thai.,1,the veget be so fresh and the sauc feel like authent thai
+1343,It's worth driving up from Tucson!,1,it worth drive up from tucson
+1345,Pretty good beer selection too.,1,pretti good beer select too
+1346,"This place is like Chipotle, but BETTER.",1,thi place be like chipotl but good
+1347,"Classy/warm atmosphere, fun and fresh appetizers, succulent steaks (Baseball steak!!!!!",1,classywarm atmospher fun and fresh appet succul steak basebal steak
+1348,5 stars for the brick oven bread app!,1,5 star for the brick oven bread app
+1349,"I have eaten here multiple times, and each time the food was delicious.",1,i have eat here multipl time and each time the food be delici
+1352,Everyone is treated equally special.,1,everyon be treat equal special
+1354,It was delicious!!!,1,it be delici
+1355,"On the good side, the staff was genuinely pleasant and enthusiastic - a real treat.",1,on the good side the staff be genuin pleasant and enthusiast a real treat
+1357,As always the evening was wonderful and the food delicious!,1,a alway the even be wonder and the food delici
+1358,Best fish I've ever had in my life!,1,best fish ive ever have in my life
+1359,(The bathroom is just next door and very nice.),1,the bathroom be just next door and veri nice
+1361,This is an Outstanding little restaurant with some of the Best Food I have ever tasted.,1,thi be an outstand littl restaur with some of the best food i have ever tast
+1362,Pretty cool I would say.,1,pretti cool i would say
+1364,Server did a great job handling our large rowdy table.,1,server do a great job handl our larg rowdi tabl
+1367,Would come back again if I had a sushi craving while in Vegas.,1,would come back again if i have a sushi crave while in vega
+1368,"The staff are great, the ambiance is great.",1,the staff be great the ambianc be great
+1369,He deserves 5 stars.,1,he deserv 5 star
+1372,"The dining space is tiny, but elegantly decorated and comfortable.",1,the din space be tini but elegantli decor and comfort
+1373,"They will customize your order any way you'd like, my usual is Eggplant with Green Bean stir fry, love it!",1,they will custom your order ani way youd like my usual be eggplant with green bean stir fri love it
+1375,Best tacos in town by far!!,1,best taco in town by far
+1377,"In an interesting part of town, this place is amazing.",1,in an interest part of town thi place be amaz
+1381,They have great dinners.,1,they have great dinner
+1382,The service was outshining & I definitely recommend the Halibut.,1,the servic be outshin i definit recommend the halibut
+1386,I will come back here every time I'm in Vegas.,1,i will come back here everi time im in vega
+1389,Def coming back to bowl next time,1,def come back to bowl next time
+1390,"If you want healthy authentic or ethic food, try this place.",1,if you want healthi authent or ethic food tri thi place
+1391,I will continue to come here on ladies night andddd date night ... highly recommend this place to anyone who is in the area (;,1,i will continu to come here on ladi night andddd date night highli recommend thi place to anyon who be in the area
+1392,"I have been here several times in the past, and the experience has always been great.",1,i have be here sever time in the past and the experi have alway be great
+1393,We walked away stuffed and happy about our first Vegas buffet experience.,1,we walk away stuff and happi about our first vega buffet experi
+1394,Service was excellent and prices are pretty reasonable considering this is Vegas and located inside the Crystals shopping mall by Aria.,1,servic be excel and price be pretti reason consid thi be vega and locat insid the crystal shop mall by aria
+1395,"To summarize... the food was incredible, nay, transcendant... but nothing brings me joy quite like the memory of the pneumatic condiment dispenser.",1,to summar the food be incred nay transcend but noth bring me joy quit like the memori of the pneumat condiment dispens
+1397,Kids pizza is always a hit too with lots of great side dish options for the kiddos!,1,kid pizza be alway a hit too with lot of great side dish option for the kiddo
+1398,Service is perfect and the family atmosphere is nice to see.,1,servic be perfect and the famili atmospher be nice to see
+1399,Cooked to perfection and the service was impeccable.,1,cook to perfect and the servic be impecc
+1403,"Great place to eat, reminds me of the little mom and pop shops in the San Francisco Bay Area.",1,great place to eat remind me of the littl mom and pop shop in the san francisco bay area
+1404,Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.,1,today be my first tast of a buldogi gourmet hot dog and i have to tell you it be more than i ever think possibl
+1406,I'll definitely be in soon again.,1,ill definit be in soon again
+1407,Food was really good and I got full petty fast.,1,food be realli good and i get full petti fast
+1408,Service was fantastic.,1,servic be fantast
+1410,I don't know what kind it is but they have the best iced tea.,1,i dont know what kind it be but they have the best ice tea
+1411,"Come hungry, leave happy and stuffed!",1,come hungri leav happi and stuff
+1413,I can assure you that you won't be disappointed.,1,i can assur you that you wont be disappoint
+1417,I really enjoyed eating here.,1,i realli enjoy eat here
+1418,First time going but I think I will quickly become a regular.,1,first time go but i think i will quickli becom a regular
+1419,"Our server was very nice, and even though he looked a little overwhelmed with all of our needs, he stayed professional and friendly until the end.",1,our server be veri nice and even though he look a littl overwhelm with all of our need he stay profession and friendli until the end
+1420,From what my dinner companions told me...everything was very fresh with nice texture and taste.,1,from what my dinner companion tell meeveryth be veri fresh with nice textur and tast
+1425,No complaints!,1,no complaint
+1426,This is some seriously good pizza and I'm an expert/connisseur on the topic.,1,thi be some serious good pizza and im an expertconnisseur on the topic
+1429,These are the nicest restaurant owners I've ever come across.,1,these be the nice restaur owner ive ever come across
+1431,We loved the biscuits!!!,1,we love the biscuit
+1432,Service is quick and friendly.,1,servic be quick and friendli
+1434,So absolutley fantastic.,1,so absolutley fantast
+1436,definitely will come back here again.,1,definit will come back here again
+1437,I like Steiners because it's dark and it feels like a bar.,1,i like steiner becaus it dark and it feel like a bar
+1438,Wow very spicy but delicious.,1,wow veri spici but delici
+1439,"If you're not familiar, check it out.",1,if your not familiar check it out
+1441,I'd love to go back.,1,id love to go back
+1442,"Anyway, this FS restaurant has a wonderful breakfast/lunch.",1,anyway thi f restaur have a wonder breakfastlunch
+1444,Each day of the week they have a different deal and it's all so delicious!,1,each day of the week they have a differ deal and it all so delici
+1445,"Not to mention the combination of pears, almonds and bacon is a big winner!",1,not to mention the combin of pear almond and bacon be a big winner
+1448,"The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way.",1,the food be delici and just spici enough so be sure to ask for spici if you prefer it that way
+1449,My ribeye steak was cooked perfectly and had great mesquite flavor.,1,my ribey steak be cook perfectli and have great mesquit flavor
+1451,Food was so gooodd.,1,food be so gooodd
+1456,"The food was very good and I enjoyed every mouthful, an enjoyable relaxed venue for couples small family groups etc.",1,the food be veri good and i enjoy everi mouth an enjoy relax venu for coupl small famili group etc
+1457,Nargile - I think you are great.,1,nargil i think you be great
+1458,Best tater tots in the southwest.,1,best tater tot in the southwest
+1459,We loved the place.,1,we love the place
+1461,The vanilla ice cream was creamy and smooth while the profiterole (choux) pastry was fresh enough.,1,the vanilla ice cream be creami and smooth while the profiterol chou pastri be fresh enough
+1462,Im in AZ all the time and now have my new spot.,1,im in az all the time and now have my new spot
+1464,The inside is really quite nice and very clean.,1,the insid be realli quit nice and veri clean
+1465,The food was outstanding and the prices were very reasonable.,1,the food be outstand and the price be veri reason
+1468,"Love the margaritas, too!",1,love the margarita too
+1469,This was my first and only Vegas buffet and it did not disappoint.,1,thi be my first and onli vega buffet and it do not disappoint
+1470,"Very good, though!",1,veri good though
+1472,Great pork sandwich.,1,great pork sandwich
+1476,We enjoy their pizza and brunch.,1,we enjoy their pizza and brunch
+1477,The steaks are all well trimmed and also perfectly cooked.,1,the steak be all well trim and also perfectli cook
+1478,We had a group of 70+ when we claimed we would only have 40 and they handled us beautifully.,1,we have a group of 70 when we claim we would onli have 40 and they handl u beauti
+1479,I LOVED it!,1,i love it
+1481,"This place is a jewel in Las Vegas, and exactly what I've been hoping to find in nearly ten years living here.",1,thi place be a jewel in la vega and exactli what ive be hop to find in nearli ten year live here
+1484,Delicious and I will absolutely be back!,1,delici and i will absolut be back
+1485,"This isn't a small family restaurant, this is a fine dining establishment.",1,thi isnt a small famili restaur thi be a fine dine establish
+1486,They had a toro tartare with a cavier that was extraordinary and I liked the thinly sliced wagyu with white truffle.,1,they have a toro tartar with a cavier that be extraordinari and i like the thinli slice wagyu with white truffl
+1489,How awesome is that.,1,how awesom be that
+1490,I will be back many times soon.,1,i will be back mani time soon
+1491,The menu had so much good stuff on it i could not decide!,1,the menu have so much good stuff on it i could not decid
+1493,CONCLUSION: Very filling meals.,1,conclus veri fill meal
+1494,Their daily specials are always a hit with my group.,1,their daili special be alway a hit with my group
+1496,The pancake was also really good and pretty large at that.,1,the pancak be also realli good and pretti larg at that
+1497,"This was my first crawfish experience, and it was delicious!",1,thi be my first crawfish experi and it be delici
+1498,Their monster chicken fried steak and eggs is my all time favorite.,1,their monster chicken fri steak and egg be my all time favorit
+1499,Waitress was sweet and funny.,1,waitress be sweet and funni
+1500,"I also had to taste my Mom's multi-grain pumpkin pancakes with pecan butter and they were amazing, fluffy, and delicious!",1,i also have to tast my mom multigrain pumpkin pancak with pecan butter and they be amaz fluffi and delici
+1502,Cant say enough good things about this place.,1,cant say enough good thing about thi place
+1503,The ambiance was incredible.,1,the ambianc be incred
+1504,The waitress and manager are so friendly.,1,the waitress and manag be so friendli
+1510,"I don't each much pasta, but I love the homemade /hand made pastas and thin pizzas here.",1,i dont each much pasta but i love the homemad hand make pasta and thin pizza here
+1511,"Give it a try, you will be happy you did.",1,give it a tri you will be happi you do
+1512,By far the BEST cheesecurds we have ever had!,1,by far the best cheesecurd we have ever have
+1513,Reasonably priced also!,1,reason price also
+1514,Everything was perfect the night we were in.,1,everyth be perfect the night we be in
+1515,The food is very good for your typical bar food.,1,the food be veri good for your typic bar food
+1517,"At first glance it is a lovely bakery cafe - nice ambiance, clean, friendly staff.",1,at first glanc it be a love bakeri cafe nice ambianc clean friendli staff
+1519,"Point your finger at any item on the menu, order it and you won't be disappointed.",1,point your finger at ani item on the menu order it and you wont be disappoint
+1520,"Oh this is such a thing of beauty, this restaurant.",1,oh thi be such a thing of beauti thi restaur
+1521,If you haven't gone here GO NOW!,1,if you havent go here go now
+1524,Those burgers were amazing.,1,those burger be amaz
+1527,"Be sure to order dessert, even if you need to pack it to-go - the tiramisu and cannoli are both to die for.",1,be sure to order dessert even if you need to pack it togo the tiramisu and cannoli be both to die for
+1528,This was my first time and I can't wait until the next.,1,thi be my first time and i cant wait until the next
+1529,The bartender was also nice.,1,the bartend be also nice
+1530,Everything was good and tasty!,1,everyth be good and tasti
+1531,This place is two thumbs up....way up.,1,thi place be two thumb upway up
+1532,"The best place in Vegas for breakfast (just check out a Sat, or Sun.",1,the best place in vega for breakfast just check out a sat or sun
+1533,"If you love authentic Mexican food and want a whole bunch of interesting, yet delicious meats to choose from, you need to try this place.",1,if you love authent mexican food and want a whole bunch of interest yet delici meat to choos from you need to tri thi place
+1535,An excellent new restaurant by an experienced Frenchman.,1,an excel new restaur by an experienc frenchman
+1537,"Great steak, great sides, great wine, amazing desserts.",1,great steak great side great wine amaz dessert
+1539,The steak and the shrimp are in my opinion the best entrees at GC.,1,the steak and the shrimp be in my opinion the best entre at gc
+1540,I had the opportunity today to sample your amazing pizzas!,1,i have the opportun today to sampl your amaz pizza
+1542,The yellowtail carpaccio was melt in your mouth fresh.,1,the yellowtail carpaccio be melt in your mouth fresh
+1545,Just spicy enough.. Perfect actually.,1,just spici enough perfect actual
+1546,Last night was my second time dining here and I was so happy I decided to go back!,1,last night be my second time din here and i be so happi i decid to go back
+1549,My boyfriend and I came here for the first time on a recent trip to Vegas and could not have been more pleased with the quality of food and service.,1,my boyfriend and i come here for the first time on a recent trip to vega and could not have be more pleas with the qualiti of food and servic
+1550,"I really do recommend this place, you can go wrong with this donut place!",1,i realli do recommend thi place you can go wrong with thi donut place
+1551,Nice ambiance.,1,nice ambianc
+1552,I would recommend saving room for this!,1,i would recommend save room for thi
+1558,All of the tapas dishes were delicious!,1,all of the tapa dish be delici
+1559,I *heart* this place.,1,i heart thi place
+1562,A good time!,1,a good time
+1563,I believe that this place is a great stop for those with a huge belly and hankering for sushi.,1,i believ that thi place be a great stop for those with a huge belli and hanker for sushi
+1564,Generous portions and great taste.,1,gener portion and great tast
+1567,Food was delicious!,1,food be delici
+1573,"He also came back to check on us regularly, excellent service.",1,he also come back to check on u regularli excel servic
+1574,Our server was super nice and checked on us many times.,1,our server be super nice and check on u mani time
+1577,Service was good and the company was better!,1,servic be good and the compani be good
+1578,The staff are also very friendly and efficient.,1,the staff be also veri friendli and effici
+1579,"As for the service: I'm a fan, because it's quick and you're being served by some nice folks.",1,a for the servic im a fan becaus it quick and your be serv by some nice folk
+1583,Their steaks are 100% recommended!,1,their steak be 100 recommend
+1585,Great food and great service in a clean and friendly setting.,1,great food and great servic in a clean and friendli set
+1586,"All in all, I can assure you I'll be back.",1,all in all i can assur you ill be back
+1588,"My breakfast was perpared great, with a beautiful presentation of 3 giant slices of Toast, lightly dusted with powdered sugar.",1,my breakfast be perpar great with a beauti present of 3 giant slice of toast lightli dust with powder sugar
+1590,Great place fo take out or eat in.,1,great place fo take out or eat in
+1591,The waitress was friendly and happy to accomodate for vegan/veggie options.,1,the waitress be friendli and happi to accomod for veganveggi option
+1592,OMG I felt like I had never eaten Thai food until this dish.,1,omg i felt like i have never eat thai food until thi dish
+1595,The croutons also taste homemade which is an extra plus.,1,the crouton also tast homemad which be an extra plu
+1597,It'll be a regular stop on my trips to Phoenix!,1,itll be a regular stop on my trip to phoenix
+1598,I really enjoyed Crema Café before they expanded; I even told friends they had the BEST breakfast.,1,i realli enjoy crema café befor they expand i even tell friend they have the best breakfast
+1600,I miss it and wish they had one in Philadelphia!,1,i miss it and wish they have one in philadelphia
+1602,They also have the best cheese crisp in town.,1,they also have the best chees crisp in town
+1603,"Good value, great food, great service.",1,good valu great food great servic
+1604,Couldn't ask for a more satisfying meal.,1,couldnt ask for a more satisfi meal
+1605,The food is good.,1,the food be good
+1606,It was awesome.,1,it be awesom
+1608,We made the drive all the way from North Scottsdale... and I was not one bit disappointed!,1,we make the drive all the way from north scottsdal and i be not one bit disappoint
+1614,An absolute must visit!,1,an absolut must visit
+1615,The cow tongue and cheek tacos are amazing.,1,the cow tongu and cheek taco be amaz
+1618,They really want to make your experience a good one.,1,they realli want to make your experi a good one
+1622,The grilled chicken was so tender and yellow from the saffron seasoning.,1,the grill chicken be so tender and yellow from the saffron season
+1624,Pretty awesome place.,1,pretti awesom place
+1625,Ambience is perfect.,1,ambienc be perfect
+1629,"The staff is always super friendly and helpful, which is especially cool when you bring two small boys and a baby!",1,the staff be alway super friendli and help which be especi cool when you bring two small boy and a babi
+1630,Four stars for the food & the guy in the blue shirt for his great vibe & still letting us in to eat !,1,four star for the food the guy in the blue shirt for hi great vibe still let u in to eat
+1631,The roast beef sandwich tasted really good!,1,the roast beef sandwich tast realli good
+1633,High-quality chicken on the chicken Caesar salad.,1,highqual chicken on the chicken caesar salad
+1635,We were promptly greeted and seated.,1,we be promptli greet and seat
+1637,"I was proven dead wrong by this sushi bar, not only because the quality is great, but the service is fast and the food, impeccable.",1,i be prove dead wrong by thi sushi bar not onli becaus the qualiti be great but the servic be fast and the food impecc
+1639,This is a good joint.,1,thi be a good joint
+1640,The Macarons here are insanely good.,1,the macaron here be insan good
+1642,"Our waiter was very attentive, friendly, and informative.",1,our waiter be veri attent friendli and inform
+1648,Great food.,1,great food
+1651,Great place to relax and have an awesome burger and beer.,1,great place to relax and have an awesom burger and beer
+1652,It is PERFECT for a sit-down family meal or get together with a few friends.,1,it be perfect for a sitdown famili meal or get togeth with a few friend
+1654,The patio seating was very comfortable.,1,the patio seat be veri comfort
+1656,Hands down my favorite Italian restaurant!,1,hand down my favorit italian restaur
+1657,"That just SCREAMS ""LEGIT"" in my book...somethat's also pretty rare here in Vegas.",1,that just scream legit in my booksomethat also pretti rare here in vega
+1658,It was just not a fun experience.,1,it be just not a fun experi
+1659,The atmosphere was great with a lovely duo of violinists playing songs we requested.,1,the atmospher be great with a love duo of violinist play song we request
+1660,"I personally love the hummus, pita, baklava, falafels and Baba Ganoush (it's amazing what they do with eggplant!).",1,i person love the hummu pita baklava falafel and baba ganoush it amaz what they do with eggplant
+1661,"Very convenient, since we were staying at the MGM!",1,veri conveni sinc we be stay at the mgm
+1662,The owners are super friendly and the staff is courteous.,1,the owner be super friendli and the staff be courteou
+1663,Both great!,1,both great
+1664,Eclectic selection.,1,eclect select
+1665,The sweet potato tots were good but the onion rings were perfection or as close as I have had.,1,the sweet potato tot be good but the onion ring be perfect or as close a i have have
+1666,The staff was very attentive.,1,the staff be veri attent
+1667,And the chef was generous with his time (even came around twice so we can take pictures with him).,1,and the chef be gener with hi time even come around twice so we can take pictur with him
+1668,"The owner used to work at Nobu, so this place is really similar for half the price.",1,the owner use to work at nobu so thi place be realli similar for half the price
+1671,I promise they won't disappoint.,1,i promis they wont disappoint
+1673,What a great double cheeseburger!,1,what a great doubl cheeseburg
+1674,Awesome service and food.,1,awesom servic and food
+1675,A fantastic neighborhood gem !!!,1,a fantast neighborhood gem
+1676,I can't wait to go back.,1,i cant wait to go back
+1678,It's a great place and I highly recommend it.,1,it a great place and i highli recommend it
+1680,"I gave it 5 stars then, and I'm giving it 5 stars now.",1,i give it 5 star then and im give it 5 star now
+1682,Dessert: Panna Cotta was amazing.,1,dessert panna cotta be amaz
+1683,"Very good food, great atmosphere.1",1,veri good food great atmosphere1
+1684,Damn good steak.,1,damn good steak
+1686,"Prices are very reasonable, flavors are spot on, the sauce is home made, and the slaw is not drenched in mayo.",1,price be veri reason flavor be spot on the sauc be home make and the slaw be not drench in mayo
+1687,"The decor is nice, and the piano music soundtrack is pleasant.",1,the decor be nice and the piano music soundtrack be pleasant
+1688,The steak was amazing...rge fillet relleno was the best seafood plate i have ever had!,1,the steak be amazingrg fillet relleno be the best seafood plate i have ever have
+1689,"Good food , good service .",1,good food good servic
+1690,It was absolutely amazing.,1,it be absolut amaz
+1692,will definitely be back!,1,will definit be back
+1693,The sergeant pepper beef sandwich with auju sauce is an excellent sandwich as well.,1,the sergeant pepper beef sandwich with auju sauc be an excel sandwich as well
+1694,"Hawaiian Breeze, Mango Magic, and Pineapple Delight are the smoothies that I've tried so far and they're all good.",1,hawaiian breez mango magic and pineappl delight be the smoothi that ive tri so far and theyr all good
+1702,Have been going since 2007 and every meal has been awesome!!,1,have be go sinc 2007 and everi meal have be awesom
+1703,Our server was very nice and attentive as were the other serving staff.,1,our server be veri nice and attent a be the other serv staff
+1704,The cashier was friendly and even brought the food out to me.,1,the cashier be friendli and even bring the food out to me
+1706,The atmosphere here is fun.,1,the atmospher here be fun
+1708,"Service is quick and even ""to go"" orders are just like we like it!",1,servic be quick and even to go order be just like we like it
+1710,"That said, our mouths and bellies were still quite pleased.",1,that say our mouth and belli be still quit pleas
+1712,2 Thumbs Up!!,1,2 thumb up
+1714,"I loved the grilled pizza, reminded me of legit Italian pizza.",1,i love the grill pizza remind me of legit italian pizza
+1715,Only Pros : Large seating area/ Nice bar area/ Great simple drink menu/ The BEST brick oven pizza with homemade dough!,1,onli pro larg seat area nice bar area great simpl drink menu the best brick oven pizza with homemad dough
+1716,They have a really nice atmosphere.,1,they have a realli nice atmospher
+1718,"After one bite, I was hooked.",1,after one bite i be hook
+1720,"Cute, quaint, simple, honest.",1,cute quaint simpl honest
+1721,The chicken was deliciously seasoned and had the perfect fry on the outside and moist chicken on the inside.,1,the chicken be delici season and have the perfect fri on the outsid and moist chicken on the insid
+1722,"The food was great as always, compliments to the chef.",1,the food be great a alway compliment to the chef
+1723,Special thanks to Dylan T. for the recommendation on what to order :) All yummy for my tummy.,1,special thank to dylan t for the recommend on what to order all yummi for my tummi
+1724,Awesome selection of beer.,1,awesom select of beer
+1725,Great food and awesome service!,1,great food and awesom servic
+1726,"One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that.",1,one nice thing be that they add gratuiti on the bill sinc our parti be larg than 6 or 8 and they didnt expect more tip than that
+1728,The Han Nan Chicken was also very tasty.,1,the han nan chicken be also veri tasti
+1729,"As for the service, I thought it was good.",1,a for the servic i think it be good
+1732,Nicest Chinese restaurant I've been in a while.,1,nice chines restaur ive be in a while
+1733,"Overall, I like there food and the service.",1,overal i like there food and the servic
+1734,They also now serve Indian naan bread with hummus and some spicy pine nut sauce that was out of this world.,1,they also now serv indian naan bread with hummu and some spici pine nut sauc that be out of thi world
+1737,"Try them in the airport to experience some tasty food and speedy, friendly service.",1,tri them in the airport to experi some tasti food and speedi friendli servic
+1738,I love the decor with the Chinese calligraphy wall paper.,1,i love the decor with the chines calligraphi wall paper
+1739,Never had anything to complain about here.,1,never have anyth to complain about here
+1740,The restaurant is very clean and has a family restaurant feel to it.,1,the restaur be veri clean and have a famili restaur feel to it
+1745,There was a warm feeling with the service and I felt like their guest for a special treat.,1,there be a warm feel with the servic and i felt like their guest for a special treat
+1746,An extensive menu provides lots of options for breakfast.,1,an extens menu provid lot of option for breakfast
+1747,"I always order from the vegetarian menu during dinner, which has a wide array of options to choose from.",1,i alway order from the vegetarian menu dure dinner which have a wide array of option to choos from
+1749,Wonderful lil tapas and the ambience made me feel all warm and fuzzy inside.,1,wonder lil tapa and the ambienc make me feel all warm and fuzzi insid
+1750,"I got to enjoy the seafood salad, with a fabulous vinegrette.",1,i get to enjoy the seafood salad with a fabul vinegrett
+1751,"The wontons were thin, not thick and chewy, almost melt in your mouth.",1,the wonton be thin not thick and chewi almost melt in your mouth
+1752,"Level 5 spicy was perfect, where spice didn't over-whelm the soup.",1,level 5 spici be perfect where spice didnt overwhelm the soup
+1753,We were sat right on time and our server from the get go was FANTASTIC!,1,we be sat right on time and our server from the get go be fantast
+1755,"When I'm on this side of town, this will definitely be a spot I'll hit up again!",1,when im on thi side of town thi will definit be a spot ill hit up again
+1757,This is a GREAT place to eat!,1,thi be a great place to eat
+1758,The jalapeno bacon is soooo good.,1,the jalapeno bacon be soooo good
+1760,"Food was good, service was good, Prices were good.",1,food be good servic be good price be good
+1764,"I'm so happy to be here!!!""",1,im so happi to be here
+1766,One of the few places in Phoenix that I would definately go back to again .,1,one of the few place in phoenix that i would defin go back to again
+1767,The block was amazing.,1,the block be amaz
+1768,"It's close to my house, it's low-key, non-fancy, affordable prices, good food.",1,it close to my hous it lowkey nonfanc afford price good food
+1769,* Both the Hot & Sour & the Egg Flower Soups were absolutely 5 Stars!,1,both the hot sour the egg flower soup be absolut 5 star
+1771,Great time - family dinner on a Sunday night.,1,great time famili dinner on a sunday night
+1774,The flair bartenders are absolutely amazing!,1,the flair bartend be absolut amaz
+1776,These were so good we ordered them twice.,1,these be so good we order them twice
+1780,I had a pretty satifying experience.,1,i have a pretti satifi experi
+1781,Join the club and get awesome offers via email.,1,join the club and get awesom offer via email
+1782,"Perfect for someone (me) who only likes beer ice cold, or in this case, even colder.",1,perfect for someon me who onli like beer ice cold or in thi case even colder
+1785,The nachos are a MUST HAVE!,1,the nacho be a must have
+1787,"I don't have very many words to say about this place, but it does everything pretty well.",1,i dont have veri mani word to say about thi place but it do everyth pretti well
+1788,"The staff is super nice and very quick even with the crazy crowds of the downtown juries, lawyers, and court staff.",1,the staff be super nice and veri quick even with the crazi crowd of the downtown juri lawyer and court staff
+1789,"Great atmosphere, friendly and fast service.",1,great atmospher friendli and fast servic
+1790,When I received my Pita it was huge it did have a lot of meat in it so thumbs up there.,1,when i receiv my pita it be huge it do have a lot of meat in it so thumb up there
+1793,The classic Maine Lobster Roll was fantastic.,1,the classic main lobster roll be fantast
+1795,So good I am going to have to review this place twice - once hereas a tribute to the place and once as a tribute to an event held here last night.,1,so good i be go to have to review thi place twice onc herea a tribut to the place and onc a a tribut to an event hold here last night
+1796,"The chips and salsa were really good, the salsa was very fresh.",1,the chip and salsa be realli good the salsa be veri fresh
+1797,This place is great!!!!!!!!!!!!!!,1,thi place be great
+1799,Once you get inside you'll be impressed with the place.,1,onc you get insid youll be impress with the place
+1801,And service was super friendly.,1,and servic be super friendli
+1803,This place was such a nice surprise!,1,thi place be such a nice surpris
+1804,They were golden-crispy and delicious.,1,they be goldencrispi and delici
+1806,I could eat their bruschetta all day it is devine.,1,i could eat their bruschetta all day it be devin
+1808,"Lastly, the mozzarella sticks, they were the best thing we ordered.",1,lastli the mozzarella stick they be the best thing we order
+1809,"The first time I ever came here I had an amazing experience, I still tell people how awesome the duck was.",1,the first time i ever come here i have an amaz experi i still tell peopl how awesom the duck be
+1814,I love this place.,1,i love thi place
+1815,I can say that the desserts were yummy.,1,i can say that the dessert be yummi
+1817,The seasonal fruit was fresh white peach puree.,1,the season fruit be fresh white peach pure
+1822,I love that they put their food in nice plastic containers as opposed to cramming it in little paper takeout boxes.,1,i love that they put their food in nice plastic contain a oppos to cram it in littl paper takeout box
+1823,The crêpe was delicate and thin and moist.,1,the crêpe be delic and thin and moist
+1833,"Best service and food ever, Maria our server was so good and friendly she made our day.",1,best servic and food ever maria our server be so good and friendli she make our day
+1834,They were excellent.,1,they be excel
+1836,Just had lunch here and had a great experience.,1,just have lunch here and have a great experi
+1839,I recently tried Caballero's and I have been back every week since!,1,i recent tri caballero and i have be back everi week sinc
+1841,The food came out at a good pace.,1,the food come out at a good pace
+1842,"I ate there twice on my last visit, and especially enjoyed the salmon salad.",1,i eat there twice on my last visit and especi enjoy the salmon salad
+1847,"In fact I'm going to round up to 4 stars, just because she was so awesome.",1,in fact im go to round up to 4 star just becaus she be so awesom
+1850,the potatoes were great and so was the biscuit.,1,the potato be great and so be the biscuit
+1852,So flavorful and has just the perfect amount of heat.,1,so flavor and have just the perfect amount of heat
+1853,The price is reasonable and the service is great.,1,the price be reason and the servic be great
+1856,"Went in for happy hour, great list of wines.",1,go in for happi hour great list of wine
+1857,Some may say this buffet is pricey but I think you get what you pay for and this place you are getting quite a lot!,1,some may say thi buffet be pricey but i think you get what you pay for and thi place you be get quit a lot
+1860,"This place is pretty good, nice little vibe in the restaurant.",1,thi place be pretti good nice littl vibe in the restaur
+1861,Talk about great customer service of course we will be back.,1,talk about great custom servic of cours we will be back
+1863,I love their fries and their beans.,1,i love their fri and their bean
+1864,Always a pleasure dealing with him.,1,alway a pleasur deal with him
+1865,"They have a plethora of salads and sandwiches, and everything I've tried gets my seal of approval.",1,they have a plethora of salad and sandwich and everyth ive tri get my seal of approv
+1866,This place is awesome if you want something light and healthy during the summer.,1,thi place be awesom if you want someth light and healthi dure the summer
+1867,"For sushi on the Strip, this is the place to go.",1,for sushi on the strip thi be the place to go
+1868,"The service was great, even the manager came and helped with our table.",1,the servic be great even the manag come and help with our tabl
+1872,"All in all an excellent restaurant highlighted by great service, a unique menu, and a beautiful setting.",1,all in all an excel restaur highlight by great servic a uniqu menu and a beauti set
+1873,My boyfriend and i sat at the bar and had a completely delightful experience.,1,my boyfriend and i sat at the bar and have a complet delight experi
+1877,Go To Place for Gyros.,1,go to place for gyro
+1878,"I love the owner/chef, his one authentic Japanese cool dude!",1,i love the ownerchef hi one authent japanes cool dude
+1882,We definately enjoyed ourselves.,1,we defin enjoy ourselv
+1888,Seriously killer hot chai latte.,1,serious killer hot chai latt
+1890,My boyfriend tried the Mediterranean Chicken Salad and fell in love.,1,my boyfriend tri the mediterranean chicken salad and fell in love
+1891,Their rotating beers on tap is also a highlight of this place.,1,their rotat beer on tap be also a highlight of thi place
+1894,If you stay in Vegas you must get breakfast here at least once.,1,if you stay in vega you must get breakfast here at least onc
+1895,I want to first say our server was great and we had perfect service.,1,i want to first say our server be great and we have perfect servic
+1896,The pizza selections are good.,1,the pizza select be good
+1897,"I had strawberry tea, which was good.",1,i have strawberri tea which be good
+1899,"Overall, a great experience.",1,overal a great experi
+1901,Their regular toasted bread was equally satisfying with the occasional pats of butter... Mmmm...!,1,their regular toast bread be equal satisfi with the occasion pat of butter mmmm
+1907,The chips and sals a here is amazing!!!!!!!!!!!!!!!!!!!,1,the chip and sal a here be amaz
+1909,This is my new fav Vegas buffet spot.,1,thi be my new fav vega buffet spot
+1922,"Every time I eat here, I see caring teamwork to a professional degree.",1,everi time i eat here i see care teamwork to a profession degre
+2001,"Good case, Excellent value.",1,good case excel valu
+2002,Great for the jawbone.,1,great for the jawbon
+2004,The mic is great.,1,the mic be great
+2007,If you are Razr owner...you must have this!,1,if you be razr ownery must have thi
+2010,And the sound quality is great.,1,and the sound qualiti be great
+2011,He was very impressed when going from the original battery to the extended battery.,1,he be veri impress when go from the origin batteri to the extend batteri
+2013,Very good quality though,1,veri good qualiti though
+2015,Highly recommend for any one who has a blue tooth phone.,1,highli recommend for ani one who have a blue tooth phone
+2017,So Far So Good!.,1,so far so good
+2018,Works great!.,1,work great
+2021,I bought this to use with my Kindle Fire and absolutely loved it!,1,i buy thi to use with my kindl fire and absolut love it
+2023,I have yet to run this new battery below two bars and that's three days without charging.,1,i have yet to run thi new batteri below two bar and that three day without charg
+2025,Great Pocket PC / phone combination.,1,great pocket pc phone combin
+2026,I've owned this phone for 7 months now and can say that it's the best mobile phone I've had.,1,ive own thi phone for 7 month now and can say that it the best mobil phone ive have
+2031,This product is ideal for people like me whose ears are very sensitive.,1,thi product be ideal for peopl like me whose ear be veri sensit
+2034,Car charger as well as AC charger are included to make sure you never run out of juice.Highy recommended,1,car charger as well a ac charger be includ to make sure you never run out of juicehighi recommend
+2036,It has kept up very well.,1,it have keep up veri well
+2038,The case is great and works fine with the 680.,1,the case be great and work fine with the 680
+2040,"It has a great camera thats 2MP, and the pics are nice and clear with great picture quality.",1,it have a great camera that 2mp and the pic be nice and clear with great pictur qualiti
+2042,Nice headset priced right.,1,nice headset price right
+2044,Excellent bluetooth headset.,1,excel bluetooth headset
+2045,It has all the features I want,1,it have all the featur i want
+2048,This case seems well made.,1,thi case seem well make
+2051,good protection and does not make phone too bulky.,1,good protect and do not make phone too bulki
+2052,A usable keyboard actually turns a PDA into a real-world useful machine instead of just a neat gadget.,1,a usabl keyboard actual turn a pda into a realworld use machin instead of just a neat gadget
+2053,This phone is pretty sturdy and I've never had any large problems with it.,1,thi phone be pretti sturdi and ive never have ani larg problem with it
+2054,I love this thing!,1,i love thi thing
+2055,Everything about it is fine and reasonable for the price i.e.,1,everyth about it be fine and reason for the price ie
+2057,I even dropped this phone into a stream and it was submerged for 15 seconds and it still works great!,1,i even drop thi phone into a stream and it be submerg for 15 second and it still work great
+2058,I have been very happy with the 510 and have had NO complaints from any one regarding my sound quality on their end.,1,i have be veri happi with the 510 and have have no complaint from ani one regard my sound qualiti on their end
+2061,"I really recommend this faceplates since it looks very nice, elegant and cool.",1,i realli recommend thi facepl sinc it look veri nice eleg and cool
+2062,These headphones were a great find - and I think they are perhaps the best purchase I've made in the last several years - seriously.,1,these headphon be a great find and i think they be perhap the best purchas ive make in the last sever year serious
+2067,It feels more comfortable than most headsets because I wear glasses and that gets in the way sometimes.,1,it feel more comfort than most headset becaus i wear glass and that get in the way sometim
+2068,Great for iPODs too.,1,great for ipod too
+2069,This device is great in several situations:1.),1,thi devic be great in sever situations1
+2072,Great choice!,1,great choic
+2073,Nice docking station for home or work.,1,nice dock station for home or work
+2074,This is a beautiful phone.,1,thi be a beauti phone
+2075,Love this product.,1,love thi product
+2077,This is a great little item.,1,thi be a great littl item
+2078,"I love this phone , It is very handy and has a lot of features .",1,i love thi phone it be veri handi and have a lot of featur
+2080,I wear it everyday and it holds up very well.,1,i wear it everyday and it hold up veri well
+2082,"Well packaged, arrived on time, and works as intended.",1,well packag arriv on time and work as intend
+2085,The headsets are easy to use and everyone loves them.,1,the headset be easi to use and everyon love them
+2086,This phone works great.,1,thi phone work great
+2088,Product was excellent and works better than the verizon one and Boy was it cheaper!,1,product be excel and work well than the verizon one and boy be it cheap
+2089,The phone loads super!,1,the phone load super
+2091,Made very sturdy.,1,make veri sturdi
+2092,Worked great!.,1,work great
+2095,Will order from them again!,1,will order from them again
+2098,Best I've found so far .... I've tried 2 other bluetooths and this one has the best quality (for both me and the listener) as well as ease of using.,1,best ive found so far ive tri 2 other bluetooth and thi one have the best qualiti for both me and the listen as well a eas of use
+2100,Integrated seamlessly with the Motorola RAZR phone.,1,integr seamlessli with the motorola razr phone
+2102,Definitely a bargain.,1,definit a bargain
+2103,The price was very good and with the free shipping and all it was a good purchase.,1,the price be veri good and with the free ship and all it be a good purchas
+2105,"Pros:-Good camera - very nice pictures , also has cool styles like black and white, and more.",1,prosgood camera veri nice pictur also have cool style like black and white and more
+2107,"I love my 350 headset.. My Jabra350 bluetooth headset is great, the reception is very good and the ear piece is a comfortable fit.",1,i love my 350 headset my jabra350 bluetooth headset be great the recept be veri good and the ear piec be a comfort fit
+2110,"Sound quality on both end is excellent, I use headset to call my wife and ask my wife to use headset to call me !2.",1,sound qualiti on both end be excel i use headset to call my wife and ask my wife to use headset to call me 2
+2111,This phone is slim and light and the display is beautiful.,1,thi phone be slim and light and the display be beauti
+2112,its a little geeky but i think thats its sex on toast and it rocks and oozes sex right down to its battery embedded sleek stylish leather case.,1,it a littl geeki but i think that it sex on toast and it rock and ooz sex right down to it batteri emb sleek stylish leather case
+2113,"Great product, fast shipping!.",1,great product fast ship
+2114,Absolutely great.,1,absolut great
+2115,The keyboard is a nice compromise between a full QWERTY and the basic cell phone number keypad.,1,the keyboard be a nice compromis between a full qwerti and the basic cell phone number keypad
+2117,It is very comfortable on the ear.,1,it be veri comfort on the ear
+2118,It has been a winner for us.,1,it have be a winner for u
+2119,)Setup couldn't have been simpler.,1,setup couldnt have be simpler
+2120,I've tried several different earpieces for my cell phone and this Jabra one is the first one I've found that fits my ear comfortably.,1,ive tri sever differ earpiec for my cell phone and thi jabra one be the first one ive find that fit my ear comfort
+2122,Iam very pleased with my purchase.,1,iam veri pleas with my purchas
+2124,Gets the job done.,1,get the job do
+2125,Great audio!.,1,great audio
+2128,"I've only had my bluetooth for a few weeks, but I really like it.",1,ive onli have my bluetooth for a few week but i realli like it
+2130,It is so small and you don't even realize that it is there after a while of getting used to it.,1,it be so small and you dont even realiz that it be there after a while of get use to it
+2131,The accompanied software is almost brilliant.,1,the accompani softwar be almost brilliant
+2132,Headset works great & was packaged nicely to avoid any damage.,1,headset work great be packag nice to avoid ani damag
+2133,!I definitly recommend!!,1,i definitli recommend
+2136,Very good stuff for the price.,1,veri good stuff for the price
+2137,My headset works just peachy-keen.,1,my headset work just peachykeen
+2139,Voice recognition is tremendous!,1,voic recognit be tremend
+2145,I got this phone on reccomendation from a relative and I'm glad I did.,1,i get thi phone on reccomend from a rel and im glad i do
+2152,I had absolutely no problem with this headset linking to my 8530 Blackberry Curve!,1,i have absolut no problem with thi headset link to my 8530 blackberri curv
+2153,"I know that sounds funny, but to me it seemed like sketchy technology that wouldn't work well.Well, this one works great.",1,i know that sound funni but to me it seem like sketchi technolog that wouldnt work wellwel thi one work great
+2155,This phone is very fast with sending any kind of messages and web browsing is significantly faster than previous phones i have used.,1,thi phone be veri fast with send ani kind of messag and web brows be significantli faster than previou phone i have use
+2156,"Nice quality build, unlike some cheap s*** out there.",1,nice qualiti build unlik some cheap s out there
+2157,This item is fantastic and works perfectly!,1,thi item be fantast and work perfectli
+2158,And I just love the colors!,1,and i just love the color
+2159,W810i is just SUPERB.,1,w810i be just superb
+2161,Great charger.,1,great charger
+2163,Works like a charm; it work the same as the one I got with the phone.,1,work like a charm it work the same a the one i get with the phone
+2165,Great Value.,1,great valu
+2167,"The look of it is very sharp and the screen is nice and clear, with great graphics.",1,the look of it be veri sharp and the screen be nice and clear with great graphic
+2170,EXCELLENT SERVICE!!!!!!!!.,1,excel servic
+2173,The iGo chargers and tips are really great.,1,the igo charger and tip be realli great
+2174,The file browser offers all the options that one needs.Handsfree is great.,1,the file browser offer all the option that one needshandsfre be great
+2175,Superb Phone on a Great Network.,1,superb phone on a great network
+2176,"I connected my wife's bluetooth,(Motorola HS850) to my phone and it worked like a charm whether the phone was in my pocket or the case.",1,i connect my wife bluetoothmotorola hs850 to my phone and it work like a charm whether the phone be in my pocket or the case
+2182,The sound quality is good and functionality is awesome.,1,the sound qualiti be good and function be awesom
+2185,Incredible!.,1,incred
+2187,Great phone!.,1,great phone
+2191,Any ring tone..Overall good phone to buy..,1,ani ring toneoveral good phone to buy
+2192,Lately they have been extremely nice and helpful on the phone.,1,late they have be extrem nice and help on the phone
+2195,"Light weight, I hardly notice it is there.",1,light weight i hardli notic it be there
+2196,You'll love how thin it is.,1,youll love how thin it be
+2200,"The color is even prettier than I thought it would be, and the graphics are incredibly sharp.",1,the color be even pretti than i think it would be and the graphic be incred sharp
+2201,All in all I think it was a good investment.,1,all in all i think it be a good invest
+2203,The best electronics of the available FM Transmitters.,1,the best electron of the avail fm transmitt
+2205,"great headset, very impressed - H500.",1,great headset veri impress h500
+2206,"The ""1.2"" mega pixel camera, being a part of a phone, is reasonably good7.",1,the 12 mega pixel camera be a part of a phone be reason good7
+2207,I've had this for nearly 2 years and it has worked great for me.,1,ive have thi for nearli 2 year and it have work great for me
+2208,Good transmit audio.,1,good transmit audio
+2212,Great price also!,1,great price also
+2213,"The range is very decent, I've been able to roam around my house with the phone in the living room with no reception/sound quality issues.",1,the rang be veri decent ive be abl to roam around my hous with the phone in the live room with no receptionsound qualiti issu
+2214,fast service.,1,fast servic
+2215,I would highly recommend this.,1,i would highli recommend thi
+2216,I would recommend this.,1,i would recommend thi
+2219,I'm still infatuated with this phone.,1,im still infatu with thi phone
+2222,"Simple, lightweight and great fit.",1,simpl lightweight and great fit
+2225,These are certainly very comfortable and functionality is decent.,1,these be certainli veri comfort and function be decent
+2226,I usually don't like headbands but this one is very lightweight & doesn't mess up my hair.,1,i usual dont like headband but thi one be veri lightweight doesnt mess up my hair
+2233,Great sound and service.,1,great sound and servic
+2234,Really pleased with this product so far.,1,realli pleas with thi product so far
+2235,One of my favorite purchases ever.,1,one of my favorit purchas ever
+2236,best bluetooth on the market.,1,best bluetooth on the market
+2237,Authentic leather with nice shine and comfort .I recommend you this case !!,1,authent leather with nice shine and comfort i recommend you thi case
+2238,I was very excited to get this headset because I thought it was really cute.,1,i be veri excit to get thi headset becaus i think it be realli cute
+2245,Worth every penny.,1,worth everi penni
+2246,Excellent wallet type phone case.,1,excel wallet type phone case
+2247,Nice headphones for the price and they work great!,1,nice headphon for the price and they work great
+2249,"It is very comfortable to wear as well, which is probably the most important aspect about using a case.",1,it be veri comfort to wear as well which be probabl the most import aspect about use a case
+2250,"It's fits like a glove and is strong, secure, and durable.",1,it fit like a glove and be strong secur and durabl
+2251,O my gosh the best phone I have ever had.,1,o my gosh the best phone i have ever have
+2252,It's very attractive and appears to be of good quality.,1,it veri attract and appear to be of good qualiti
+2253,I love all the features and form factor.,1,i love all the featur and form factor
+2257,Great Earpiece.,1,great earpiec
+2258,Excellent hands free tool.,1,excel hand free tool
+2259,Great for using with your home stereo.,1,great for use with your home stereo
+2260,Good product - incredible value.,1,good product incred valu
+2261,Only had this a month but it's worked flawlessly so far.,1,onli have thi a month but it work flawlessli so far
+2262,Works great.,1,work great
+2265,Battery life is real good.,1,batteri life be real good
+2267,It's a great item.,1,it a great item
+2269,Love this headset!,1,love thi headset
+2271,Worked perfectly!,1,work perfectli
+2273,I gave it 5 stars because of the sound quality.,1,i give it 5 star becaus of the sound qualiti
+2275,Reversible plug works great.,1,revers plug work great
+2277,Very good phone.,1,veri good phone
+2278,"Best of all is the rotating feature, very helpful.",1,best of all be the rotat featur veri help
+2279,Comfort for our whole family.,1,comfort for our whole famili
+2280,"Good product, good seller.",1,good product good seller
+2281,I love this bluetooth!,1,i love thi bluetooth
+2283,I am very impressed with this headset from Plantronics.,1,i be veri impress with thi headset from plantron
+2284,I got it because it was so small and adorable.,1,i get it becaus it be so small and ador
+2285,Great phone!.,1,great phone
+2289,"This item is great, installed it, let it charged up overnite and it has been working good every since with no problems",1,thi item be great instal it let it charg up overnit and it have be work good everi sinc with no problem
+2290,Great Phone.,1,great phone
+2292,Excellent Phone.,1,excel phone
+2294,The voice recognition thru the handset is excellent.,1,the voic recognit thru the handset be excel
+2295,This is hands down the best phone I've ever had.,1,thi be hand down the best phone ive ever have
+2296,"Works great, when my cat attacked the phone he scratched the protective strip instead of destroying the screen.",1,work great when my cat attack the phone he scratch the protect strip instead of destroy the screen
+2297,This one works and was priced right.,1,thi one work and be price right
+2301,Now I know that I made a wise decision.,1,now i know that i make a wise decis
+2302,Someone shouldve invented this sooner.,1,someon shouldv invent thi sooner
+2303,Good price.,1,good price
+2304,Everything worked on the first try.The device was certainly engineered in a clever way and the construction feels good.,1,everyth work on the first tryth devic be certainli engin in a clever way and the construct feel good
+2305,I received it quickly and it works great!!,1,i receiv it quickli and it work great
+2306,Has been working great.,1,have be work great
+2310,"This is a good battery, and it got here really fast.",1,thi be a good batteri and it get here realli fast
+2312,Also its slim enough to fit into my alarm clock docking station without removing the case.,1,also it slim enough to fit into my alarm clock dock station without remov the case
+2313,Phone now holds charge like it did when it was new.,1,phone now hold charg like it do when it be new
+2316,We have gotten a lot of compliments on it.,1,we have get a lot of compliment on it
+2317,This is definitely a must have if your state does not allow cell phone usage while driving.,1,thi be definit a must have if your state do not allow cell phone usag while drive
+2319,I love this device.,1,i love thi devic
+2320,I am also very happy with the price.,1,i be also veri happi with the price
+2323,I was able to do voice dialing in the car with no problem.,1,i be abl to do voic dial in the car with no problem
+2325,"good item, low price.",1,good item low price
+2330,VERY comfortable.,1,veri comfort
+2331,The battery is working well as a replacement for the original that came with the phone over 2 years ago.,1,the batteri be work well a a replac for the origin that come with the phone over 2 year ago
+2332,The reception is excellent!,1,the recept be excel
+2333,"It fits comfortably in either ear, the sound is clear and loud, and the charge lasts a couple of days.",1,it fit comfort in either ear the sound be clear and loud and the charg last a coupl of day
+2334,"very clear, quality sound and you don't have to mess with the sound on your iPod since you have the sound buttons on the headset.",1,veri clear qualiti sound and you dont have to mess with the sound on your ipod sinc you have the sound button on the headset
+2340,Excellent sound quality.,1,excel sound qualiti
+2343,New Battery works great in phone.,1,new batteri work great in phone
+2345,"I've dropped my phone more times than I can say, even on concrete and my phone is still great (knock on wood!).",1,ive drop my phone more time than i can say even on concret and my phone be still great knock on wood
+2347,Good audio quality.,1,good audio qualiti
+2348,This little device has transformed my organizational capability and made my life a whole lot easier.,1,thi littl devic have transform my organiz capabl and make my life a whole lot easi
+2351,Works like a charm.. Works as advertised.,1,work like a charm work a advertis
+2352,"Comfortable, Nice Range, Good Battery Life.",1,comfort nice rang good batteri life
+2359,"The microphone also works well, but (according to people I have called) it applifies everything.",1,the microphon also work well but accord to peopl i have call it applifi everyth
+2360,Nice design and quality.,1,nice design and qualiti
+2362,"It is light, easy to use, and has very clear reception and transmission.",1,it be light easi to use and have veri clear recept and transmiss
+2364,It definitely was not as good as my S11.,1,it definit be not as good a my s11
+2365,awesome device.,1,awesom devic
+2367,"I had ordered a motorola data cable, got a very well finished and working product.",1,i have order a motorola data cabl get a veri well finish and work product
+2368,Love This Phone.,1,love thi phone
+2369,I was looking for this headset for a long time and now that I've got it I couldn't be happier.,1,i be look for thi headset for a long time and now that ive get it i couldnt be happi
+2371,Display is excellent and camera is as good as any from that year.,1,display be excel and camera be as good a ani from that year
+2372,Battery life is also great!,1,batteri life be also great
+2376,Protects the phone on all sides.,1,protect the phone on all side
+2378,"Clear Skype Calls, Long Battery Life, Long Range.",1,clear skype call long batteri life long rang
+2380,Great Hands Free Device.,1,great hand free devic
+2381,"you can even take self portraits with the outside (exterior) display, very cool.",1,you can even take self portrait with the outsid exterior display veri cool
+2383,After trying many many handsfree gadgets this is the one that finally works well.,1,after tri mani mani handsfre gadget thi be the one that final work well
+2384,Magical Help.,1,magic help
+2387,The best phone in market :).,1,the best phone in market
+2388,It worked very well.,1,it work veri well
+2389,The company shipped my product very promptly and it works well.,1,the compani ship my product veri promptli and it work well
+2390,Exactly what I wanted.,1,exactli what i want
+2392,This is a great deal.,1,thi be a great deal
+2393,"Excellent product, I am very satisfied with the purchase.",1,excel product i be veri satisfi with the purchas
+2394,I highly recommend these and encourage people to give them a try.,1,i highli recommend these and encourag peopl to give them a tri
+2395,Better than you'd expect.,1,good than youd expect
+2397,Great product and price.,1,great product and price
+2398,"Sounds good reasonably priced and effective, Its that simple !",1,sound good reason price and effect it that simpl
+2401,Very prompt service.,1,veri prompt servic
+2402,Excellent product for the price.,1,excel product for the price
+2403,Very pleased with this headset.,1,veri pleas with thi headset
+2405,I especially love the long battery life.,1,i especi love the long batteri life
+2407,Works great.,1,work great
+2408,Plantronics Bluetooth Excelent Buy.,1,plantron bluetooth excel buy
+2411,I highly recommend this device to everyone!,1,i highli recommend thi devic to everyon
+2412,Jawbone Era is awesome too!,1,jawbon era be awesom too
+2415,"I have used several phone in two years, but this one is the best.",1,i have use sever phone in two year but thi one be the best
+2416,An Awesome New Look For Fall 2000!.,1,an awesom new look for fall 2000
+2420,Price is good too.,1,price be good too
+2423,I'm using it with an iriver SPINN (with case) and it fits fine.,1,im use it with an iriv spinn with case and it fit fine
+2425,"Overall, I am psyched to have a phone which has all my appointments and contacts in and gets great reception.",1,overal i be psych to have a phone which have all my appoint and contact in and get great recept
+2426,"every thing on phone work perfectly, she like it.",1,everi thing on phone work perfectli she like it
+2428,IT'S REALLY EASY.,1,it realli easi
+2429,My Sanyo has survived dozens of drops on blacktop without ill effect.,1,my sanyo have surviv dozen of drop on blacktop without ill effect
+2430,Fantastic earphones.,1,fantast earphon
+2431,It finds my cell phone right away when I enter the car.,1,it find my cell phone right away when i enter the car
+2433,I highly recommend this modest priced cellular phone.,1,i highli recommend thi modest price cellular phone
+2434,But it does get better reception and clarity than any phone I've had before.,1,but it do get good recept and clariti than ani phone ive have befor
+2437,Awsome Device Works Great!!.,1,awsom devic work great
+2443,Restored my phone to like new performance.,1,restor my phone to like new perform
+2444,"I would recommend purchasing the Jabra JX-10 series 2 which works flawlessly with my Moto Q, go figure.",1,i would recommend purchas the jabra jx10 seri 2 which work flawlessli with my moto q go figur
+2445,"I searched the Internet, and found this one to be the best value.",1,i search the internet and find thi one to be the best valu
+2447,Very happy with this product.,1,veri happi with thi product
+2448,"The screen size is big, key pad lit well enough, and the camera quality is excellent for a camera phone.",1,the screen size be big key pad lit well enough and the camera qualiti be excel for a camera phone
+2450,"i'm glad i found this product on amazon it is hard to find, it wasn't high priced.",1,im glad i find thi product on amazon it be hard to find it wasnt high price
+2451,Portable and it works.,1,portabl and it work
+2452,"My colleague & I now get great reception.A little expensive, but performance is great.",1,my colleagu i now get great receptiona littl expens but perform be great
+2456,Timely shipment and quality product.,1,time shipment and qualiti product
+2457,Nice solid keyboard.,1,nice solid keyboard
+2458,Very well made and fits my Surefire GX2 perfectly.,1,veri well make and fit my surefir gx2 perfectli
+2461,We would recommend these to others.,1,we would recommend these to other
+2465,The battery works great!,1,the batteri work great
+2469,"Looks great and is strong.""",1,look great and be strong
+2470,"I have had TMobile service for 2 or 3 years now, and I am pretty happy with it.",1,i have have tmobil servic for 2 or 3 year now and i be pretti happi with it
+2473,Great software for Motorolas.,1,great softwar for motorola
+2474,The delivery was on time.,1,the deliveri be on time
+2475,Very easy to use.,1,veri easi to use
+2478,"It holds a charge for a long time, is reasonably comfortable under long-wearing conditions and the quality of sound is tremendous.",1,it hold a charg for a long time be reason comfort under longwear condit and the qualiti of sound be tremend
+2480,The keyboard is really worthwhile in usefulness and is sturdy enough I don't expect any problems.,1,the keyboard be realli worthwhil in use and be sturdi enough i dont expect ani problem
+2482,"After charging overnight, these batteries work great.",1,after charg overnight these batteri work great
+2483,You won't regret it!,1,you wont regret it
+2484,I love this phone!.,1,i love thi phone
+2490,This PDA rocks.,1,thi pda rock
+2491,"It is super charged up for use as a small hybrid palmtop/camera/cellphone, and excels in those roles.",1,it be super charg up for use a a small hybrid palmtopcameracellphon and excel in those role
+2492,"I would definitely recommend the Jabra BT250v for those who are looking for comfort, clarity and a great price!",1,i would definit recommend the jabra bt250v for those who be look for comfort clariti and a great price
+2493,I had Verizon 2 years ago and really liked their service.,1,i have verizon 2 year ago and realli like their servic
+2496,Works as described.,1,work a describ
+2499,WELL IM SATISFIED.,1,well im satisfi
+2500,"The bose noise cancelling is amazing, which is very important for a NYC commuter.",1,the bose nois cancel be amaz which be veri import for a nyc commut
+2501,This battery is an excellent bargain!,1,thi batteri be an excel bargain
+2504,I wear glasses and it fits fine with them.,1,i wear glass and it fit fine with them
+2508,great...no problems at all!.,1,greatno problem at all
+2510,This frog phone charm is adorable and very eye catching.,1,thi frog phone charm be ador and veri eye catch
+2512,The sound is clear and the people I talk to on it are amazed at the quality too.,1,the sound be clear and the peopl i talk to on it be amaz at the qualiti too
+2513,I got the aluminum case for my new Palm VX and it worked really well--it has protected my handheld perfectly so far.,1,i get the aluminum case for my new palm vx and it work realli wellit have protect my handheld perfectli so far
+2514,"very good product, well made.",1,veri good product well make
+2515,Mobile Phone Tools are a must have.,1,mobil phone tool be a must have
+2516,I am very impressed with the job that Motorola did on the sturdiness of this phone.,1,i be veri impress with the job that motorola do on the sturdi of thi phone
+2517,"I received my orders well within the shipping timeframe, everything was in good working order and overall, I am very excited to have this source.",1,i receiv my order well within the ship timefram everyth be in good work order and overal i be veri excit to have thi sourc
+2518,The phone is sturdy and waterproof.,1,the phone be sturdi and waterproof
+2521,Thanks again to Amazon for having the things I need for a good price!,1,thank again to amazon for have the thing i need for a good price
+2522,I ended up sliding it on the edge of my pants or back pockets instead.,1,i end up slide it on the edg of my pant or back pocket instead
+2523,I had to go to a store and bought a new NOKIA phone which is working great.,1,i have to go to a store and buy a new nokia phone which be work great
+2524,Works great!.,1,work great
+2527,The noise shield is incrediable.,1,the nois shield be incredi
+2529,Razr Battery - Good buy.,1,razr batteri good buy
+2530,Keep up the good work Amazon!!,1,keep up the good work amazon
+2534,Great case and price!,1,great case and price
+2536,"Bluetooth range is good - a few days ago I left my phone in the trunk, got a call, and carried the conversation without a hitch.",1,bluetooth rang be good a few day ago i leav my phone in the trunk get a call and carri the convers without a hitch
+2537,"Small, sleek, impressive looking, practical setup with ample storage in place.",1,small sleek impress look practic setup with ampl storag in place
+2538,The eargels channel the sound directly into your ear and seem to increase the sound volume and clarity.,1,the eargel channel the sound directli into your ear and seem to increas the sound volum and clariti
+2540,I am glad I purchased it.,1,i be glad i purchas it
+2545,"No shifting, no bubbling, no peeling, not even a scratch, NOTHING!I couldn't be more happier with my new one for the Droid.",1,no shift no bubbl no peel not even a scratch nothingi couldnt be more happi with my new one for the droid
+2549,"I own a Jabra Earset and was very happy with it, but the sound quality, especially outgoing, on this is better.",1,i own a jabra earset and be veri happi with it but the sound qualiti especi outgo on thi be well
+2550,"I love the camera, it's really pretty good quality.",1,i love the camera it realli pretti good qualiti
+2551,Thank you for such great service.,1,thank you for such great servic
+2552,Its a total package.,1,it a total packag
+2553,"The seller is very understanding and patient, I would definitely buy from them again.",1,the seller be veri understand and patient i would definit buy from them again
+2556,Great product for the price!.,1,great product for the price
+2557,"I have purchased these for both family and friends, and all enjoy their clarity and ease of use",1,i have purchas these for both famili and friend and all enjoy their clariti and eas of use
+2558,Virgin Wireless rocks and so does this cheap little phone!,1,virgin wireless rock and so do thi cheap littl phone
+2562,"All in all, I'm quite satisfied with this purchase.",1,all in all im quit satisfi with thi purchas
+2567,"Great it was new packaged nice works good, no problems and it came in less time then I expected!!!!",1,great it be new packag nice work good no problem and it come in less time then i expect
+2568,Great Product.,1,great product
+2571,This fixes all the problems.,1,thi fix all the problem
+2573,I am very happy,1,i be veri happi
+2574,"I've had no trouble accessing the Internet, downloading ringtones or performing any of the functions.",1,ive have no troubl access the internet download rington or perform ani of the function
+2578,It does everything the description said it would.,1,it do everyth the descript say it would
+2580,"It works great with a car charger, especially if you cannot plug in two adapters at the same time.",1,it work great with a car charger especi if you can not plug in two adapt at the same time
+2583,"It plays louder than any other speaker of this size; the price is so low that most would think the quality is lacking, however, it's not.",1,it play louder than ani other speaker of thi size the price be so low that most would think the qualiti be lack howev it not
+2584,Better than expected.,1,good than expect
+2586,Battery is holding up well.,1,batteri be hold up well
+2591,Linked to my phone without effort.,1,link to my phone without effort
+2592,THey are so cool!,1,they be so cool
+2593,Easy to use.,1,easi to use
+2594,Better Than New.,1,good than new
+2597,A pretty good product.,1,a pretti good product
+2598,This is a great phone!.,1,thi be a great phone
+2599,"For the price on Amazon, it is an excellent product, which I would highly recommend.",1,for the price on amazon it be an excel product which i would highli recommend
+2600,Their Research and Development division obviously knows what they're doing.,1,their research and develop divis obvious know what theyr do
+2602,Those phones are working just fine now.,1,those phone be work just fine now
+2603,I am more than happy with this product.,1,i be more than happi with thi product
+2606,"Overall, I would recommend this phone over the new Walkman.",1,overal i would recommend thi phone over the new walkman
+2609,It fits my ear well and is comfortable on.,1,it fit my ear well and be comfort on
+2611,clipping this to your belt will deffinitely make you feel like 50 cent's up-and-coming.,1,clip thi to your belt will deffinit make you feel like 50 cent upandcom
+2612,I like design and look of Jabra behing the ear headsets and 5020 is pretty comfortible to wear 24 hours a day without pain in the ear.,1,i like design and look of jabra behe the ear headset and 5020 be pretti comfort to wear 24 hour a day without pain in the ear
+2613,I was amazed at the quick arrival of the two original lg cell phone batteries and and at a fraction of the price.,1,i be amaz at the quick arriv of the two origin lg cell phone batteri and and at a fraction of the price
+2619,Worked very well paired with a Treo 700w and as a Skype headset on my PC (using a USB Bluetooth transceiver).,1,work veri well pair with a treo 700w and a a skype headset on my pc use a usb bluetooth transceiv
+2622,This is a great product..... sure beats using your fingers!.,1,thi be a great product sure beat use your finger
+2624,All the other cases I've tried normally fall apart after a few months but this one seems to be in for the long haul.,1,all the other case ive tri normal fall apart after a few month but thi one seem to be in for the long haul
+2629,I recommend iGo to anyone with different brand cell phones/mp3 players in the family.,1,i recommend igo to anyon with differ brand cell phonesmp3 player in the famili
+2631,"I posted more detailed comments under the grey or black phone, but i have the Fire Red and it's a great color!",1,i post more detail comment under the grey or black phone but i have the fire red and it a great color
+2632,I did not have any problem with this item and would order it again if needed.,1,i do not have ani problem with thi item and would order it again if need
+2634,"Not only did the software do a great job of this, I could also make my own ringtones form my existing CDs without an internet connection.",1,not onli do the softwar do a great job of thi i could also make my own rington form my exist cd without an internet connect
+2635,im surprised this is a good quality car charger and there's not much reviews about it.,1,im surpris thi be a good qualiti car charger and there not much review about it
+2636,These are fabulous!,1,these be fabul
+2638,I used bitpim (a free program you can find on the internet)to transfer data to the phone.The price of the cable was excellent.,1,i use bitpim a free program you can find on the internetto transfer data to the phoneth price of the cabl be excel
+2641,Very wind-resistant.,1,veri windresist
+2643,"They do not last forever, but is not overly expensive to replace.Easy to operate and the sound is much better than others I have tried.",1,they do not last forev but be not overli expens to replaceeasi to oper and the sound be much good than other i have tri
+2646,Phone is sturdy as all nokia bar phones are.,1,phone be sturdi a all nokia bar phone be
+2647,Great phone.,1,great phone
+2649,I'm pleased.,1,im pleas
+2651,I found the product to be easy to set up and use.,1,i find the product to be easi to set up and use
+2655,"No ear loop needed, it's tiny and the sound is great.",1,no ear loop need it tini and the sound be great
+2657,"The handsfree part works fine, but then the car tries to download the address book, and the Treo reboots.Overall, I still rate this device high.",1,the handsfre part work fine but then the car tri to download the address book and the treo rebootsoveral i still rate thi devic high
+2661,I'm happy about this purchase- good quality and low price.,1,im happi about thi purchas good qualiti and low price
+2662,I love the look and feel of Samsung flipphones.,1,i love the look and feel of samsung flipphon
+2663,Its well-designed and very sharp -- the blue is a very nice color.,1,it welldesign and veri sharp the blue be a veri nice color
+2664,Does everything it should and more.,1,do everyth it should and more
+2666,Nice Sound.,1,nice sound
+2668,Much less than the jawbone I was going to replace it with.,1,much less than the jawbon i be go to replac it with
+2669,Setup went very smoothly.,1,setup go veri smoothli
+2673,"It is well made, easy to access the phone and has a handy, detachable belt clip.",1,it be well make easi to access the phone and have a handi detach belt clip
+2678,"It works fine on my Motorola 325 cellphone, and a lot better than the worn-out battery did.",1,it work fine on my motorola 325 cellphon and a lot good than the wornout batteri do
+2679,The volume for the ringer is REAL good (you have choices how loud).,1,the volum for the ringer be real good you have choic how loud
+2683,I love the ringtones because they are so upbeat!,1,i love the rington becaus they be so upbeat
+2685,Easy to pair with my Samsung Cell.,1,easi to pair with my samsung cell
+2689,Works well.,1,work well
+2691,Clear crisp sound.,1,clear crisp sound
+2692,"I have to use the smallest earpieces provided, but it stays on pretty well.",1,i have to use the small earpiec provid but it stay on pretti well
+2696,The phone can also take great pictures and even video clips.,1,the phone can also take great pictur and even video clip
+2698,"Because both ears are occupied, background is not distracting at all.",1,becaus both ear be occupi background be not distract at all
+2699,"Comfortable fit - you need your headset to be comfortable for at least an hour at a time, if not for an entire day.",1,comfort fit you need your headset to be comfort for at least an hour at a time if not for an entir day
+2701,You can't beat the price on these.,1,you cant beat the price on these
+2702,"* Comes with a strong light that you can use to light up your camera shots, and even flash SOS signals (seriously!",1,come with a strong light that you can use to light up your camera shot and even flash so signal serious
+2703,lightweight and works well.,1,lightweight and work well
+2705,I love this cable - it allows me to connect any mini-USB device to my PC.,1,i love thi cabl it allow me to connect ani miniusb devic to my pc
+2707,This is cool because most cases are just open there allowing the screen to get all scratched up.,1,thi be cool becaus most case be just open there allow the screen to get all scratch up
+2709,Appears to actually outperform the original battery from China that came with my V325i.,1,appear to actual outperform the origin batteri from china that come with my v325i
+2713,"jabra ear gels ""R"" the best!.",1,jabra ear gel r the best
+2716,"It quit working after I'd used it for about 18 months, so I just purchased another one because this is the best headset I've ever owned.",1,it quit work after id use it for about 18 month so i just purchas anoth one becaus thi be the best headset ive ever own
+2718,It was a great phone.,1,it be a great phone
+2720,"Good value, works fine - power via USB, car, or wall outlet.",1,good valu work fine power via usb car or wall outlet
+2721,My phone doesn't slide around my car now and the grip prevents my phone from slipping out of my hand.,1,my phone doesnt slide around my car now and the grip prevent my phone from slip out of my hand
+2722,This is simply the BEST bluetooth headset for sound quality!,1,thi be simpli the best bluetooth headset for sound qualiti
+2724,"In the span of an hour, I had two people exclaim ""Whoa - is that the new phone on TV?!?",1,in the span of an hour i have two peopl exclaim whoa be that the new phone on tv
+2725,I have always used corded headsets and the freedom from the wireless is very helpful.,1,i have alway use cord headset and the freedom from the wireless be veri help
+2726,"This case has passed the one year mark and while it shows signs of wear, it is 100% functional.",1,thi case have pass the one year mark and while it show sign of wear it be 100 function
+2727,"Other than that, the leather is nice and soft; the fit is very tight; the cut out for the face is a good shape.",1,other than that the leather be nice and soft the fit be veri tight the cut out for the face be a good shape
+2728,It has everything I need and I couldn't ask for more.,1,it have everyth i need and i couldnt ask for more
+2730,This product is great... it makes working a lot easier I can go to the copier while waiting on hold for something.,1,thi product be great it make work a lot easi i can go to the copier while wait on hold for someth
+2732,T-Mobile has the best customer service anywhere.,1,tmobil have the best custom servic anywher
+2733,Arrived quickly and much less expensive than others being sold.,1,arriv quickli and much less expens than other be sell
+2735,"Provides good protection and looks classy, too.",1,provid good protect and look classi too
+2736,Krussel Always good.,1,krussel alway good
+2737,"The tracfonewebsite is user friendly and makes it easy toactivate, etc.",1,the tracfonewebsit be user friendli and make it easi toactiv etc
+2738,The design is very good.4.,1,the design be veri good4
+2739,I great reception all the time.,1,i great recept all the time
+2740,I would highly recommend this product.,1,i would highli recommend thi product
+2745,Fantastic buy and will get again for whatever my next phone is,1,fantast buy and will get again for whatev my next phone be
+2747,This BlueAnt Supertooth hands-free phone speaker is AWESOME.,1,thi blueant supertooth handsfre phone speaker be awesom
+2749,.... Item arrived quickly and works great with my Metro PCS Samsung SCH-r450 slider phone and Sony Premium Sound in ear plugs.,1,item arriv quickli and work great with my metro pc samsung schr450 slider phone and soni premium sound in ear plug
+2750,"It is light, has plenty of battery capacity, and is very confortable to wear for somewhat extended periods of time.",1,it be light have plenti of batteri capac and be veri confort to wear for somewhat extend period of time
+2752,Blue Ant is easy to use.,1,blue ant be easi to use
+2753,Cheap but hey it works.. Was pleasantly suprised given the low cost of this item.,1,cheap but hey it work be pleasantli supris give the low cost of thi item
+2756,It's very convenient and simple to use - gets job done & makes the car ride so much smoother.,1,it veri conveni and simpl to use get job do make the car ride so much smoother
+2758,The sound quality is excellent as well.,1,the sound qualiti be excel as well
+2759,Its the best headset I have used.,1,it the best headset i have use
+2761,They have been around for years and carries the highest quality of anti-glare screen protector that I have found to date.,1,they have be around for year and carri the high qualiti of antiglar screen protector that i have find to date
+2762,Just what I wanted.,1,just what i want
+2768,Great product.,1,great product
+2769,Crisp and Clear.,1,crisp and clear
+2773,The reception has been generally good.,1,the recept have be gener good
+2774,"Excellent sound, battery life and inconspicuous to boot!.",1,excel sound batteri life and inconspicu to boot
+2775,Great bluetooth!.,1,great bluetooth
+2776,I highly recommend this case.,1,i highli recommend thi case
+2777,WORTHWHILE.,1,worthwhil
+2778,This is a great deal.,1,thi be a great deal
+2787,It is simple to use and I like it.,1,it be simpl to use and i like it
+2788,"It's a great tool for entertainment, communication, and data management.Oh, be sure to use ActiveSync 4.2 for optimal data synchronization results!",1,it a great tool for entertain commun and data managementoh be sure to use activesync 42 for optim data synchron result
+2791,I own 2 of these cases and would order another.,1,i own 2 of these case and would order anoth
+2792,Great Phone.,1,great phone
+2793,I bought this battery with a coupon from Amazon and I'm very happy with my purchase.,1,i buy thi batteri with a coupon from amazon and im veri happi with my purchas
+2795,Perfect for the PS3.,1,perfect for the ps3
+2796,"Five star Plus, plus.",1,five star plu plu
+2797,A good quality bargain.. I bought this after I bought a cheapy from Big Lots that sounded awful and people on the other end couldn't hear me.,1,a good qualiti bargain i buy thi after i buy a cheapi from big lot that sound aw and peopl on the other end couldnt hear me
+2800,"Good , works fine.",1,good work fine
+2801,For the price this was a great deal.,1,for the price thi be a great deal
+2802,"Great price, too!",1,great price too
+2804,Yes it's shiny on front side - and I love it!,1,ye it shini on front side and i love it
+2807,The reception through this headset is excellent.,1,the recept through thi headset be excel
+2808,2 thumbs up to this seller,1,2 thumb up to thi seller
+2809,"I have a Verizon LG phone and they work well together, good reception and range that exceeds 20 feet line of sight.",1,i have a verizon lg phone and they work well togeth good recept and rang that exceed 20 foot line of sight
+2811,#1 It Works - #2 It is Comfortable.,1,1 it work 2 it be comfort
+2812,Battery charge-life is quite long.,1,batteri chargelif be quit long
+2813,The Jabra EarGels fit my ears very well.,1,the jabra eargel fit my ear veri well
+2816,Product is exactly as described.,1,product be exactli a describ
+2817,Gets a signal when other Verizon phones won't.,1,get a signal when other verizon phone wont
+2819,I would recommend it.,1,i would recommend it
+2820,Plan on ordering from them again and again.,1,plan on order from them again and again
+2821,"That being said, for a phone, the camera is very nice; many cool effects to play with, and video is decent as well.",1,that be say for a phone the camera be veri nice mani cool effect to play with and video be decent as well
+2822,I have been very satisfied with this cell phone from day one.,1,i have be veri satisfi with thi cell phone from day one
+2823,They keep getting better and better (this is my third one and I've had numerous Palms too).,1,they keep get good and well thi be my third one and ive have numer palm too
+2825,The shipping time was also very quick!,1,the ship time be also veri quick
+2827,Good case!.,1,good case
+2829,Really good product.,1,realli good product
+2850,It looks very nice.,1,it look veri nice
+2851,"This is an excellent tool, especially when paired with your phone's auto-answer.",1,thi be an excel tool especi when pair with your phone autoansw
+2852,I have read other's reviews here but I haven't had any problem with it.,1,i have read other review here but i havent have ani problem with it
+2854,Comfortable in my hand.,1,comfort in my hand
+2857,(It works!),1,it work
+2862,So far it has worked like a charm.,1,so far it have work like a charm
+2863,"I have only had it for a few weeks, but so far, so good.",1,i have onli have it for a few week but so far so good
+2864,"But, in any case, the best part is, you can download these pictures to your laptop using IR, or even send pictures from your laptop to the phone.",1,but in ani case the best part be you can download these pictur to your laptop use ir or even send pictur from your laptop to the phone
+2865,Would recommend this item.,1,would recommend thi item
+2866,It's been my choice headset for years.Great sound; good volume; good noise cancellation.,1,it be my choic headset for yearsgreat sound good volum good nois cancel
+2867,"Nice case, feels good in your hands.",1,nice case feel good in your hand
+2869,"Just really good.. So far, probably the best BT headset I have ever had.",1,just realli good so far probabl the best bt headset i have ever have
+2870,Works fine.,1,work fine
+2871,I received my headset in good time and was happy with it.,1,i receiv my headset in good time and be happi with it
+2872,I was very pleased to see that I could replace my well travled swivel holster for my Blackberry flip.,1,i be veri pleas to see that i could replac my well travl swivel holster for my blackberri flip
+2873,My sister has one also and she loves it.,1,my sister have one also and she love it
+2874,Good Quality.,1,good qualiti
+2876,Excellent dual-purpose headset.,1,excel dualpurpos headset
+2877,Excellent!.,1,excel
+2879,"It seems completely secure, both holding on to my belt, and keeping the iPhone inside.",1,it seem complet secur both hold on to my belt and keep the iphon insid
+2882,The only good thing was that it fits comfortably on small ears.,1,the onli good thing be that it fit comfort on small ear
+2884,"I am pairing this with my iphone, and I could not be happier with it so far.",1,i be pair thi with my iphon and i could not be happi with it so far
+2887,Best headset ever!!!.,1,best headset ever
+2889,It was that loud.Glad to say that the Plantronics 510 maintains a flawless connection to my cell and with no static during normal use.,1,it be that loudglad to say that the plantron 510 maintain a flawless connect to my cell and with no static dure normal use
+2891,"Fits comfortably, came with three sizes of earbud tips.",1,fit comfort come with three size of earbud tip
+2892,Excellent product for the price.,1,excel product for the price
+2895,It was quite comfortable in the ear.,1,it be quit comfort in the ear
+2896,Great phone.,1,great phone
+2899,The pairing of the two devices was so easy it barely took a couple minutes before I started making calls with the voice dialing feature.,1,the pair of the two devic be so easi it bare take a coupl minut befor i start make call with the voic dial featur
+2902,The cutouts and buttons are placed perfectly.,1,the cutout and button be place perfectli
+2903,I love being able to use one headset for both by land-line and cell.,1,i love be abl to use one headset for both by landlin and cell
+2906,"But despite these few flaws, this case is of exceptional quality and well worth the additional costs of owning an official OEM product.",1,but despit these few flaw thi case be of except qualiti and well worth the addit cost of own an offici oem product
+2908,"I can hear while I'm driving in the car, and usually don't even have to put it on it's loudest setting.",1,i can hear while im drive in the car and usual dont even have to put it on it loud set
+2909,Seller shipped quickly and much cheaper than the competitors.,1,seller ship quickli and much cheap than the competitor
+2910,"Good show, Samsung.",1,good show samsung
+2911,So I bought about 10 of these and saved alot of money.,1,so i buy about 10 of these and save alot of money
+2917,Leopard Print is wonderfully wild!.,1,leopard print be wonder wild
+2918,Works for me.,1,work for me
+2920,much better than the hard plastic cases.,1,much good than the hard plastic case
+2922,Happy so far!.,1,happi so far
+2923,cool phone.,1,cool phone
+2924,Works good.,1,work good
+2925,Motorola finally got the voice quality of a bluetooth headset right.,1,motorola final get the voic qualiti of a bluetooth headset right
+2927,"but it is great, i would really recommend it",1,but it be great i would realli recommend it
+2934,"You get extra minutes so that you can carry out the call and not get cut off.""",1,you get extra minut so that you can carri out the call and not get cut off
+2937,The headset fulfills my requirements so I am happy with my purchase.,1,the headset fulfil my requir so i be happi with my purchas
+2938,Logitech Bluetooth Headset is a 10!.,1,logitech bluetooth headset be a 10
+2939,"I like the fact that it rests lightly against your ear, rather than inside.",1,i like the fact that it rest lightli against your ear rather than insid
+2940,A lot of websites have been rating this a very good phone and so do I.,1,a lot of websit have be rate thi a veri good phone and so do i
+2941,I have tried these cables with my computer and my iPod and it works just fine.,1,i have tri these cabl with my comput and my ipod and it work just fine
+2945,It is easy to turn on and off when you are in the car and the volume controls are quite accessable.,1,it be easi to turn on and off when you be in the car and the volum control be quit access
+2946,I have had mine for about a year and this Christmas I bought some for the rest of the family.,1,i have have mine for about a year and thi christma i buy some for the rest of the famili
+2947,"Otherwise, easy to install and use, clear sound.",1,otherwis easi to instal and use clear sound
+2948,nice leather.,1,nice leather
+2950,It is a joy to use.,1,it be a joy to use
+2952,Very satisifed with that.,1,veri satisif with that
+2954,This is the phone to get for 2005.... I just bought my S710a and all I can say is WOW!,1,thi be the phone to get for 2005 i just buy my s710a and all i can say be wow
+2956,Just reading on the specs alone makes you say WOW.,1,just read on the spec alon make you say wow
+2957,Love it.. Great armband.,1,love it great armband
+2958,I really like this product over the Motorola because it is allot clearer on the ear piece and the mic.,1,i realli like thi product over the motorola becaus it be allot clearer on the ear piec and the mic
+2960,I exchanged the sony ericson z500a for this and I'm pretty happy with that decision.,1,i exchang the soni ericson z500a for thi and im pretti happi with that decis
+2961,I was very impressed with the price of the cases.,1,i be veri impress with the price of the case
+2962,Also makes it easier to hold on to.,1,also make it easi to hold on to
+2963,"I use this product in a motor control center where there is a lot of high voltage humming from the equipment, and it works great!",1,i use thi product in a motor control center where there be a lot of high voltag hum from the equip and it work great
+2964,It's pretty easy.,1,it pretti easi
+2967,Beautiful styling though.,1,beauti style though
+2971,Excellent product.,1,excel product
+2975,It is the best charger I have seen on the market yet.,1,it be the best charger i have see on the market yet
+2976,SWEETEST PHONE!!!,1,sweet phone
+2977,":-)Oh, the charger seems to work fine.",1,oh the charger seem to work fine
+2978,It fits so securely that the ear hook does not even need to be used and the sound is better directed through your ear canal.,1,it fit so secur that the ear hook do not even need to be use and the sound be well direct through your ear canal

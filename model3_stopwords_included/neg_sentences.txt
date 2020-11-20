@@ -1,0 +1,1501 @@
+,text,sentiment,clean_message
+0,"A very, very, very slow-moving, aimless movie about a distressed, drifting young man.  ",0,a veri veri veri slowmov aimless movi about a distress drift young man
+1,"Not sure who was more lost - the flat characters or the audience, nearly half of whom walked out.  ",0,not sure who be more lost the flat charact or the audienc nearli half of whom walk out
+2,"Attempting artiness with black & white and clever camera angles, the movie disappointed - became even more ridiculous - as the acting was poor and the plot and lines almost non-existent.  ",0,attempt arti with black white and clever camera angl the movi disappoint becom even more ridicul a the act be poor and the plot and line almost nonexist
+3,Very little music or anything to speak of.  ,0,veri littl music or anyth to speak of
+5,"The rest of the movie lacks art, charm, meaning... If it's about emptiness, it works I guess because it's empty.  ",0,the rest of the movi lack art charm mean if it about empti it work i guess becaus it empti
+6,Wasted two hours.  ,0,wast two hour
+8,A bit predictable.  ,0,a bit predict
+15,"It had some average acting from the main person, and it was a low budget as you clearly can see.  ",0,it have some averag act from the main person and it be a low budget a you clearli can see
+25,This short film certainly pulls no punches.  ,0,thi short film certainli pull no punch
+26,Graphics is far from the best part of the game.  ,0,graphic be far from the best part of the game
+34,Today the graphics are crap.  ,0,today the graphic be crap
+39,This was a flick doomed from its conception.  ,0,thi be a flick doom from it concept
+40,"The very idea of it was lame - take a minor character from a mediocre PG-13 film, and make a complete non-sequel while changing its tone to a PG-rated family movie.  ",0,the veri idea of it be lame take a minor charact from a mediocr pg13 film and make a complet nonsequel while chang it tone to a pgrate famili movi
+41,I wasn't the least bit interested.  ,0,i wasnt the least bit interest
+42,"Not only did it only confirm that the film would be unfunny and generic, but it also managed to give away the ENTIRE movie; and I'm not exaggerating - every moment, every plot point, every joke is told in the trailer.  ",0,not onli do it onli confirm that the film would be unfunni and gener but it also manag to give away the entir movi and im not exagger everi moment everi plot point everi joke be tell in the trailer
+43,But it's just not funny.  ,0,but it just not funni
+44,But even the talented Carrell can't save this.  ,0,but even the talent carrel cant save thi
+45,"His co-stars don't fare much better, with people like Morgan Freeman, Jonah Hill, and Ed Helms just wasted.  ",0,hi costar dont fare much well with peopl like morgan freeman jonah hill and ed helm just wast
+46,The story itself is just predictable and lazy.  ,0,the stori itself be just predict and lazi
+47,"The only real effects work is the presence of all the animals, and the integration of those into the scenes is some of the worst and most obvious blue/green-screen work I've ever seen.  ",0,the onli real effect work be the presenc of all the anim and the integr of those into the scene be some of the bad and most obviou bluegreenscreen work ive ever see
+48,"But whatever it was that cost them so much, it didn't translate to quality, that's for sure.  ",0,but whatev it be that cost them so much it didnt translat to qualiti that for sure
+53,"On the negative, it's insipid enough to cause regret for another 2 hours of life wasted in front of the screen.  ",0,on the neg it insipid enough to caus regret for anoth 2 hour of life wast in front of the screen
+54,"Long, whiny and pointless.  ",0,long whini and pointless
+55,"But I recommend waiting for their future efforts, let this one go.  ",0,but i recommend wait for their futur effort let thi one go
+64,I was very disappointed in the movie.  ,0,i be veri disappoint in the movi
+65,One character is totally annoying with a voice that gives me the feeling of fingernails on a chalkboard.  ,0,one charact be total annoy with a voic that give me the feel of fingernail on a chalkboard
+66,There is a totally unnecessary train/roller coaster scene.  ,0,there be a total unnecessari trainrol coaster scene
+67,There was absolutely no warmth or charm to these scenes or characters.  ,0,there be absolut no warmth or charm to these scene or charact
+68,This movie totally grates on my nerves.  ,0,thi movi total grate on my nerv
+69,"The performances are not improved by improvisation, because the actors now have twice as much to worry about: not only whether they're delivering the line well, but whether the line itself is any good.  ",0,the perform be not improv by improvis becaus the actor now have twice as much to worri about not onli whether theyr deliv the line well but whether the line itself be ani good
+70,"And, quite honestly, often its not very good.  ",0,and quit honestli often it not veri good
+71,"Often the dialogue doesn't really follow from one line to another, or fit the surroundings.  ",0,often the dialogu doesnt realli follow from one line to anoth or fit the surround
+72,"It crackles with an unpredictable, youthful energy - but honestly, i found it hard to follow and concentrate on it meanders so badly.  ",0,it crackl with an unpredict youth energi but honestli i find it hard to follow and concentr on it meander so badli
+74,"I wouldn't say they're worth 2 hours of your time, though.  ",0,i wouldnt say theyr worth 2 hour of your time though
+80,"I'm glad this pretentious piece of s*** didn't do as planned by the Dodge stratus Big Shots... It's gonna help movie makers who aren't in the very restrained ""movie business"" of Québec.  ",0,im glad thi pretenti piec of s didnt do a plan by the dodg stratu big shot it gon na help movi maker who arent in the veri restrain movi busi of québec
+91,The problem was the script.  ,0,the problem be the script
+92,It was horrendous.  ,0,it be horrend
+93,There was NOTHING believable about it at all.  ,0,there be noth believ about it at all
+94,The only suspense I was feeling was the frustration at just how retarded the girls were.  ,0,the onli suspens i be feel be the frustrat at just how retard the girl be
+101,"Frankly, after Cotton club and Unfaithful, it was kind of embarrassing to watch Lane and Gere in this film, because it is BAD.  ",0,frankli after cotton club and unfaith it be kind of embarrass to watch lane and gere in thi film becaus it be bad
+102,"The acting was bad, the dialogs were extremely shallow and insincere.  ",0,the act be bad the dialog be extrem shallow and insincer
+103,"It was too predictable, even for a chick flick.  ",0,it be too predict even for a chick flick
+104,Too politically correct.  ,0,too polit correct
+105,Very disappointing.  ,0,veri disappoint
+107,"I love Lane, but I've never seen her in a movie this lousy.  ",0,i love lane but ive never see her in a movi thi lousi
+108,An hour and a half I wish I could bring back.  ,0,an hour and a half i wish i could bring back
+111,The directing and the cinematography aren't quite as good.  ,0,the direct and the cinematographi arent quit as good
+112,"The movie was so boring, that I sometimes found myself occupied peaking in the paper instead of watching (never happened during a Columbo movie before!  ",0,the movi be so bore that i sometim find myself occupi peak in the paper instead of watch never happen dure a columbo movi befor
+113,"), and sometimes it was so embarrassing that I had to look away.  ",0,and sometim it be so embarrass that i have to look away
+114,The directing seems too pretentious.  ,0,the direct seem too pretenti
+115,"The scenes with the ""oh-so-mature"" neighbour-girl are a misplace.  ",0,the scene with the ohsomatur neighbourgirl be a misplac
+116,And generally the lines and plot is weaker than the average episode.  ,0,and gener the line and plot be weak than the averag episod
+117,"Then scene where they debated whether or not to sack the trumpeter (who falsely was accused for the murder) is pure horror, really stupid.  ",0,then scene where they debat whether or not to sack the trumpet who fals be accus for the murder be pure horror realli stupid
+127,My only problem is I thought the actor playing the villain was a low rent Michael Ironside.  ,0,my onli problem be i think the actor play the villain be a low rent michael ironsid
+129,"However, this didn't make up for the fact that overall, this was a tremendously boring movie.  ",0,howev thi didnt make up for the fact that overal thi be a tremend bore movi
+130,"There was NO chemistry between Ben Affleck and Sandra Bullock in this film, and I couldn't understand why he would consider even leaving his wife-to-be for this chick that he supposedly was knocked out by.  ",0,there be no chemistri between ben affleck and sandra bullock in thi film and i couldnt understand whi he would consid even leav hi wifetob for thi chick that he supposedli be knock out by
+131,There were several moments in the movie that just didn't need to be there and were excruciatingly slow moving.  ,0,there be sever moment in the movi that just didnt need to be there and be excruciatingli slow move
+132,"This was a poor remake of ""My Best Friends Wedding"".  ",0,thi be a poor remak of my best friend wed
+133,"All in all, a great disappointment.  ",0,all in all a great disappoint
+134,"I cannot believe that the actors agreed to do this ""film"".  ",0,i can not believ that the actor agre to do thi film
+135,I could not stand to even watch it for very long for fear of losing I.Q.  ,0,i could not stand to even watch it for veri long for fear of lose iq
+136,I guess that nobody at the network that aired this dribble watched it before putting it on.  ,0,i guess that nobodi at the network that air thi dribbl watch it befor put it on
+137,"IMDB ratings only go as low 1 for awful, it's time to get some negative numbers in there for cases such as these.  ",0,imdb rate onli go as low 1 for aw it time to get some neg number in there for case such a these
+138,"I saw ""Mirrormask"" last night and it was an unsatisfactory experience.  ",0,i saw mirrormask last night and it be an unsatisfactori experi
+139,"Unfortunately, inexperience of direction meant that scene after scene passed with little in the way of dramatic tension or conflict.  ",0,unfortun inexperi of direct meant that scene after scene pass with littl in the way of dramat tension or conflict
+140,"These are the central themes of the film and they are handled ineptly, stereotypically and with no depth of imagination.  ",0,these be the central theme of the film and they be handl ineptli stereotyp and with no depth of imagin
+141,All the pretty pictures in the world cannot make up for a piece of work that is flawed at the core.  ,0,all the pretti pictur in the world can not make up for a piec of work that be flaw at the core
+142,"It is an hour and half waste of time, following a bunch of very pretty high schoolers whine and cry about life.  ",0,it be an hour and half wast of time follow a bunch of veri pretti high schooler whine and cri about life
+143,"You can't relate with them, hell you barely can understand them.  ",0,you cant relat with them hell you bare can understand them
+145,"This movie is a pure disaster, the story is stupid and the editing is the worst I have seen, it confuses you incredibly.  ",0,thi movi be a pure disast the stori be stupid and the edit be the bad i have see it confus you incred
+146,The fish is badly made and some of its underwater shots are repeated a thousand times in the film.  ,0,the fish be badli make and some of it underwat shot be repeat a thousand time in the film
+147,"A truly, truly bad film.  ",0,a truli truli bad film
+148,"The acting is terrible, and the writing is worse.  ",0,the act be terribl and the write be bad
+149,The only possible way this movie could be redeemed would be as MST3K fodder.  ,0,the onli possibl way thi movi could be redeem would be a mst3k fodder
+150,I paid too much.  ,0,i pay too much
+152,It was so BORING!  ,0,it be so bore
+153,No plot whatsoever!  ,0,no plot whatsoev
+154,"Again, no plot at all.  ",0,again no plot at all
+155,Horrible!  ,0,horribl
+156,Worst hour and a half of my life!Oh my gosh!  ,0,worst hour and a half of my lifeoh my gosh
+157,I had to walk out of the theatre for a few minutes just to get some relief!  ,0,i have to walk out of the theatr for a few minut just to get some relief
+158,I hate movies like that.  ,0,i hate movi like that
+159,"Yeah, the movie pretty much sucked.  ",0,yeah the movi pretti much suck
+160,THERE IS NO PLOT OR STORYLINE!!  ,0,there be no plot or storylin
+161,"If you do go see this movie, bring a pillow or a girlfriend/boyfriend to keep you occupied through out.  ",0,if you do go see thi movi bring a pillow or a girlfriendboyfriend to keep you occupi through out
+162,Awful.  ,0,aw
+163,I don't think I've ever gone to a movie and disliked it as much.  ,0,i dont think ive ever go to a movi and dislik it a much
+164,It was a good thing that the tickets only cost five dollars because I would be mad if I'd have paid $7.50 to see this crap.  ,0,it be a good thing that the ticket onli cost five dollar becaus i would be mad if id have pay 750 to see thi crap
+165,NOBODY identifies with these characters because they're all cardboard cutouts and stereotypes (or predictably reverse-stereotypes).  ,0,nobodi identifi with these charact becaus theyr all cardboard cutout and stereotyp or predict reversestereotyp
+166,"This is a bad film, with bad writing, and good actors....an ugly cartoon crafted by Paul Haggis for people who can't handle anything but the bold strokes in storytelling....a picture painted with crayons.  ",0,thi be a bad film with bad write and good actorsan ugli cartoon craft by paul haggi for peopl who cant handl anyth but the bold stroke in storytellinga pictur paint with crayon
+167,"Crash is a depressing little nothing, that provokes emotion, but teaches you nothing if you already know racism and prejudice are bad things.  ",0,crash be a depress littl noth that provok emot but teach you noth if you alreadi know racism and prejudic be bad thing
+169,Your brain will attempt to shut-down as part of a primal impulse of self-preservation.  ,0,your brain will attempt to shutdown a part of a primal impuls of selfpreserv
+170,I was left shattered from the experience of watching this 'film' and I took a good two hours to fully recover.  ,0,i be leav shatter from the experi of watch thi film and i take a good two hour to fulli recov
+171,This movie now joins Revenge of the Boogeyman and Zombiez as part of the hellish trinity of horror films.  ,0,thi movi now join reveng of the boogeyman and zombiez a part of the hellish triniti of horror film
+172,I certainly do not mean this distinction in a good way.  ,0,i certainli do not mean thi distinct in a good way
+173,I mean this in a terrible way.  ,0,i mean thi in a terribl way
+174,This film has no redeeming features.  ,0,thi film have no redeem featur
+175,Everything is appalling.  ,0,everyth be appal
+176,"Artless camera-work endlessly presents us with the ugliest setting imaginable, i.e.  ",0,artless camerawork endlessli present u with the ugli set imagin ie
+177,The story is beyond stupid.  ,0,the stori be beyond stupid
+178,The script iswas there a script?  ,0,the script be be there a script
+179,The kids are annoying.  ,0,the kid be annoy
+180,The lead man is charisma-free.  ,0,the lead man be charismafre
+181,"Utterly without merit on any level, this is akin to torture.  ",0,utterli without merit on ani level thi be akin to tortur
+182,I'll even say it again  this is torture.  ,0,ill even say it again thi be tortur
+183,Maybe there would be a reasonable explanation for this atrocity.  ,0,mayb there would be a reason explan for thi atroc
+184,Not a pleasant voyage of self-discovery.  ,0,not a pleasant voyag of selfdiscoveri
+185,Highly unrecommended.  ,0,highli unrecommend
+186,"If this premise sound stupid, that's because it is.  ",0,if thi premis sound stupid that becaus it be
+187,"Yes, it's that bad.  ",0,ye it that bad
+188,Nothing at all to recommend.  ,0,noth at all to recommend
+192,"This movie suffered because of the writing, it needed more suspense.  ",0,thi movi suffer becaus of the write it need more suspens
+193,There were too many close ups.  ,0,there be too mani close up
+194,But other than that the movie seemed to drag and the heroes didn't really work for their freedom.  ,0,but other than that the movi seem to drag and the hero didnt realli work for their freedom
+195,But this movie is definitely a below average rent.  ,0,but thi movi be definit a below averag rent
+197,This movie is BAD.  ,0,thi movi be bad
+198,So bad.  ,0,so bad
+199,The film is way too long.  ,0,the film be way too long
+200,This is definitely one of the bad ones.  ,0,thi be definit one of the bad one
+205,I really don't see how anyone could enjoy this movie.  ,0,i realli dont see how anyon could enjoy thi movi
+206,I don't think I've ever seen a movie half as boring as this self-indulgent piece of junk.  ,0,i dont think ive ever see a movi half as bore a thi selfindulg piec of junk
+207,"It probably would have been better if the director hadn't spent most of the movie showcasing his own art work, which really isn't that noteworthy.  ",0,it probabl would have be good if the director hadnt spent most of the movi showcas hi own art work which realli isnt that noteworthi
+208,"Another thing I didn't really like is when a character got punched in the face, a gallon of blood would spew forth soon after.  ",0,anoth thing i didnt realli like be when a charact get punch in the face a gallon of blood would spew forth soon after
+216,Ironically I mostly find his films a total waste of time to watch.  ,0,iron i mostli find hi film a total wast of time to watch
+218,It's this pandering to the audience that sabotages most of his films.  ,0,it thi pander to the audienc that sabotag most of hi film
+219,Hence the whole story lacks a certain energy.  ,0,henc the whole stori lack a certain energi
+220,"The plot simply rumbles on like a machine, desperately depending on the addition of new scenes.  ",0,the plot simpli rumbl on like a machin desper depend on the addit of new scene
+221,There are the usual Hitchcock logic flaws.  ,0,there be the usual hitchcock logic flaw
+222,Mishima is extremely uninteresting.  ,0,mishima be extrem uninterest
+223,"This is a chilly, unremarkable movie about an author living/working in a chilly abstruse culture.  ",0,thi be a chilli unremark movi about an author livingwork in a chilli abstrus cultur
+224,The flat reenactments don't hold your attention because they are emotionally adrift and stagy.  ,0,the flat reenact dont hold your attent becaus they be emot adrift and stagi
+225,"And the rest of it just sits there being awful... with soldiers singing songs about the masculinity they pledge themselves to, hairsplitting about purity, the admiration of swords, etc.  ",0,and the rest of it just sit there be aw with soldier sing song about the masculin they pledg themselv to hairsplit about puriti the admir of sword etc
+226,"He can bore you to pieces, and kill the momentum of a movie, quicker than anyone else.  ",0,he can bore you to piec and kill the momentum of a movi quicker than anyon els
+227,"Schrader has made a resume full of lousy, amateurish films.  ",0,schrader have make a resum full of lousi amateurish film
+230,"However, I recently watched the whole thing again on DVD, and I was completely struck by how extremely stupid the storyline was - how it contained holes, inconsistencies and - frankly - a whole lot of crap - and how horrid the dancing was.  ",0,howev i recent watch the whole thing again on dvd and i be complet strike by how extrem stupid the storylin be how it contain hole inconsist and frankli a whole lot of crap and how horrid the danc be
+231,"I mean, in a realistic world, she would NEVER have gotten into that ballet repertory... The whole thing was quite pathetic.  ",0,i mean in a realist world she would never have get into that ballet repertori the whole thing be quit pathet
+232,The character developments also lacked in depth.  ,0,the charact develop also lack in depth
+233,"Woa, talk about awful.  ",0,woa talk about aw
+234,Do not waste your time.  ,0,do not wast your time
+235,It was just too horrible.  ,0,it be just too horribl
+236,"The worst, sappiest dialogue... I could go on and on.  ",0,the bad sappi dialogu i could go on and on
+237,But what really made it unwatchable was the direction.  ,0,but what realli make it unwatch be the direct
+238,The poor actors.  ,0,the poor actor
+239,You can't even tell if they have any talent because they not only have pathetic lines to speak but the director gave them no action.  ,0,you cant even tell if they have ani talent becaus they not onli have pathet line to speak but the director give them no action
+240,If you check the director's filmography on this site you will see why this film didn't have a chance.  ,0,if you check the director filmographi on thi site you will see whi thi film didnt have a chanc
+241,This would not even be good as a made for TV flick.  ,0,thi would not even be good a a made for tv flick
+244,"Regrettably, the film fails.  ",0,regrett the film fail
+245,"The movie lacks visual interest, drama, expression of feeling, and celebration of the very patriotism that underlines the narrative.  ",0,the movi lack visual interest drama express of feel and celebr of the veri patriot that underlin the narr
+246,No actress has been worse used that June Allison in this movie.  ,0,no actress have be bad use that june allison in thi movi
+248,"Unfortunately, this is a bad movie that is just plain bad.  ",0,unfortun thi be a bad movi that be just plain bad
+249,"Bad script, bad direction and horrible acting make this one plain bad!  ",0,bad script bad direct and horribl act make thi one plain bad
+250,The dialogue sucked.  ,0,the dialogu suck
+251,The cinematography-if it can be called that-sucked.  ,0,the cinematographyif it can be call thatsuck
+252,The soundtrack sucked.  ,0,the soundtrack suck
+253,The acting sucked.  ,0,the act suck
+254,The concert sequences just sucked.  ,0,the concert sequenc just suck
+258,"Overall, this movie was cheap trash.  ",0,overal thi movi be cheap trash
+259,"But this movie is not funny, considering the ridiculousness of it.  ",0,but thi movi be not funni consid the ridicul of it
+260,I came out of it feeling angry.  ,0,i come out of it feel angri
+277,I'm not sure what he was trying to do with this film.  ,0,im not sure what he be tri to do with thi film
+278,If it was to turn my good day feeling into a night of disturbing memories than I guess he succeeded.  ,0,if it be to turn my good day feel into a night of disturb memori than i guess he succeed
+280,"It was forced, like everything in this movie.  ",0,it be forc like everyth in thi movi
+281,"Again, lame.  ",0,again lame
+282,Here's where the movie really pi**ed me off.  ,0,here where the movi realli pie me off
+283,And don't even get me started on the jerky camerawork.  ,0,and dont even get me start on the jerki camerawork
+284,When I saw it in the theater I thought I was going to be sick.  ,0,when i saw it in the theater i think i be go to be sick
+285,Summary: The witticisms weren't witty.  ,0,summari the wittic werent witti
+286,"The plot - well, I said I'd let that one go.  ",0,the plot well i say id let that one go
+287,The acting was bad.  ,0,the act be bad
+288,Really bad.  ,0,realli bad
+289,"Even Billy Bob couldn't rise above the script, which was worse.  ",0,even billi bob couldnt rise abov the script which be bad
+290,"Camerawork - again, bad.  ",0,camerawork again bad
+291,Rating: 1 out of 10.  ,0,rate 1 out of 10
+302,I literally vomited while watching this film.  ,0,i liter vomit while watch thi film
+308,I'm translating movies for a living and this is the first movie in my 5-year working experience that I found offensive to my intelligence.  ,0,im translat movi for a live and thi be the first movi in my 5year work experi that i find offens to my intellig
+309,"But when someone strives for greatness and poetry, but delivers a muddled (and often ridiculous) story, a bunch of disparate scenes, pretentious dialogue... Then you get the worst kind of a movie that some other reviewer very accurately defined as ""pretentious crap"".  ",0,but when someon strive for great and poetri but deliv a muddl and often ridicul stori a bunch of dispar scene pretenti dialogu then you get the bad kind of a movi that some other review veri accur defin a pretenti crap
+310,"To those who find this movie intelligent or even masterful, I can only say - it's your intelligence and your imagination you obviously used to try and make some sense of this pitiful attempt (it's in our human nature to try and make sense of things) .  ",0,to those who find thi movi intellig or even master i can onli say it your intellig and your imagin you obvious use to tri and make some sens of thi piti attempt it in our human natur to tri and make sens of thing
+311,"One more thing: I can tolerate political incorrectness very well, I'm all for artistic freedom and suspension of disbelief, but the Slavic female character was just too much.  ",0,one more thing i can toler polit incorrect veri well im all for artist freedom and suspens of disbelief but the slavic femal charact be just too much
+327,Which has more depth and character than the man underneath it.  ,0,which have more depth and charact than the man underneath it
+328,The Malta settings are as dry and as barren as the dialogue.  ,0,the malta set be a dri and as barren a the dialogu
+329,This movie is terrible.  ,0,thi movi be terribl
+330,"The hockey scenes are terrible, defensemen playing like they're 5 years old, goalies diving at shots that are 10 feet wide of the net, etc.  ",0,the hockey scene be terribl defensemen play like theyr 5 year old goali dive at shot that be 10 foot wide of the net etc
+331,"For those that haven't seen it, don't waste your time!  ",0,for those that havent see it dont wast your time
+332,To call this movie a drama is ridiculous!  ,0,to call thi movi a drama be ridicul
+333,Started watching this but didn't believe in any of the characters.  ,0,start watch thi but didnt believ in ani of the charact
+334,In particular the relationship between the bakery assistant and the waitress just didn't work for me at all.  ,0,in particular the relationship between the bakeri assist and the waitress just didnt work for me at all
+335,It was a very superficial movie and it gave me the feeling that I was watching play rather than a film.  ,0,it be a veri superfici movi and it give me the feel that i be watch play rather than a film
+336,The characters were very 'stagey' and the storyline was a lot like a stage farce.  ,0,the charact be veri stagey and the storylin be a lot like a stage farc
+337,By the time the pyromaniac waylaid the assistant I was bored and didn't care what happened next and so I switched off.  ,0,by the time the pyromaniac waylay the assist i be bore and didnt care what happen next and so i switch off
+338,Glad I didn't pay to see it.  ,0,glad i didnt pay to see it
+339,Didn't laugh or even smile once.  ,0,didnt laugh or even smile onc
+340,But it wasn't anything at all just one big yawn...  ,0,but it wasnt anyth at all just one big yawn
+347,"But ""Storm Trooper"" is not even bad enough to make it to the list of wonderfully terrible movies.  ",0,but storm trooper be not even bad enough to make it to the list of wonder terribl movi
+348,It's just lame.  ,0,it just lame
+349,The guy who said he's had better dialogue with his potted plants has it right.  ,0,the guy who say he have well dialogu with hi pot plant have it right
+350,Everything about this movie is stupid.  ,0,everyth about thi movi be stupid
+351,"Even if you love bad movies, do not watch this movie.  ",0,even if you love bad movi do not watch thi movi
+352,It is shameful.  ,0,it be shame
+367,"The new characters weren't all that memorable, and I found myself forgetting who was who.  ",0,the new charact werent all that memor and i find myself forget who be who
+368,I felt as though her going to Ireland did absolutely nothing whatsoever.  ,0,i felt a though her go to ireland do absolut noth whatsoev
+369,"It didn't make me scared, horrified, or make me sympathetic towards the characters; it was simply annoying.  ",0,it didnt make me scare horrifi or make me sympathet toward the charact it be simpli annoy
+370,The jerky camera movements were also annoying.  ,0,the jerki camera movement be also annoy
+371,The plot was the same as pretty much every other cheap horror.  ,0,the plot be the same a pretti much everi other cheap horror
+372,"There was a few pathetic attempts to give the characters some depth, but it didn't really work into the rest of the plot.  ",0,there be a few pathet attempt to give the charact some depth but it didnt realli work into the rest of the plot
+373,"I guess it was supposed to be clever twist, then shed some light on the situation, but it was just stupid.  ",0,i guess it be suppos to be clever twist then shed some light on the situat but it be just stupid
+374,"If you see it, you should probably just leave it on the shelf.  ",0,if you see it you should probabl just leav it on the shelf
+378,This totally UNfunny movie is so over the top and pathetic and unrealistic that throughout the whole 90 minutes of utter torture I probably looked at my watch about 70000 times!  ,0,thi total unfunni movi be so over the top and pathet and unrealist that throughout the whole 90 minut of utter tortur i probabl look at my watch about 70000 time
+379,Lucy Bell is so much higher than this crap and for her to sink this low is quite depressing.  ,0,luci bell be so much high than thi crap and for her to sink thi low be quit depress
+380,All this movie does is make you sick watching all these slackers make excuses for their stupid actions for 90 minutes.  ,0,all thi movi do be make you sick watch all these slacker make excus for their stupid action for 90 minut
+381,"God, and I can never get that 90 minutes back!  ",0,god and i can never get that 90 minut back
+395,Almost all of the songs in Cover Girl are old-fashioned and not very tuneful.  ,0,almost all of the song in cover girl be oldfashion and not veri tune
+396,The most annoying thing about 'Cover Girl' is the way in which Rita Hayworth is put up on a pedestal.  ,0,the most annoy thing about cover girl be the way in which rita hayworth be put up on a pedest
+397,"Unfortunately, 'Cover Girl' is an example of how Hollywood used to exploit women for financial gain.  ",0,unfortun cover girl be an exampl of how hollywood use to exploit woman for financi gain
+407,I couldn't take them seriously.  ,0,i couldnt take them serious
+416,I am a fan of his ... This movie sucked really bad.  ,0,i be a fan of hi thi movi suck realli bad
+417,Even worse than Ticker!  ,0,even bad than ticker
+418,& That movie was bad.  ,0,that movi be bad
+419,"Only like 3 or 4 buildings used, a couple of locations MAYBE, & poor hummh!  ",0,onli like 3 or 4 build use a coupl of locat mayb poor hummh
+420,It just blew.  ,0,it just blow
+423,Now we were chosen to be tortured with this disgusting piece of blatant American propaganda.  ,0,now we be choos to be tortur with thi disgust piec of blatant american propaganda
+424,This show is made for Americans - it is too stupid and full with hatred and clichés to be admitted elsewhere.  ,0,thi show be make for american it be too stupid and full with hatr and cliché to be admit elsewher
+425,"Almost everyone involved must be return to school, acting is utterly predictable and bad, script is pile of garbage all round.  ",0,almost everyon involv must be return to school act be utterli predict and bad script be pile of garbag all round
+426,"I wish I could enter negative values, admins?  ",0,i wish i could enter neg valu admin
+427,"The sets are so bad, they wouldn't look out of place on a Thunderbirds episode.  ",0,the set be so bad they wouldnt look out of place on a thunderbird episod
+428,"The use of slow-motion needlessly repeats itself throughout the movie but is well backed up by bad acting (and bad is a kind word here), no continuity, scenes that are thrown in for no reason whatsoever, vehicles that looked like they were made from a Corn Flakes box and a directorial style that bordered on stupidity.  ",0,the use of slowmot needlessli repeat itself throughout the movi but be well back up by bad act and bad be a kind word here no continu scene that be throw in for no reason whatsoev vehicl that look like they be make from a corn flake box and a directori style that border on stupid
+429,"Oh yeah, and the storyline was pathetic too.  ",0,oh yeah and the storylin be pathet too
+430,I hate writing bad reviews about films - especially those in which I really like the star - but this film is so bad I don't believe for one second that anyone could have been proud of it.  ,0,i hate write bad review about film especi those in which i realli like the star but thi film be so bad i dont believ for one second that anyon could have be proud of it
+431,I am not a filmmaker nor am I a director but I would hide my head in the sand if I'd spent whatever amount of money and time on this movie.  ,0,i be not a filmmak nor be i a director but i would hide my head in the sand if id spend whatev amount of money and time on thi movi
+432,In short - this was a monumental waste of time and energy and I would not recommend anyone to EVER see this film.  ,0,in short thi be a monument wast of time and energi and i would not recommend anyon to ever see thi film
+433,It came free with a DVD player I bought but I still turned the thing off halfway through because I was embarrassed for Howell.  ,0,it come free with a dvd player i buy but i still turn the thing off halfway through becaus i be embarrass for howel
+434,1/10 - and only because there is no setting for 0/10.  ,0,110 and onli becaus there be no set for 010
+437,"But the acting--even that of such professionals as Drago and Debbie Rochon--was terrible, the directing worse (perhaps contributory to the former), the dialog chimp-like, and the camera work, barely tolerable.  ",0,but the actingeven that of such profession a drago and debbi rochonwa terribl the direct bad perhap contributori to the former the dialog chimplik and the camera work bare toler
+439,"Yes, I am simplifying things here for the sake of brevity, for this really is at the core of the problems with this film - it has too much going on without any real, fulfilling explanation.  ",0,ye i be simplifi thing here for the sake of breviti for thi realli be at the core of the problem with thi film it have too much go on without ani real fulfil explan
+441,"But the convoluted plot just didn't convince me, and much of the film was watched with a weird, questioning glance.  ",0,but the convolut plot just didnt convinc me and much of the film be watch with a weird question glanc
+442,"I let my girlfriend talk me into seeing this - bad idea, we both hated it.  ",0,i let my girlfriend talk me into see thi bad idea we both hat it
+444,"Bela Lugosi was totally extraneous, intoning odd lines.  ",0,bela lugosi be total extran inton odd line
+445,"The acting was decidely wooden, though no worse than a period Universal B movie.  ",0,the act be decid wooden though no bad than a period univers b movi
+450,"Wow, what a bad film.  ",0,wow what a bad film
+451,"Not frightening in the least, and barely comprehensible.  ",0,not frighten in the least and bare comprehens
+452,"The plot doesn't hang together at all, and the acting is absolutely appalling.  ",0,the plot doesnt hang togeth at all and the act be absolut appal
+453,Not even good for camp value!  ,0,not even good for camp valu
+454,"I wasn't expecting Oscar material, but this?  ",0,i wasnt expect oscar materi but thi
+455,You'd have to have the IQ of particularly stupid mollusk not to see that one coming.  ,0,youd have to have the iq of particularli stupid mollusk not to see that one come
+456,This film (and I use that word loosely) is an insult to the movie-going public.  ,0,thi film and i use that word loos be an insult to the moviego public
+457,If only someone involved with it knew how to string together narrative!  ,0,if onli someon involv with it know how to string togeth narr
+458,"This gets a 1 out of 10, simply because there's nothing lower.  ",0,thi get a 1 out of 10 simpli becaus there noth low
+459,"This is one I did not have, but I watched it recently on Fox Movie Channel, and was very disappointed.  ",0,thi be one i do not have but i watch it recent on fox movi channel and be veri disappoint
+460,"I know he was a contract player with little control over his scripts, but the acting was as bad as the script.  ",0,i know he be a contract player with littl control over hi script but the act be as bad a the script
+461,"Victor McLaglen was even bad, and Brian DonLevy was almost unrecognizable.  ",0,victor mclaglen be even bad and brian donlevi be almost unrecogniz
+462,"Considering the relations off screen between Taylor and Stanwyck, it was surprising how little chemistry there was on screen between the two of them.  ",0,consid the relat off screen between taylor and stanwyck it be surpris how littl chemistri there be on screen between the two of them
+463,But the premise of the film was so ridiculous: that the President of the U.S.  ,0,but the premis of the film be so ridicul that the presid of the u
+464,The death row scenes were entirely unmoving.  ,0,the death row scene be entir unmov
+465,The only thing worse than Taylor's acting was Stanwyck's singing.  ,0,the onli thing bad than taylor act be stanwyck sing
+466,"Whatever the producer was going for, he missed entirely.  ",0,whatev the produc be go for he miss entir
+469,"A cheap and cheerless heist movie with poor characterisation, lots of underbite style stoic emoting (think Chow Yun Fat in A Better Tomorrow) and some cheesy clichés thrown into an abandoned factory ready for a few poorly executed flying judo rolls a la John Woo.  ",0,a cheap and cheerless heist movi with poor characteris lot of underbit style stoic emot think chow yun fat in a good tomorrow and some cheesi cliché throw into an abandon factori readi for a few poorli execut fli judo roll a la john woo
+470,Even the squibs look awful.  ,0,even the squib look aw
+471,At no point in the proceedings does it look remotely like America.  ,0,at no point in the proceed do it look remot like america
+472,"The plot, such as it is, is so derivative and predictable that the ending is like a mercy killing.  ",0,the plot such a it be be so deriv and predict that the end be like a merci kill
+473,The awful dialogue and hopeless overacting by everyone who gets shot top off a real waste of space and time.  ,0,the aw dialogu and hopeless overact by everyon who get shoot top off a real wast of space and time
+474,"I was very uneasy with how bad this movie was, but not scared at all.  ",0,i be veri uneasi with how bad thi movi be but not scar at all
+475,The dialogue is composed of things that make little sense.  ,0,the dialogu be compos of thing that make littl sens
+476,"About 30 minutes of footage is wasted to show mediocre elderly actors awkwardly babbling overwrought pseudo-Satanic gibberish corny enough to make a teen Goth blush, almost always in Olde English, and sometimes in Latin that may or may not be made up words.  ",0,about 30 minut of footag be wast to show mediocr elderli actor awkwardli babbl overwrought pseudosatan gibberish corni enough to make a teen goth blush almost alway in old english and sometim in latin that may or may not be make up word
+477,The directing is sloppy at best.  ,0,the direct be sloppi at best
+478,"Hackneyed writing, certainly, but made even worse by the bad directing.  ",0,hackney write certainli but make even bad by the bad direct
+479,"Of course, the acting is blah.  ",0,of cours the act be blah
+480,The acting by the whole cast could be put on a scale and balanced perfectly between overacting and underacting.  ,0,the act by the whole cast could be put on a scale and balanc perfectli between overact and underact
+481,"And, FINALLY, after all that, we get to an ending that would've been great had it been handled by competent people and not Jerry Falwell.  ",0,and final after all that we get to an end that wouldv be great have it be handl by compet peopl and not jerri falwel
+488,"I particularly remember my senses being assaulted by strident cords of music that would blare out with very little warning, and even less meaning.  ",0,i particularli rememb my sen be assault by strident cord of music that would blare out with veri littl warn and even less mean
+489,It is just the sort of pap that is screened in the afternoon to punish the unemployed for not having jobs.  ,0,it be just the sort of pap that be screen in the afternoon to punish the unemploy for not have job
+505,About ten minutes into this film I started having second thoughts.  ,0,about ten minut into thi film i start have second thought
+506,About half way through this film I started to dislike it.  ,0,about half way through thi film i start to dislik it
+507,"By the time the film ended, I not only disliked it, I despised it.  ",0,by the time the film end i not onli dislik it i despis it
+508,What this film lacks is a convincing script.  ,0,what thi film lack be a convinc script
+509,The script looks as if only a rough draft was written and shooting began before a finished script was completed.  ,0,the script look a if onli a rough draft be write and shoot begin befor a finish script be complet
+510,"Things happen, characters personalities change, plot twists occur for no real reason other than that script calls for it.  ",0,thing happen charact person chang plot twist occur for no real reason other than that script call for it
+513,This is probably the most irritating show I have ever seen in my entire life.  ,0,thi be probabl the most irrit show i have ever see in my entir life
+514,It is indescribably the most annoying and idiotic show I have ever seen.  ,0,it be indescrib the most annoy and idiot show i have ever see
+515,Everything about it is just bad.  ,0,everyth about it be just bad
+516,"I could not understand, what kind of idiot would produce this mess in the first place not to mention several season.  ",0,i could not understand what kind of idiot would produc thi mess in the first place not to mention sever season
+517,"The script is bad, very bad  it contains both cheesiness and unethical joke that you normally see in rated R or NC-17 movie.  ",0,the script be bad veri bad it contain both cheesi and uneth joke that you normal see in rate r or nc17 movi
+518,"The casting is also horrible, cause all you see is a really really BAD Actors, period.  ",0,the cast be also horribl caus all you see be a realli realli bad actor period
+519,Final Word: This Show is a real torture!!  ,0,final word thi show be a real tortur
+520,It is zillion times away from reality.  ,0,it be zillion time away from realiti
+521,Watching washing machine twirling around wouldn't hurt your eyes as much as this show.  ,0,watch wash machin twirl around wouldnt hurt your eye as much a thi show
+522,Rating: 0/10 (Grade: Z) Note: The Show Is So Bad That Even Mother Of The Cast Pull Her Daughter Out Of The Show.  ,0,rate 010 grade z note the show be so bad that even mother of the cast pull her daughter out of the show
+523,20th Century Fox's ROAD HOUSE 1948) is not only quite a silly noir but is an implausible unmitigated bore of a movie.  ,0,20th centuri fox road hous 1948 be not onli quit a silli noir but be an implaus unmitig bore of a movi
+524,"Full of unconvincing cardboard characters it is blandly written by Edward Chodorov, who also produced, and is surprisingly directed by Jean Negulesco from whom one would expect a great deal more.  ",0,full of unconvinc cardboard charact it be blandli write by edward chodorov who also produc and be surprisingli direct by jean negulesco from whom one would expect a great deal more
+525,From here on the Widmark character turns unintentionally comical!  ,0,from here on the widmark charact turn unintent comic
+526,His losing his marbles so early in the proceedings is totally implausible and unconvincing.  ,0,hi lose hi marbl so earli in the proceed be total implaus and unconvinc
+527,And if that isn't enough of a mess of a movie for you - the picture is also marred with a constant use of studio sets and indoor exteriors.  ,0,and if that isnt enough of a mess of a movi for you the pictur be also mar with a constant use of studio set and indoor exterior
+528,Whatever prompted such a documentary is beyond me!  ,0,whatev prompt such a documentari be beyond me
+529,(very serious spoilers) this movie was a huge disappointment.  ,0,veri seriou spoiler thi movi be a huge disappoint
+530,there are so many problems i dont know where to start.  ,0,there be so mani problem i dont know where to start
+534,but the movie makes a lot of serious mistakes.  ,0,but the movi make a lot of seriou mistak
+535,"first of all, there are enough racial stereotypes and racial jokes to offend everyone.  ",0,first of all there be enough racial stereotyp and racial joke to offend everyon
+536,the movie is littered with overt racial slurs towards the black cast members and in return the whites are depicted as morons and boobs.  ,0,the movi be litter with overt racial slur toward the black cast member and in return the white be depict a moron and boob
+537,"putting the race card aside, lets look at the major flaw in the film: they destroy latifa's character.  ",0,put the race card asid let look at the major flaw in the film they destroy latifa charact
+538,there is no real plot.  ,0,there be no real plot
+539,i wouldnt see this movie again for free.  ,0,i wouldnt see thi movi again for free
+546,"The bipolarity of the ruthless thug (one minute a ruthless killer, the next minute a Luv's diaper commercial) is completely unconvincing.  ",0,the bipolar of the ruthless thug one minut a ruthless killer the next minut a luv diaper commerci be complet unconvinc
+547,"I'm terribly disappointed that this film would receive so many awards and accolades, especially when there are far more deserving works of film out there.  ",0,im terribl disappoint that thi film would receiv so mani award and accolad especi when there be far more deserv work of film out there
+550,I don't think there are any redeeming qualities in this remake.  ,0,i dont think there be ani redeem qualiti in thi remak
+551,This may be the only bad film he ever made.  ,0,thi may be the onli bad film he ever make
+552,So bad...well...it's just bad.  ,0,so badwellit just bad
+553,"This movie is a solid example of a bad plot and a very, very bad idea all the way.  ",0,thi movi be a solid exampl of a bad plot and a veri veri bad idea all the way
+554,It's a shame to see good actors like Thomerson and James make a living in a mess like this.  ,0,it a shame to see good actor like thomerson and jame make a live in a mess like thi
+555,I thought it was bad.  ,0,i think it be bad
+556,"Both films are terrible, but to the credit of the 1986 version, it was watchable.  ",0,both film be terribl but to the credit of the 1986 version it be watchabl
+557,"Let's start with all the problemsthe acting, especially from the lead professor, was very, very bad.  ",0,let start with all the problemsth act especi from the lead professor be veri veri bad
+558,The script is a big flawed mess.  ,0,the script be a big flaw mess
+559,The best example of how dumb the writing is when it's established that you can turn the zombie-students back into humans by removing a necklace containing a piece of the meteorite.  ,0,the best exampl of how dumb the write be when it establish that you can turn the zombiestud back into human by remov a necklac contain a piec of the meteorit
+560,"Director Paul Matthews, who also wrote/directed the weak 1995 monster movie ""Grim"", clearly doesn't know how to pace his films.  ",0,director paul matthew who also wrotedirect the weak 1995 monster movi grim clearli doesnt know how to pace hi film
+561,The movie is terribly boring in places.  ,0,the movi be terribl bore in place
+562,The lighting is awful.  ,0,the light be aw
+563,The film looks cheap and bland.  ,0,the film look cheap and bland
+564,One of the most disappointing aspects is the lack of notable gore.  ,0,one of the most disappoint aspect be the lack of notabl gore
+565,"This convention never worked well in the past, and certainly doesn't work here.  ",0,thi convent never work well in the past and certainli doesnt work here
+566,The visual effects were AWFUL.  ,0,the visual effect be aw
+567,The CG opening sequence in space looked like it could have been created on Microsoft Slideshow for God's sake!  ,0,the cg open sequenc in space look like it could have be creat on microsoft slideshow for god sake
+568,"The ""explosion"" of the Gas tanks at the end was just as awful.  ",0,the explos of the ga tank at the end be just a aw
+571,"To sum the film up, ""Breeders"" is a terrible, cheaply made horror movie that should be avoided like the Ebola virus.  ",0,to sum the film up breeder be a terribl cheapli make horror movi that should be avoid like the ebola viru
+572,Not recommended.  ,0,not recommend
+573,"He is almost unbearable to watch on screen, he has little to no charisma, and terrible comedic timing.  ",0,he be almost unbear to watch on screen he have littl to no charisma and terribl comed time
+574,"Aside from it's terrible lead, this film has loads of other debits.  ",0,asid from it terribl lead thi film have load of other debit
+575,"I understand that it's supposed to be a cheap popcorn comedy, but that doesn't mean that it has to completely insult our intelligence, and have writing so incredibly hackneyed that it borders on offensive.  ",0,i understand that it suppos to be a cheap popcorn comedi but that doesnt mean that it have to complet insult our intellig and have write so incred hackney that it border on offens
+576,"Lewis Black's considerable talent is wasted here too, as he is at his most incendiary when he is unrestrained, which the PG-13 rating certainly won't allow.  ",0,lewi black consider talent be wast here too a he be at hi most incendiari when he be unrestrain which the pg13 rate certainli wont allow
+578,"With the originality and freshness of the first movie now spent, this remake had little else to offer.  ",0,with the origin and fresh of the first movi now spend thi remak have littl els to offer
+579,The budget was evidently very limited.  ,0,the budget be evid veri limit
+580,"This was reflected not only in the cast, but also in the below-par script, which borrowed much from the earlier classic.  ",0,thi be reflect not onli in the cast but also in the belowpar script which borrow much from the earli classic
+581,"However, here there was no decent acting, action or location work to balance things up.  ",0,howev here there be no decent act action or locat work to balanc thing up
+582,Filmiing was less expansive.  ,0,filmi be less expans
+583,It failed to convey the broad sweep of landscapes that were a great part of the original.  ,0,it fail to convey the broad sweep of landscap that be a great part of the origin
+584,Generally; it just lacked imagination.  ,0,gener it just lack imagin
+585,Not recommended.  ,0,not recommend
+586,Is it possible for a movie to get any worse than this?  ,0,be it possibl for a movi to get ani bad than thi
+587,There is no plot here to keep you going in the first place.  ,0,there be no plot here to keep you go in the first place
+588,"Even when the women finally show up, there is no sign of improvement; the most expected things happen and by the time the film is over, you might be far asleep.  ",0,even when the woman final show up there be no sign of improv the most expect thing happen and by the time the film be over you might be far asleep
+589,"Beware: this is not a trashy cult movie, this is trash -period!  ",0,bewar thi be not a trashi cult movi thi be trash period
+590,I can't believe there's even a sequel to this!  ,0,i cant believ there even a sequel to thi
+591,Which is precisely why I am giving it such a bad review!  ,0,which be precis whi i be give it such a bad review
+598,"Every element of this story was so over the top, excessively phony and contrived that it was painful to sit through.  ",0,everi element of thi stori be so over the top excess phoni and contriv that it be pain to sit through
+599,"Her lines seem to have been WRITTEN by a fifteen year old, though they are trying oh so, so hard to sound like how a fifteen year old would really, um, you know, well... talk.  ",0,her line seem to have be write by a fifteen year old though they be tri oh so so hard to sound like how a fifteen year old would realli um you know well talk
+601,There is simply no excuse for something this poorly done.  ,0,there be simpli no excus for someth thi poorli do
+602,I saw this movie and I thought this is a stupid movie.  ,0,i saw thi movi and i think thi be a stupid movi
+603,What is even more stupid is that who had thought an idea that there should be a volcano in Los Angeles?  ,0,what be even more stupid be that who have think an idea that there should be a volcano in lo angel
+604,"To be honest with you, this is unbelievable nonsense and very foolish.  ",0,to be honest with you thi be unbeliev nonsens and veri foolish
+605,"In conclusion, I will not bother with this movie because a volcano in Los Angeles is nothing but nonsense.  ",0,in conclus i will not bother with thi movi becaus a volcano in lo angel be noth but nonsens
+606,The story line is just awful!  ,0,the stori line be just aw
+607,It's just painful!  ,0,it just pain
+608,And the accents are absolutely abysmal!  ,0,and the accent be absolut abysm
+609,There's also enough hypocrisy in this film to make me vomit.  ,0,there also enough hypocrisi in thi film to make me vomit
+610,Don't waste your time watching this rubbish non-researched film.  ,0,dont wast your time watch thi rubbish nonresearch film
+614,Omit watching this.  ,0,omit watch thi
+616,My rating: just 3 out of 10.  ,0,my rate just 3 out of 10
+624,The basic premise is wasted since it is sidelined by the inexplicable focus on the documentary crew.  ,0,the basic premis be wast sinc it be sidelin by the inexplic focu on the documentari crew
+625,"Regardless, the film fails on most levels.  ",0,regardless the film fail on most level
+626,Avoid at all costs.  ,0,avoid at all cost
+633,"I know that Jim O'Connor was very energetic and that nobody could be as much as him, but George was well dull.  ",0,i know that jim oconnor be veri energet and that nobodi could be as much a him but georg be well dull
+634,"He really didn't seem to want to be hosting; his voice-overs were monotonous, didn't get involved with the guests.  ",0,he realli didnt seem to want to be host hi voiceov be monoton didnt get involv with the guest
+645,"This movie is so mind-bendingly awful, it couldn't have even been created.  ",0,thi movi be so mindbendingli aw it couldnt have even be creat
+646,The film lacks any real scares or tension & some of the medical terminology used throughout is a bit iffy to say the least & I say that as an insulin dependant diabetic myself.  ,0,the film lack ani real scare or tension some of the medic terminolog use throughout be a bit iffi to say the least i say that a an insulin depend diabet myself
+647,The least said about the acting the better.  ,0,the least say about the act the good
+664,"Even allowing for poor production values for the time (1971) and the format (some kind of mini-series), this is baaaaaad.  ",0,even allow for poor product valu for the time 1971 and the format some kind of miniseri thi be baaaaaad
+665,"Unless you're just out to visually ""collect"" all extant films of Austen's work, you can skip this one.  ",0,unless your just out to visual collect all extant film of austen work you can skip thi one
+667,It is not good.  ,0,it be not good
+668,"Speaking of the music, it is unbearably predictably and kitchy.  ",0,speak of the music it be unbear predict and kitchi
+669,Then the film just dropped the ball.  ,0,then the film just drop the ball
+685,"There are many continuity errors: one other user commented on different cars in the garage, Joe's glasses...the one that got to me the most was the fact Joe's facial hair configuration seemed to change from scene to scene.  ",0,there be mani continu error one other user comment on differ car in the garag joe glassesth one that get to me the most be the fact joe facial hair configur seem to chang from scene to scene
+688,I can't see how this movie can be an inspiration to anyone to come out or overcome fear and rejection.  ,0,i cant see how thi movi can be an inspir to anyon to come out or overcom fear and reject
+689,It's so bad it's actually worth seeing just for that reason.  ,0,it so bad it actual worth see just for that reason
+696,Well... Just if you keep thinking how bad it is.  ,0,well just if you keep think how bad it be
+697,"It's a mediocre, miserable, hollow, laughable and predictable piece of garbage.  ",0,it a mediocr miser hollow laughabl and predict piec of garbag
+698,It's a case of 'so bad it is laughable'.  ,0,it a case of so bad it be laughabl
+699,") very bad performance plays Angela Bennett, a computer expert who is at home all the time.  ",0,veri bad perform play angela bennett a comput expert who be at home all the time
+700,"It is a film about nothing, just a pretext to show ridiculous action scenes.  ",0,it be a film about noth just a pretext to show ridicul action scene
+701,How awful she is!  ,0,how aw she be
+702,"But she is still a bad actress, repeating her robotic face moves in each of her pictures.  ",0,but she be still a bad actress repeat her robot face move in each of her pictur
+703,"The results, well, are a shame.  ",0,the result well be a shame
+704,DELETE this film from your mind!  ,0,delet thi film from your mind
+705,One of the worst shows of all time.  ,0,one of the bad show of all time
+706,The show would begin with smart ass ed comments to each other that would be totally off the wall and uncalled for.  ,0,the show would begin with smart as ed comment to each other that would be total off the wall and uncal for
+707,"The fat computer geek was unbelievable, the bible thumper, the bad-ass girl, who are these actors???  ",0,the fat comput geek be unbeliev the bibl thumper the badass girl who be these actor
+708,Never heard of any of them except Cole who was totally unbelievable in the part.  ,0,never heard of ani of them except cole who be total unbeliev in the part
+709,"Every time he opened his mouth you expect to hear, ""you see kids..."" Pulling the plug was a mercy killing for this horrible show.  ",0,everi time he open hi mouth you expect to hear you see kid pull the plug be a merci kill for thi horribl show
+710,The stories were as unbelievable as the actors.  ,0,the stori be as unbeliev a the actor
+711,Lame would be the best way to describe it.  ,0,lame would be the best way to describ it
+715,"Im big fan of RPG games too, but this movie, its a disgrace to any self-respecting RPGer there is.  ",0,im big fan of rpg game too but thi movi it a disgrac to ani selfrespect rpger there be
+716,"The lines, the cuts, the audio, everything is wrong.  ",0,the line the cut the audio everyth be wrong
+717,You can find better movies at youtube.  ,0,you can find good movi at youtub
+718,"Top line: Don't waste your time and money on this one, its as bad as it comes.  ",0,top line dont wast your time and money on thi one it as bad a it come
+719,"A Lassie movie which should have been ""put to sleep"".... FOREVER.  ",0,a lassi movi which should have be put to sleep forev
+720,That's how I'd describe this painfully dreary time-waster of a film.  ,0,that how id describ thi pain dreari timewast of a film
+721,"So mediocre in every aspect that it just becomes a dull, uninteresting mess, this is one of the most forgettable movies I've seen.  ",0,so mediocr in everi aspect that it just becom a dull uninterest mess thi be one of the most forgett movi ive see
+722,"It isn't even an achievement as a ""so-bad-it's-good"" or ""so-bad-it's-memorable"" movie.  ",0,it isnt even an achiev a a sobaditsgood or sobaditsmemor movi
+723,"It's an empty, hollow shell of a movie.  ",0,it an empti hollow shell of a movi
+724,"Seriously, it's not worth wasting your, or your kid's time on.  ",0,serious it not worth wast your or your kid time on
+725,"Avoid, avoid, avoid!  ",0,avoid avoid avoid
+726,It will drive you barking mad!  ,0,it will drive you bark mad
+735,Nothing new there.  ,0,noth new there
+736,That was done in the second movie.  ,0,that be do in the second movi
+737,The movie has almost no action scenes in it and very little comedy.  ,0,the movi have almost no action scene in it and veri littl comedi
+738,The plot has more holes than a pair of fishnet stockings and the direction and editing is astonishingly ham fisted.  ,0,the plot have more hole than a pair of fishnet stock and the direct and edit be astonishingli ham fist
+739,What on earth is Irons doing in this film?  ,0,what on earth be iron do in thi film
+750,The football scenes at the end were perplexing.  ,0,the footbal scene at the end be perplex
+759,This scene is very strong and unpleasant.  ,0,thi scene be veri strong and unpleas
+766,And it was boring.  ,0,and it be bore
+767,"I am so tired of clichés that is just lazy writing, and here they come in thick and fast.  ",0,i be so tire of cliché that be just lazi write and here they come in thick and fast
+776,Why was this film made?  ,0,whi be thi film make
+777,The film has an ultra-cheap look to it.  ,0,the film have an ultracheap look to it
+778,The result is a film that just don't look right.  ,0,the result be a film that just dont look right
+779,None of them are engaging or exciting.  ,0,none of them be engag or excit
+780,The plot is nonsense that doesn't interest in the slightest way or have any uniqueness to it.  ,0,the plot be nonsens that doesnt interest in the slight way or have ani uniqu to it
+781,The Foreigner is not worth one second of your time.  ,0,the foreign be not worth one second of your time
+799,"How this piece of trash was ever released is beyond me: the acting, the story, the characters, the supposedly special effects, etc...it's ALL wrong.  ",0,how thi piec of trash be ever releas be beyond me the act the stori the charact the supposedli special effect etcit all wrong
+800,"In fact, this stinker smells like a direct-to-video release.  ",0,in fact thi stinker smell like a directtovideo releas
+801,Avoid at ALL costs!  ,0,avoid at all cost
+802,Star Trek V The final Frontier is the worst in the series.  ,0,star trek v the final frontier be the bad in the seri
+803,"The acting from all involved and that includes those like Shatner and Nimoy is bad and washed out and making them seem as old as they look in real life, the special effects are tacky like when Spock has to rescue Kirk on a jet pack when he falls down from a mountain.  ",0,the act from all involv and that includ those like shatner and nimoy be bad and wash out and make them seem as old a they look in real life the special effect be tacki like when spock have to rescu kirk on a jet pack when he fall down from a mountain
+804,The attempts at humor were pitiful and story is so awful it dosen't bear thinking about which basically involves a Vulcan stealing the Enterprise to find god (seriously) I just didn't care about any of this film and oh not to mention Uhura does a belly dance to distract male guards.  ,0,the attempt at humor be piti and stori be so aw it dosent bear think about which basic involv a vulcan steal the enterpris to find god serious i just didnt care about ani of thi film and oh not to mention uhura do a belli danc to distract male guard
+805,The only place good for this film is in the garbage.  ,0,the onli place good for thi film be in the garbag
+806,The worst one of the series.  ,0,the bad one of the seri
+834,Very disappointed and wondered how it could be in the Oscar shortlist.  ,0,veri disappoint and wonder how it could be in the oscar shortlist
+835,It's very slow.  ,0,it veri slow
+836,Lot of holes in the plot: there's nothing about how he became the emperor; nothing about where he spend 20 years between his childhood and mature age.  ,0,lot of hole in the plot there noth about how he becom the emperor noth about where he spend 20 year between hi childhood and matur age
+837,) Don't waste your time.  ,0,dont wast your time
+838,End of Days is one of the worst big-budget action movies I've ever seen.  ,0,end of day be one of the bad bigbudget action movi ive ever see
+839,He surely doesn't know how to make a coherent action movie from the screenwriter of Air Force One who was only obliged to write the script just for a big sum of money.  ,0,he sure doesnt know how to make a coher action movi from the screenwrit of air forc one who be onli oblig to write the script just for a big sum of money
+840,This was one of the worst films i have ever seen.  ,0,thi be one of the bad film i have ever see
+841,I'm still trying to get over how bad it was.  ,0,im still tri to get over how bad it be
+847,"1 hour 54 minutes of sheer tedium, melodrama and horrible acting, a mess of a script, and a sinking feeling of GOOD LORD, WHAT WERE THEY THINKING?  ",0,1 hour 54 minut of sheer tedium melodrama and horribl act a mess of a script and a sink feel of good lord what be they think
+848,Lots of holes in the script.  ,0,lot of hole in the script
+849,It's like a bad two hour TV movie.  ,0,it like a bad two hour tv movi
+850,Now imagine that every single one of those decisions was made wrong.  ,0,now imagin that everi singl one of those decis be make wrong
+851,The dialogue is atrocious.  ,0,the dialogu be atroci
+852,The acting is beyond abysmal.  ,0,the act be beyond abysm
+853,Everything stinks.  ,0,everyth stink
+854,"Trouble is, the writing and directing make it impossible to establish those things that make a movie watchable, like character, story, theme and so on.  ",0,troubl be the write and direct make it imposs to establish those thing that make a movi watchabl like charact stori theme and so on
+855,"Worse, there's an incredibly weak sub-plot thrown in that follows a little band of latter-day Mansonites as they go after a reporter who's working on a story on the anniversary of the killings.  ",0,bad there an incred weak subplot throw in that follow a littl band of latterday mansonit a they go after a report who work on a stori on the anniversari of the kill
+856,"It's dumb and pointless, and a complete waste of time.  ",0,it dumb and pointless and a complet wast of time
+857,"In short, don't bother with this movie.  ",0,in short dont bother with thi movi
+868,Also the story and acting were weak.  ,0,also the stori and act be weak
+869,"At around 4 pm I bought it, at around 8pm I started to watch, at around 8.15pm I fast forwarded the remaining film to see if there was anything left watchable for a human being with a brain... but there wasn't.  ",0,at around 4 pm i buy it at around 8pm i start to watch at around 815pm i fast forward the remain film to see if there be anyth leav watchabl for a human be with a brain but there wasnt
+870,"Either way, it sucks.  ",0,either way it suck
+871,The script is horrendously stupid.  ,0,the script be horrend stupid
+872,The story starts too fast with absolutely no suspense or build-up in the slightest.  ,0,the stori start too fast with absolut no suspens or buildup in the slightest
+873,Everything Captain Howdy says is either laughable or just plain stupid.  ,0,everyth captain howdi say be either laughabl or just plain stupid
+874,What the hell kind of crap is that?!  ,0,what the hell kind of crap be that
+875,"Then, there's the plot holes.  ",0,then there the plot hole
+876,You could drive a semi truck into these holes!  ,0,you could drive a semi truck into these hole
+879,Dee Snider just plain sucks.  ,0,dee snider just plain suck
+880,"He can't act (one of the least scary villains I have ever seen), he can't write (did he write this damn movie in his sleep?  ",0,he cant act one of the least scari villain i have ever see he cant write do he write thi damn movi in hi sleep
+881,I was bored throughout the whole damn thing.  ,0,i be bore throughout the whole damn thing
+882,"The acting sucks, the music sucks, the script sucks, the pacing sucks, the special FX suck, the directing sucks... basically, this movie sucks.  ",0,the act suck the music suck the script suck the pace suck the special fx suck the direct suck basic thi movi suck
+883,This film tries to be a serious and sophisticated thriller/horror flick and it fails miserably.  ,0,thi film tri to be a seriou and sophist thrillerhorror flick and it fail miser
+884,This is probably one of the least effective and utterly unoriginal films I have ever seen in my entire life.  ,0,thi be probabl one of the least effect and utterli unorigin film i have ever see in my entir life
+885,A piece of cinematic garbage captured on celluloid.  ,0,a piec of cinemat garbag captur on celluloid
+886,Avoid at any and all costs.  ,0,avoid at ani and all cost
+887,"At any rate this film stinks, its not funny, and Fulci should have stayed with giallo and supernatural zombie movies.  ",0,at ani rate thi film stink it not funni and fulci should have stay with giallo and supernatur zombi movi
+888,Avoid this film at all costs.  ,0,avoid thi film at all cost
+889,"I don't know what happened in Season Five, what a mess.  ",0,i dont know what happen in season five what a mess
+890,The only consistent thread holding the series together were the amazing performances of Leni Parker and Anita LaSelva as the two Taelons in quiet idealogical conflict.  ,0,the onli consist thread hold the seri togeth be the amaz perform of leni parker and anita laselva a the two taelon in quiet idealog conflict
+891,Now this is a movie I really dislike.  ,0,now thi be a movi i realli dislik
+892,It's one of the most boring Horror movies from the 90's mainly because it starts slow and centers in a boring atmosphere.  ,0,it one of the most bore horror movi from the 90 mainli becaus it start slow and center in a bore atmospher
+893,"The puppets look really cheesy , not in a good way like in the Puppet Master 80's flicks.  ",0,the puppet look realli cheesi not in a good way like in the puppet master 80 flick
+894,"The story is lame, not interesting and NEVER really explains the sinister origins of the puppets.  ",0,the stori be lame not interest and never realli explain the sinist origin of the puppet
+895,There aren't death scenes like in previous movies and the f/x are terrible.  ,0,there arent death scene like in previou movi and the fx be terribl
+896,"I felt asleep the first time I watched it, so I can recommend it for insomniacs.  ",0,i felt asleep the first time i watch it so i can recommend it for insomniac
+900,"Otherwise, don't even waste your time on this.  ",0,otherwis dont even wast your time on thi
+901,This one just fails to create any real suspense.  ,0,thi one just fail to creat ani real suspens
+902,"As for the killer, don't expect anything original or even remotely frightening.  ",0,a for the killer dont expect anyth origin or even remot frighten
+904,I'm so sorry but I really can't recommend it to anyone.  ,0,im so sorri but i realli cant recommend it to anyon
+905,"One of the most boring,pointless movies I have ever seen.  ",0,one of the most boringpointless movi i have ever see
+906,The secondary plot line is incomprehensible and its relation to the primary plot line is mystifying.  ,0,the secondari plot line be incomprehens and it relat to the primari plot line be mystifi
+907,Hated it.  ,0,hat it
+908,This is one of the worst Sandra Bullock movie since Speed 2 But not quite that bad.  ,0,thi be one of the bad sandra bullock movi sinc speed 2 but not quit that bad
+909,"I don't understand how this garbage got on the shelves of the movie store, it's not even a real movie!  ",0,i dont understand how thi garbag get on the shelf of the movi store it not even a real movi
+910,I highly doubt that anyone could ever like this trash.  ,0,i highli doubt that anyon could ever like thi trash
+911,This is not movie-making.  ,0,thi be not moviemak
+912,"The acting is like watching wooden puppets moving around and reading from a book, that's how bad it is.  ",0,the act be like watch wooden puppet move around and read from a book that how bad it be
+913,"So I am here to warn you--DO NOT RENT THIS MOVIE, it is the dumbest thing you have never seen!  ",0,so i be here to warn youdo not rent thi movi it be the dumb thing you have never see
+918,"I agree with Jessica, this movie is pretty bad.  ",0,i agre with jessica thi movi be pretti bad
+919,"Characters are one-dimensional, even the good guys and especially the bad guys.  ",0,charact be onedimension even the good guy and especi the bad guy
+920,The story line is totally predictable.  ,0,the stori line be total predict
+922,I've seen soap operas more intelligent than this movie.  ,0,ive see soap opera more intellig than thi movi
+923,"Bad characters, bad story and bad acting.  ",0,bad charact bad stori and bad act
+924,Really awful.  ,0,realli aw
+925,Not easy to watch.  ,0,not easi to watch
+953,"Just whatever you do, avoid ""Groove"" as its the antithesis of all that is good about Human Traffic.  ",0,just whatev you do avoid groov a it the antithesi of all that be good about human traffic
+954,"It's too bad that everyone else involved didn't share Crowe's level of dedication to quality, for if they did, we'd have a far better film on our hands than this sub-par mess.  ",0,it too bad that everyon els involv didnt share crow level of dedic to qualiti for if they do wed have a far good film on our hand than thi subpar mess
+955,The movie seemed a little slow at first.  ,0,the movi seem a littl slow at first
+972,"If you act in such a film, you should be glad that you're gonna drift away from earth as far as possible!  ",0,if you act in such a film you should be glad that your gon na drift away from earth as far a possibl
+973,"This one wants to surf on the small wave of space movies in 1998 (Deep Impact and Armageddon), and this one fails everywhere.  ",0,thi one want to surf on the small wave of space movi in 1998 deep impact and armageddon and thi one fail everywher
+974,If you haven't choked in your own vomit by the end (by all the cheap drama and worthless dialogue) you've must have bored yourself to death with this waste of time.  ,0,if you havent choke in your own vomit by the end by all the cheap drama and worthless dialogu youv must have bore yourself to death with thi wast of time
+977,"Instead, we got a bore fest about a whiny, spoiled brat babysitting.  ",0,instead we get a bore fest about a whini spoil brat babysit
+994,I never walked out of a movie faster.  ,0,i never walk out of a movi faster
+995,I just got bored watching Jessice Lange take her clothes off!  ,0,i just get bore watch jessic lang take her cloth off
+996,"Unfortunately, any virtue in this film's production work was lost on a regrettable script.  ",0,unfortun ani virtu in thi film product work be lose on a regrett script
+997,"In a word, it is embarrassing.  ",0,in a word it be embarrass
+998,Exceptionally bad!  ,0,except bad
+999,All in all its an insult to one's intelligence and a huge waste of money.  ,0,all in all it an insult to one intellig and a huge wast of money
+1001,Crust is not good.,0,crust be not good
+1002,Not tasty and the texture was just nasty.,0,not tasti and the textur be just nasti
+1005,Now I am getting angry and I want my damn pho.,0,now i be get angri and i want my damn pho
+1006,Honeslty it didn't taste THAT fresh.),0,honeslti it didnt tast that fresh
+1007,The potatoes were like rubber and you could tell they had been made up ahead of time being kept under a warmer.,0,the potato be like rubber and you could tell they have be make up ahead of time be keep under a warmer
+1011,Would not go back.,0,would not go back
+1012,The cashier had no care what so ever on what I had to say it still ended up being wayyy overpriced.,0,the cashier have no care what so ever on what i have to say it still end up be wayyy overpric
+1014,I was disgusted because I was pretty sure that was human hair.,0,i be disgust becaus i be pretti sure that be human hair
+1015,I was shocked because no signs indicate cash only.,0,i be shock becaus no sign indic cash onli
+1017,Waitress was a little slow in service.,0,waitress be a littl slow in servic
+1018,"This place is not worth your time, let alone Vegas.",0,thi place be not worth your time let alon vega
+1019,did not like at all.,0,do not like at all
+1020,The Burrittos Blah!,0,the burritto blah
+1026,- They never brought a salad we asked for.,0,they never bring a salad we ask for
+1028,"Took an hour to get our food only 4 tables in restaurant my food was Luke warm, Our sever was running around like he was totally overwhelmed.",0,take an hour to get our food onli 4 tabl in restaur my food be luke warm our sever be run around like he be total overwhelm
+1029,The worst was the salmon sashimi.,0,the bad be the salmon sashimi
+1031,This was like the final blow!,0,thi be like the final blow
+1033,"seems like a good quick place to grab a bite of some familiar pub food, but do yourself a favor and look elsewhere.",0,seem like a good quick place to grab a bite of some familiar pub food but do yourself a favor and look elsewher
+1037,"Poor service, the waiter made me feel like I was stupid every time he came to the table.",0,poor servic the waiter make me feel like i be stupid everi time he come to the tabl
+1039,Service sucks.,0,servic suck
+1041,There is not a deal good enough that would drag me into that establishment again.,0,there be not a deal good enough that would drag me into that establish again
+1042,Hard to judge whether these sides were good because we were grossed out by the melted styrofoam and didn't want to eat it for fear of getting sick.,0,hard to judg whether these side be good becaus we be gross out by the melt styrofoam and didnt want to eat it for fear of get sick
+1044,"Frozen pucks of disgust, with some of the worst people behind the register.",0,frozen puck of disgust with some of the bad peopl behind the regist
+1046,It's too bad the food is so damn generic.,0,it too bad the food be so damn gener
+1053,"They have horrible attitudes towards customers, and talk down to each one when customers don't enjoy their food.",0,they have horribl attitud toward custom and talk down to each one when custom dont enjoy their food
+1056,The Heart Attack Grill in downtown Vegas is an absolutely flat-lined excuse for a restaurant.,0,the heart attack grill in downtown vega be an absolut flatlin excus for a restaur
+1057,Not much seafood and like 5 strings of pasta at the bottom.,0,not much seafood and like 5 string of pasta at the bottom
+1059,"The ripped banana was not only ripped, but petrified and tasteless.",0,the rip banana be not onli rip but petrifi and tasteless
+1060,At least think to refill my water before I struggle to wave you over for 10 minutes.,0,at least think to refil my water befor i struggl to wave you over for 10 minut
+1068,We got the food and apparently they have never heard of salt and the batter on the fish was chewy.,0,we get the food and appar they have never hear of salt and the batter on the fish be chewi
+1072,The service was meh.,0,the servic be meh
+1073,"It took over 30 min to get their milkshake, which was nothing more than chocolate milk.",0,it take over 30 min to get their milkshak which be noth more than chocol milk
+1074,"I guess I should have known that this place would suck, because it is inside of the Excalibur, but I didn't use my common sense.",0,i guess i should have know that thi place would suck becaus it be insid of the excalibur but i didnt use my common sens
+1075,The scallop dish is quite appalling for value as well.,0,the scallop dish be quit appal for valu as well
+1076,2 times - Very Bad Customer Service !,0,2 time veri bad custom servic
+1079,There is so much good food in Vegas that I feel cheated for wasting an eating opportunity by going to Rice and Company.,0,there be so much good food in vega that i feel cheat for wast an eat opportun by go to rice and compani
+1080,Coming here is like experiencing an underwhelming relationship where both parties can't wait for the other person to ask to break up.,0,come here be like experi an underwhelm relationship where both parti cant wait for the other person to ask to break up
+1081,walked in and the place smelled like an old grease trap and only 2 others there eating.,0,walk in and the place smell like an old greas trap and onli 2 other there eat
+1082,The turkey and roast beef were bland.,0,the turkey and roast beef be bland
+1084,The pan cakes everyone are raving about taste like a sugary disaster tailored to the palate of a six year old.,0,the pan cake everyon be rave about tast like a sugari disast tailor to the palat of a six year old
+1086,The poor batter to meat ratio made the chicken tenders very unsatisfying.,0,the poor batter to meat ratio make the chicken tender veri unsatisfi
+1090,"In summary, this was a largely disappointing dining experience.",0,in summari thi be a larg disappoint din experi
+1092,"Never been to Hard Rock Casino before, WILL NEVER EVER STEP FORWARD IN IT AGAIN!",0,never be to hard rock casino befor will never ever step forward in it again
+1094,say bye bye to your tip lady!,0,say bye bye to your tip ladi
+1095,We'll never go again.,0,well never go again
+1098,It was not good.,0,it be not good
+1110,"REAL sushi lovers, let's be honest - Yama is not that good.",0,real sushi lover let be honest yama be not that good
+1111,"At least 40min passed in between us ordering and the food arriving, and it wasn't that busy.",0,at least 40min pass in between u order and the food arriv and it wasnt that busi
+1116,It was pretty gross!,0,it be pretti gross
+1117,I've had better atmosphere.,0,ive have well atmospher
+1118,Kind of hard to mess up a steak but they did.,0,kind of hard to mess up a steak but they do
+1119,"Although I very much liked the look and sound of this place, the actual experience was a bit disappointing.",0,although i veri much like the look and sound of thi place the actual experi be a bit disappoint
+1120,I just don't know how this place managed to served the blandest food I have ever eaten when they are preparing Indian cuisine.,0,i just dont know how thi place manag to serv the bland food i have ever eat when they be prepar indian cuisin
+1121,"Worst service to boot, but that is the least of their worries.",0,worst servic to boot but that be the least of their worri
+1125,"Host staff were, for lack of a better word, BITCHES!",0,host staff be for lack of a good word bitch
+1126,Bland... Not a liking this place for a number of reasons and I don't want to waste time on bad reviewing.. I'll leave it at that...,0,bland not a like thi place for a number of reason and i dont want to wast time on bad review ill leav it at that
+1128,I wouldn't return.,0,i wouldnt return
+1130,This place is way too overpriced for mediocre food.,0,thi place be way too overpric for mediocr food
+1133,The management is rude.,0,the manag be rude
+1138,"He was extremely rude and really, there are so many other restaurants I would love to dine at during a weekend in Vegas.",0,he be extrem rude and realli there be so mani other restaur i would love to dine at dure a weekend in vega
+1140,Don't do it!!!!,0,dont do it
+1141,The waiter wasn't helpful or friendly and rarely checked on us.,0,the waiter wasnt help or friendli and rare check on u
+1142,My husband and I ate lunch here and were very disappointed with the food and service.,0,my husband and i ate lunch here and be veri disappoint with the food and servic
+1143,And the red curry had so much bamboo shoots and wasn't very tasty to me.,0,and the red curri have so much bamboo shoot and wasnt veri tasti to me
+1146,"The menu is always changing, food quality is going down & service is extremely slow.",0,the menu be alway chang food qualiti be go down servic be extrem slow
+1147,"The service was a little slow , considering that were served by 3 people servers so the food was coming in a slow pace.",0,the servic be a littl slow consid that be serv by 3 peopl server so the food be come in a slow pace
+1148,I give it 2 thumbs down,0,i give it 2 thumb down
+1149,We watched our waiter pay a lot more attention to other tables and ignore us.,0,we watch our waiter pay a lot more attent to other tabl and ignor u
+1152,We waited for forty five minutes in vain.,0,we wait for forti five minut in vain
+1153,Crostini that came with the salad was stale.,0,crostini that come with the salad be stale
+1159,"Unfortunately, we must have hit the bakery on leftover day because everything we ordered was STALE.",0,unfortun we must have hit the bakeri on leftov day becaus everyth we order be stale
+1160,I came back today since they relocated and still not impressed.,0,i come back today sinc they reloc and still not impress
+1163,Avoid at all cost!,0,avoid at all cost
+1167,So don't go there if you are looking for good food...,0,so dont go there if you be look for good food
+1168,I've never been treated so bad.,0,ive never be treat so bad
+1170,We also ordered the spinach and avocado salad; the ingredients were sad and the dressing literally had zero taste.,0,we also order the spinach and avocado salad the ingredi be sad and the dress liter have zero tast
+1175,"Perhaps I caught them on an off night judging by the other reviews, but I'm not inspired to go back.",0,perhap i catch them on an off night judg by the other review but im not inspir to go back
+1176,The service here leaves a lot to be desired.,0,the servic here leav a lot to be desir
+1179,We literally sat there for 20 minutes with no one asking to take our order.,0,we liter sit there for 20 minut with no one ask to take our order
+1180,"The burger had absolutely no flavor - the meat itself was totally bland, the burger was overcooked and there was no charcoal flavor.",0,the burger have absolut no flavor the meat itself be total bland the burger be overcook and there be no charcoal flavor
+1181,I also decided not to send it back because our waitress looked like she was on the verge of having a heart attack.,0,i also decid not to send it back becaus our waitress look like she be on the verg of have a heart attack
+1182,I dressed up to be treated so rudely!,0,i dress up to be treat so rude
+1183,It was probably dirt.,0,it be probabl dirt
+1186,"The food sucked, which we expected but it sucked more than we could have imagined.",0,the food suck which we expect but it suck more than we could have imagin
+1192,"When my order arrived, one of the gyros was missing.",0,when my order arriv one of the gyro be miss
+1194,I'm not really sure how Joey's was voted best hot dog in the Valley by readers of Phoenix Magazine.,0,im not realli sure how joey be vote best hot dog in the valley by reader of phoenix magazin
+1196,The live music on Fridays totally blows.,0,the live music on friday total blow
+1197,I've never been more insulted or felt disrespected.,0,ive never be more insult or felt disrespect
+1202,The warm beer didn't help.,0,the warm beer didnt help
+1206,I've lived here since 1979 and this was the first (and last) time I've stepped foot into this place.,0,ive live here sinc 1979 and thi be the first and last time ive step foot into thi place
+1207,The WORST EXPERIENCE EVER.,0,the bad experi ever
+1208,Must have been an off night at this place.,0,must have be an off night at thi place
+1210,"If that bug never showed up I would have given a 4 for sure, but on the other side of the wall where this bug was climbing was the kitchen.",0,if that bug never show up i would have give a 4 for sure but on the other side of the wall where thi bug be climb be the kitchen
+1211,"For about 10 minutes, we we're waiting for her salad when we realized that it wasn't coming any time soon.",0,for about 10 minut we be wait for her salad when we realiz that it wasnt come ani time soon
+1213,Won't go back.,0,wont go back
+1216,Soggy and not good.,0,soggi and not good
+1218,Which are small and not worth the price.,0,which be small and not worth the price
+1220,"The shower area is outside so you can only rinse, not take a full shower, unless you don't mind being nude for everyone to see!",0,the shower area be outsid so you can onli rins not take a full shower unless you dont mind be nude for everyon to see
+1221,The service was a bit lacking.,0,the servic be a bit lack
+1222,"Lobster Bisque, Bussell Sprouts, Risotto, Filet ALL needed salt and pepper..and of course there is none at the tables.",0,lobster bisqu bussel sprout risotto filet all need salt and pepperand of cours there be none at the tabl
+1223,Hopefully this bodes for them going out of business and someone who can cook can come in.,0,hope thi bode for them go out of busi and someon who can cook can come in
+1224,"It was either too cold, not enough flavor or just bad.",0,it be either too cold not enough flavor or just bad
+1228,"As for the ""mains,"" also uninspired.",0,a for the main also uninspir
+1231,"If the food isn't bad enough for you, then enjoy dealing with the world's worst/annoying drunk people.",0,if the food isnt bad enough for you then enjoy deal with the world worstannoy drunk peopl
+1233,"Ordered a double cheeseburger & got a single patty that was falling apart (picture uploaded) Yeah, still sucks.",0,order a doubl cheeseburg get a singl patti that be fall apart pictur upload yeah still suck
+1235,"If it were possible to give them zero stars, they'd have it.",0,if it be possibl to give them zero star theyd have it
+1236,"The descriptions said ""yum yum sauce"" and another said ""eel sauce"", yet another said ""spicy mayo""...well NONE of the rolls had sauces on them.",0,the descript say yum yum sauc and anoth say eel sauc yet anoth say spici mayowel none of the roll have sauc on them
+1238,If she had not rolled the eyes we may have stayed... Not sure if we will go back and try it again.,0,if she have not roll the eye we may have stay not sure if we will go back and tri it again
+1240,Horrible - don't waste your time and money.,0,horribl dont wast your time and money
+1242,By this time our side of the restaurant was almost empty so there was no excuse.,0,by thi time our side of the restaur be almost empti so there be no excus
+1243,"(It wasn't busy either) Also, the building was FREEZING cold.",0,it wasnt busi either also the build be freez cold
+1244,"like the other reviewer said ""you couldn't pay me to eat at this place again.""",0,like the other review say you couldnt pay me to eat at thi place again
+1245,-Drinks took close to 30 minutes to come out at one point.,0,drink take close to 30 minut to come out at one point
+1249,Based on the sub-par service I received and no effort to show their gratitude for my business I won't be going back.,0,base on the subpar servic i receiv and no effort to show their gratitud for my busi i wont be go back
+1251,There is nothing privileged about working/eating there.,0,there be noth privileg about working there
+1253,"Overall, I don't think that I would take my parents to this place again because they made most of the similar complaints that I silently felt too.",0,overal i dont think that i would take my parent to thi place again becaus they make most of the similar complaint that i silent felt too
+1257,I as well would've given godfathers zero stars if possible.,0,i as well wouldv give godfath zero star if possibl
+1259,very tough and very short on flavor!,0,veri tough and veri short on flavor
+1261,"I have been in more than a few bars in Vegas, and do not ever recall being charged for tap water.",0,i have be in more than a few bar in vega and do not ever recal be charg for tap water
+1266,"The service was not up to par, either.",0,the servic be not up to par either
+1269,"For a self proclaimed coffee cafe, I was wildly disappointed.",0,for a self proclaim coffe cafe i be wildli disappoint
+1275,"I've had better, not only from dedicated boba tea spots, but even from Jenni Pho.",0,ive have well not onli from dedic boba tea spot but even from jenni pho
+1278,I think not again,0,i think not again
+1279,I had the mac salad and it was pretty bland so I will not be getting that again.,0,i have the mac salad and it be pretti bland so i will not be get that again
+1281,Service stinks here!,0,servic stink here
+1282,I waited and waited.,0,i wait and wait
+1283,"This place is not quality sushi, it is not a quality restaurant.",0,thi place be not qualiti sushi it be not a qualiti restaur
+1286,Things that went wrong: - They burned the saganaki.,0,thing that go wrong they burn the saganaki
+1287,We waited an hour for what was a breakfast I could have done 100 times better at home.,0,we wait an hour for what be a breakfast i could have do 100 time well at home
+1289,"I hate to disagree with my fellow Yelpers, but my husband and I were so disappointed with this place.",0,i hate to disagre with my fellow yelper but my husband and i be so disappoint with thi place
+1290,Waited 2 hours & never got either of our pizzas as many other around us who came in later did!,0,wait 2 hour never get either of our pizza a mani other around u who come in later do
+1291,Just don't know why they were so slow.,0,just dont know whi they be so slow
+1293,"I live in the neighborhood so I am disappointed I won't be back here, because it is a convenient location.",0,i live in the neighborhood so i be disappoint i wont be back here becaus it be a conveni locat
+1296,Before I go in to why I gave a 1 star rating please know that this was my third time eating at Bachi burger before writing a review.,0,befor i go in to whi i give a 1 star rate pleas know that thi be my third time eat at bachi burger befor write a review
+1298,Never again will I be dining at this place!,0,never again will i be din at thi place
+1301,Please stay away from the shrimp stir fried noodles.,0,pleas stay away from the shrimp stir fri noodl
+1302,The potato chip order was sad... I could probably count how many chips were in that box and it was probably around 12.,0,the potato chip order be sad i could probabl count how mani chip be in that box and it be probabl around 12
+1303,Food was really boring.,0,food be realli bore
+1305,This greedy corporation will NEVER see another dime from me!,0,thi greedi corpor will never see anoth dime from me
+1306,"Will never, ever go back.",0,will never ever go back
+1307,"As much as I'd like to go back, I can't get passed the atrocious service and will never return.",0,as much a id like to go back i cant get pass the atroci servic and will never return
+1311,She ordered a toasted English muffin that came out untoasted.,0,she order a toast english muffin that come out untoast
+1313,Never going back.,0,never go back
+1315,The bus boy on the other hand was so rude.,0,the bu boy on the other hand be so rude
+1316,"By this point, my friends and I had basically figured out this place was a joke and didn't mind making it publicly and loudly known.",0,by thi point my friend and i have basic figur out thi place be a joke and didnt mind make it publicli and loudli know
+1320,The only downside is the service.,0,the onli downsid be the servic
+1321,"Also, the fries are without a doubt the worst fries I've ever had.",0,also the fri be without a doubt the bad fri ive ever have
+1328,"I go to far too many places and I've never seen any restaurant that serves a 1 egg breakfast, especially for $4.00.",0,i go to far too mani place and ive never see ani restaur that serv a 1 egg breakfast especi for 400
+1329,When my mom and I got home she immediately got sick and she only had a few bites of salad.,0,when my mom and i get home she immedi get sick and she onli have a few bite of salad
+1330,The servers are not pleasant to deal with and they don't always honor Pizza Hut coupons.,0,the server be not pleasant to deal with and they dont alway honor pizza hut coupon
+1333,Everything was gross.,0,everyth be gross
+1336,First - the bathrooms at this location were dirty- Seat covers were not replenished & just plain yucky!!!,0,first the bathroom at thi locat be dirti seat cover be not replenish just plain yucki
+1337,"The burger... I got the ""Gold Standard"" a $17 burger and was kind of disappointed.",0,the burger i get the gold standard a 17 burger and be kind of disappoint
+1339,There is nothing authentic about this place.,0,there be noth authent about thi place
+1340,the spaghetti is nothing special whatsoever.,0,the spaghetti be noth special whatsoev
+1344,The selection was probably the worst I've seen in Vegas.....there was none.,0,the select be probabl the bad ive see in vegasther be none
+1350,We sat another ten minutes and finally gave up and left.,0,we sit anoth ten minut and final give up and leav
+1351,He was terrible!,0,he be terribl
+1353,It shouldn't take 30 min for pancakes and eggs.,0,it shouldnt take 30 min for pancak and egg
+1356,"Sadly, Gordon Ramsey's Steak is a place we shall sharply avoid during our next trip to Vegas.",0,sadli gordon ramsey steak be a place we shall sharpli avoid dure our next trip to vega
+1360,The buffet is small and all the food they offered was BLAND.,0,the buffet be small and all the food they offer be bland
+1363,Definitely a turn off for me & i doubt I'll be back unless someone else is buying.,0,definit a turn off for me i doubt ill be back unless someon els be buy
+1365,"I find wasting food to be despicable, but this just wasn't food.",0,i find wast food to be despic but thi just wasnt food
+1366,My wife had the Lobster Bisque soup which was lukewarm.,0,my wife have the lobster bisqu soup which be lukewarm
+1370,I left with a stomach ache and felt sick the rest of the day.,0,i leav with a stomach ach and felt sick the rest of the day
+1371,They dropped more than the ball.,0,they drop more than the ball
+1374,And the beans and rice were mediocre at best.,0,and the bean and rice be mediocr at best
+1376,I took back my money and got outta there.,0,i take back my money and get outta there
+1378,RUDE & INCONSIDERATE MANAGEMENT.,0,rude inconsider manag
+1379,"The staff are now not as friendly, the wait times for being served are horrible, no one even says hi for the first 10 minutes.",0,the staff be now not a friendli the wait time for be serv be horribl no one even say hi for the first 10 minut
+1380,I won't be back.,0,i wont be back
+1383,The food was terrible.,0,the food be terribl
+1384,WILL NEVER EVER GO BACK AND HAVE TOLD MANY PEOPLE WHAT HAD HAPPENED.,0,will never ever go back and have tell mani peopl what have happen
+1385,I don't recommend unless your car breaks down in front of it and you are starving.,0,i dont recommend unless your car break down in front of it and you be starv
+1387,This place deserves one star and 90% has to do with the food.,0,thi place deserv one star and 90 have to do with the food
+1388,This is a disgrace.,0,thi be a disgrac
+1396,I'm probably one of the few people to ever go to Ians and not like it.,0,im probabl one of the few peopl to ever go to ian and not like it
+1400,This one is simply a disappointment.,0,thi one be simpli a disappoint
+1401,"Overall, I was very disappointed with the quality of food at Bouchon.",0,overal i be veri disappoint with the qualiti of food at bouchon
+1402,I don't have to be an accountant to know I'm getting screwed!,0,i dont have to be an account to know im get screw
+1405,Left very frustrated.,0,left veri frustrat
+1409,TOTAL WASTE OF TIME.,0,total wast of time
+1412,"For service, I give them no stars.",0,for servic i give them no star
+1414,I can take a little bad service but the food sucks.,0,i can take a littl bad servic but the food suck
+1415,Gave up trying to eat any of the crust (teeth still sore).,0,give up tri to eat ani of the crust teeth still sore
+1416,But now I was completely grossed out.,0,but now i be complet gross out
+1421,"On the ground, right next to our table was a large, smeared, been-stepped-in-and-tracked-everywhere pile of green bird poop.",0,on the ground right next to our tabl be a larg smear beensteppedinandtrackedeverywher pile of green bird poop
+1422,"Furthermore, you can't even find hours of operation on the website!",0,furthermor you cant even find hour of oper on the websit
+1423,We've tried to like this place but after 10+ times I think we're done with them.,0,weve tri to like thi place but after 10 time i think be do with them
+1424,What a mistake that was!,0,what a mistak that be
+1427,Waiter was a jerk.,0,waiter be a jerk
+1428,"Strike 2, who wants to be rushed.",0,strike 2 who want to be rush
+1430,I never come again.,0,i never come again
+1433,Ordered an appetizer and took 40 minutes and then the pizza another 10 minutes.,0,order an appet and take 40 minut and then the pizza anoth 10 minut
+1435,It was a huge awkward 1.5lb piece of cow that was 3/4ths gristle and fat.,0,it be a huge awkward 15lb piec of cow that be 34th gristl and fat
+1440,I'll take my business dinner dollars elsewhere.,0,ill take my busi dinner dollar elsewher
+1443,Nothing special.,0,noth special
+1446,Will not be back.,0,will not be back
+1447,Sauce was tasteless.,0,sauc be tasteless
+1450,I don't think we'll be going back anytime soon.,0,i dont think well be go back anytim soon
+1452,I am far from a sushi connoisseur but I can definitely tell the difference between good food and bad food and this was certainly bad food.,0,i be far from a sushi connoisseur but i can definit tell the differ between good food and bad food and thi be certainli bad food
+1453,I was so insulted.,0,i be so insult
+1454,The last 3 times I had lunch here has been bad.,0,the last 3 time i have lunch here have be bad
+1455,The chicken wings contained the driest chicken meat I have ever eaten.,0,the chicken wing contain the dri chicken meat i have ever eat
+1460,Definitely not worth the $3 I paid.,0,definit not worth the 3 i pay
+1463,The manager was the worst.,0,the manag be the bad
+1466,I don't think I'll be running back to Carly's anytime soon for food.,0,i dont think ill be run back to carli anytim soon for food
+1467,"This is was due to the fact that it took 20 minutes to be acknowledged, then another 35 minutes to get our food...and they kept forgetting things.",0,thi be be due to the fact that it take 20 minut to be acknowledg then anoth 35 minut to get our foodand they keep forget thing
+1471,The one down note is the ventilation could use some upgrading.,0,the one down note be the ventil could use some upgrad
+1473,Don't waste your time here.,0,dont wast your time here
+1474,"Total letdown, I would much rather just go to the Camelback Flower Shop and Cartel Coffee.",0,total letdown i would much rather just go to the camelback flower shop and cartel coffe
+1475,"Third, the cheese on my friend's burger was cold.",0,third the chees on my friend burger be cold
+1480,We asked for the bill to leave without eating and they didn't bring that either.,0,we ask for the bill to leav without eat and they didnt bring that either
+1482,Seafood was limited to boiled shrimp and crab legs but the crab legs definitely did not taste fresh.,0,seafood be limit to boil shrimp and crab leg but the crab leg definit do not tast fresh
+1483,The selection of food was not the best.,0,the select of food be not the best
+1487,I dont think I will be back for a very long time.,0,i dont think i will be back for a veri long time
+1488,"It was attached to a gas station, and that is rarely a good sign.",0,it be attach to a ga station and that be rare a good sign
+1492,"Worse of all, he humiliated his worker right in front of me..Bunch of horrible name callings.",0,bad of all he humili hi worker right in front of mebunch of horribl name call
+1495,And then tragedy struck.,0,and then tragedi struck
+1501,"I'd rather eat airline food, seriously.",0,id rather eat airlin food serious
+1505,I would not recommend this place.,0,i would not recommend thi place
+1506,Overall I wasn't very impressed with Noca.,0,overal i wasnt veri impress with noca
+1507,My gyro was basically lettuce only.,0,my gyro be basic lettuc onli
+1508,Terrible service!,0,terribl servic
+1509,Thoroughly disappointed!,0,thoroughli disappoint
+1516,it was a drive to get there.,0,it be a drive to get there
+1518,"Anyway, I do not think i will go back there.",0,anyway i do not think i will go back there
+1522,"A greasy, unhealthy meal.",0,a greasi unhealthi meal
+1523,first time there and might just be the last.,0,first time there and might just be the last
+1525,"Similarly, the delivery man did not say a word of apology when our food was 45 minutes late.",0,similarli the deliveri man do not say a word of apolog when our food be 45 minut late
+1526,And it was way to expensive.,0,and it be way to expens
+1534,Terrible management.,0,terribl manag
+1536,If there were zero stars I would give it zero stars.,0,if there be zero star i would give it zero star
+1538,Worst martini ever!,0,bad martini ever
+1541,We waited for thirty minutes to be seated (although there were 8 vacant tables and we were the only folks waiting).,0,we wait for thirti minut to be seat although there be 8 vacant tabl and we be the onli folk wait
+1543,I won't try going back there even if it's empty.,0,i wont tri go back there even if it empti
+1544,"No, I'm going to eat the potato that I found some strangers hair in it.",0,no im go to eat the potato that i find some stranger hair in it
+1547,"not even a ""hello, we will be right with you.""",0,not even a hello we will be right with you
+1548,The desserts were a bit strange.,0,the dessert be a bit strang
+1553,I guess maybe we went on an off night but it was disgraceful.,0,i guess mayb we go on an off night but it be disgrac
+1554,"However, my recent experience at this particular location was not so good.",0,howev my recent experi at thi particular locat be not so good
+1555,"I know this is not like the other restaurants at all, something is very off here!",0,i know thi be not like the other restaur at all someth be veri off here
+1556,AVOID THIS ESTABLISHMENT!,0,avoid thi establish
+1557,I think this restaurant suffers from not trying hard enough.,0,i think thi restaur suffer from not tri hard enough
+1560,My salad had a bland vinegrette on the baby greens and hearts of Palm.,0,my salad have a bland vinegrett on the babi green and heart of palm
+1561,After two I felt disgusting.,0,after two i felt disgust
+1565,I will never go back to this place and will never ever recommended this place to anyone!,0,i will never go back to thi place and will never ever recommend thi place to anyon
+1566,"The servers went back and forth several times, not even so much as an ""Are you being helped?""",0,the server go back and forth sever time not even so much a an be you be help
+1568,AN HOUR... seriously?,0,an hour serious
+1569,I consider this theft.,0,i consid thi theft
+1570,Eew... This location needs a complete overhaul.,0,eew thi locat need a complet overhaul
+1571,We recently witnessed her poor quality of management towards other guests as well.,0,we recent wit her poor qualiti of manag toward other guest a well
+1572,Waited and waited and waited.,0,wait and wait and wait
+1575,"The pizza tasted old, super chewy in not a good way.",0,the pizza tast old super chewi in not a good way
+1576,I swung in to give them a try but was deeply disappointed.,0,i swung in to give them a tri but be deepli disappoint
+1580,Boy was that sucker dry!!.,0,boy be that sucker dri
+1581,Over rated.,0,over rat
+1582,"If you look for authentic Thai food, go else where.",0,if you look for authent thai food go els where
+1584,After I pulled up my car I waited for another 15 minutes before being acknowledged.,0,after i pull up my car i wait for anoth 15 minut befor be acknowledg
+1587,I hate those things as much as cheap quality black olives.,0,i hate those thing as much a cheap qualiti black oliv
+1589,The kids play area is NASTY!,0,the kid play area be nasti
+1593,"It was extremely ""crumby"" and pretty tasteless.",0,it be extrem crumbi and pretti tasteless
+1594,It was a pale color instead of nice and char and has NO flavor.,0,it be a pale color instead of nice and char and have no flavor
+1596,I got home to see the driest damn wings ever!,0,i get home to see the dri damn wing ever
+1599,Not good for the money.,0,not good for the money
+1601,"We got sitting fairly fast, but, ended up waiting 40 minutes just to place our order, another 30 minutes before the food arrived.",0,we get sit fairli fast but end up wait 40 minut just to place our order anoth 30 minut befor the food arriv
+1607,I just wanted to leave.,0,i just want to leav
+1609,I will not be eating there again.,0,i will not be eat there again
+1610,!....THE OWNERS REALLY REALLY need to quit being soooooo cheap let them wrap my freaking sandwich in two papers not one!,0,the owner realli realli need to quit be soooooo cheap let them wrap my freak sandwich in two paper not one
+1611,I checked out this place a couple years ago and was not impressed.,0,i check out thi place a coupl year ago and be not impress
+1612,"The chicken I got was definitely reheated and was only ok, the wedges were cold and soggy.",0,the chicken i get be definit reheat and be onli ok the wedg be cold and soggi
+1613,"Sorry, I will not be getting food from here anytime soon :(",0,sorri i will not be get food from here anytim soon
+1616,My friend did not like his Bloody Mary.,0,my friend do not like hi bloodi mari
+1617,"Despite how hard I rate businesses, its actually rare for me to give a 1 star.",0,despit how hard i rate busi it actual rare for me to give a 1 star
+1619,I will not return.,0,i will not return
+1620,I had the chicken Pho and it tasted very bland.,0,i have the chicken pho and it tast veri bland
+1621,Very disappointing!!!,0,veri disappoint
+1623,"a drive thru means you do not want to wait around for half an hour for your food, but somehow when we end up going here they make us wait and wait.",0,a drive thru mean you do not want to wait around for half an hour for your food but somehow when we end up go here they make u wait and wait
+1626,Best of luck to the rude and non-customer service focused new management.,0,best of luck to the rude and noncustom servic focu new manag
+1627,Any grandmother can make a roasted chicken better than this one.,0,ani grandmoth can make a roast chicken well than thi one
+1628,I asked multiple times for the wine list and after some time of being ignored I went to the hostess and got one myself.,0,i ask multipl time for the wine list and after some time of be ignor i go to the hostess and get one myself
+1632,"Same evening, him and I are both drastically sick.",0,same even him and i be both drastic sick
+1634,Ordered burger rare came in we'll done.,0,order burger rare come in well do
+1636,Tried to go here for lunch and it was a madhouse.,0,tri to go here for lunch and it be a madhous
+1638,"After waiting an hour and being seated, I was not in the greatest of moods.",0,after wait an hour and be seat i be not in the great of mood
+1641,I'm not eating here!,0,im not eat here
+1643,Maybe if they weren't cold they would have been somewhat edible.,0,mayb if they werent cold they would have be somewhat edibl
+1644,This place has a lot of promise but fails to deliver.,0,thi place have a lot of promis but fail to deliv
+1645,Very bad Experience!,0,veri bad experi
+1646,What a mistake.,0,what a mistak
+1647,Food was average at best.,0,food be averag at best
+1649,We won't be going back anytime soon!,0,we wont be go back anytim soon
+1650,Very Very Disappointed ordered the $35 Big Bay Plater.,0,veri veri disappoint order the 35 big bay plater
+1653,"Not much flavor to them, and very poorly constructed.",0,not much flavor to them and veri poorli construct
+1655,The fried rice was dry as well.,0,the fri rice be dri as well
+1669,Google mediocre and I imagine Smashburger will pop up.,0,googl mediocr and i imagin smashburg will pop up
+1670,dont go here.,0,dont go here
+1672,As a sushi lover avoid this place by all means.,0,a a sushi lover avoid thi place by all mean
+1677,The plantains were the worst I've ever tasted.,0,the plantain be the bad ive ever tast
+1679,Service was slow and not attentive.,0,servic be slow and not attent
+1681,Your staff spends more time talking to themselves than me.,0,your staff spend more time talk to themselv than me
+1685,Total brunch fail.,0,total brunch fail
+1691,"I probably won't be back, to be honest.",0,i probabl wont be back to be honest
+1695,Went for lunch - service was slow.,0,go for lunch servic be slow
+1696,"We had so much to say about the place before we walked in that he expected it to be amazing, but was quickly disappointed.",0,we have so much to say about the place befor we walk in that he expect it to be amaz but be quickli disappoint
+1697,I was mortified.,0,i be mortifi
+1698,"Needless to say, we will never be back here again.",0,needless to say we will never be back here again
+1699,"Anyways, The food was definitely not filling at all, and for the price you pay you should expect more.",0,anyway the food be definit not fill at all and for the price you pay you should expect more
+1700,"The chips that came out were dripping with grease, and mostly not edible.",0,the chip that come out be drip with greas and mostli not edibl
+1701,I wasn't really impressed with Strip Steak.,0,i wasnt realli impress with strip steak
+1705,I work in the hospitality industry in Paradise Valley and have refrained from recommending Cibo any longer.,0,i work in the hospit industri in paradis valley and have refrain from recommend cibo ani long
+1707,Would not recommend to others.,0,would not recommend to other
+1709,"I mean really, how do you get so famous for your fish and chips when it's so terrible!?!",0,i mean realli how do you get so famou for your fish and chip when it so terribl
+1711,Not my thing.,0,not my thing
+1713,If you are reading this please don't go there.,0,if you be read thi pleas dont go there
+1717,Tonight I had the Elk Filet special...and it sucked.,0,tonight i have the elk filet specialand it suck
+1719,We ordered some old classics and some new dishes after going there a few times and were sorely disappointed with everything.,0,we order some old classic and some new dish after go there a few time and be sore disappoint with everyth
+1727,A FLY was in my apple juice.. A FLY!!!!!!!!,0,a fli be in my appl juic a fli
+1730,"The food was barely lukewarm, so it must have been sitting waiting for the server to bring it out to us.",0,the food be bare lukewarm so it must have be sit wait for the server to bring it out to u
+1731,Ryan's Bar is definitely one Edinburgh establishment I won't be revisiting.,0,ryan bar be definit one edinburgh establish i wont be revisit
+1735,"Probably never coming back, and wouldn't recommend it.",0,probabl never come back and wouldnt recommend it
+1736,"Friend's pasta -- also bad, he barely touched it.",0,friend pasta also bad he bare touch it
+1741,It was way over fried.,0,it be way over fri
+1742,I'm not sure how long we stood there but it was long enough for me to begin to feel awkwardly out of place.,0,im not sure how long we stand there but it be long enough for me to begin to feel awkwardli out of place
+1743,"When I opened the sandwich, I was impressed, but not in a good way.",0,when i open the sandwich i be impress but not in a good way
+1744,Will not be back!,0,will not be back
+1748,"I have watched their prices inflate, portions get smaller and management attitudes grow rapidly!",0,i have watch their price inflat portion get small and manag attitud grow rapidli
+1754,"Main thing I didn't enjoy is that the crowd is of older crowd, around mid 30s and up.",0,main thing i didnt enjoy be that the crowd be of old crowd around mid 30 and up
+1756,I had to wait over 30 minutes to get my drink and longer to get 2 arepas.,0,i have to wait over 30 minut to get my drink and long to get 2 arepa
+1759,The service was poor and thats being nice.,0,the servic be poor and that be nice
+1761,The place was not clean and the food oh so stale!,0,the place be not clean and the food oh so stale
+1762,"The chicken dishes are OK, the beef is like shoe leather.",0,the chicken dish be ok the beef be like shoe leather
+1763,But the service was beyond bad.,0,but the servic be beyond bad
+1765,Tasted like dirt.,0,tast like dirt
+1770,My sashimi was poor quality being soggy and tasteless.,0,my sashimi be poor qualiti be soggi and tasteless
+1772,"the food is not tasty at all, not to say its ""real traditional Hunan style"".",0,the food be not tasti at all not to say it real tradit hunan style
+1773,"What did bother me, was the slow service.",0,what do bother me be the slow servic
+1775,Their frozen margaritas are WAY too sugary for my taste.,0,their frozen margarita be way too sugari for my tast
+1777,So in a nutshell: 1) The restaraunt smells like a combination of a dirty fish market and a sewer.,0,so in a nutshel 1 the restaraunt smell like a combin of a dirti fish market and a sewer
+1778,My girlfriend's veal was very bad.,0,my girlfriend veal be veri bad
+1779,"Unfortunately, it was not good.",0,unfortun it be not good
+1783,Bland and flavorless is a good way of describing the barely tepid meat.,0,bland and flavorless be a good way of describ the bare tepid meat
+1784,"The chains, which I'm no fan of, beat this place easily.",0,the chain which im no fan of beat thi place easili
+1786,We will not be coming back.,0,we will not be come back
+1791,Once your food arrives it's meh.,0,onc your food arriv it meh
+1792,Paying $7.85 for a hot dog and fries that looks like it came out of a kid's meal at the Wienerschnitzel is not my idea of a good meal.,0,pay 785 for a hot dog and fri that look like it come out of a kid meal at the wienerschnitzel be not my idea of a good meal
+1794,"My brother in law who works at the mall ate here same day, and guess what he was sick all night too.",0,my brother in law who work at the mall ate here same day and guess what he be sick all night too
+1798,Mediocre food.,0,mediocr food
+1800,I'm super pissd.,0,im super pissd
+1802,Why are these sad little vegetables so overcooked?,0,whi be these sad littl veget so overcook
+1805,"I had high hopes for this place since the burgers are cooked over a charcoal grill, but unfortunately the taste fell flat, way flat.",0,i have high hope for thi place sinc the burger be cook over a charcoal grill but unfortun the tast fell flat way flat
+1807,Not a single employee came out to see if we were OK or even needed a water refill once they finally served us our food.,0,not a singl employe come out to see if we be ok or even need a water refil onc they final serv u our food
+1810,The server was very negligent of our needs and made us feel very unwelcome... I would not suggest this place!,0,the server be veri neglig of our need and make u feel veri unwelcom i would not suggest thi place
+1811,The service was terrible though.,0,the servic be terribl though
+1812,"This place is overpriced, not consistent with their boba, and it really is OVERPRICED!",0,thi place be overpric not consist with their boba and it realli be overpric
+1813,It was packed!!,0,it be pack
+1816,The food was terrible.,0,the food be terribl
+1818,It kept getting worse and worse so now I'm officially done.,0,it keep get bad and bad so now im offici do
+1819,This place should honestly be blown up.,0,thi place should honestli be blow up
+1820,But I definitely would not eat here again.,0,but i definit would not eat here again
+1821,Do not waste your money here!,0,do not wast your money here
+1824,Awful service.,0,aw servic
+1825,Won't ever go here again.,0,wont ever go here again
+1826,Food quality has been horrible.,0,food qualiti have be horribl
+1827,For that price I can think of a few place I would have much rather gone.,0,for that price i can think of a few place i would have much rather go
+1828,The service here is fair at best.,0,the servic here be fair at best
+1829,"I do love sushi, but I found Kabuki to be over-priced, over-hip and under-services.",0,i do love sushi but i find kabuki to be overpric overhip and underservic
+1830,Do yourself a favor and stay away from this dish.,0,do yourself a favor and stay away from thi dish
+1831,Very poor service.,0,veri poor servic
+1832,No one at the table thought the food was above average or worth the wait that we had for it.,0,no one at the tabl think the food be abov averag or worth the wait that we have for it
+1835,I paid the bill but did not tip because I felt the server did a terrible job.,0,i pay the bill but do not tip becaus i felt the server do a terribl job
+1837,I have never had such bland food which surprised me considering the article we read focused so much on their spices and flavor.,0,i have never have such bland food which surpris me consid the articl we read focu so much on their spice and flavor
+1838,Food is way overpriced and portions are fucking small.,0,food be way overpr and portion be fuck small
+1840,"for 40 bucks a head, i really expect better food.",0,for 40 buck a head i realli expect good food
+1843,I won't be back.,0,i wont be back
+1844,We could not believe how dirty the oysters were!,0,we could not believ how dirti the oyster be
+1845,This place deserves no stars.,0,thi place deserv no star
+1846,I would not recommend this place.,0,i would not recommend thi place
+1848,"To my disbelief, each dish qualified as the worst version of these foods I have ever tasted.",0,to my disbelief each dish qualifi a the bad version of these food i have ever tast
+1849,"Bad day or not, I have a very low tolerance for rude customer service people, it is your job to be nice and polite, wash dishes otherwise!!",0,bad day or not i have a veri low toler for rude custom servic peopl it be your job to be nice and polit wash dish otherwis
+1851,I probably would not go here again.,0,i probabl would not go here again
+1854,"The Wife hated her meal (coconut shrimp), and our friends really did not enjoy their meals, either.",0,the wife hat her meal coconut shrimp and our friend realli do not enjoy their meal either
+1855,My fella got the huevos rancheros and they didn't look too appealing.,0,my fella get the huevo ranchero and they didnt look too appeal
+1858,I probably won't be coming back here.,0,i probabl wont be come back here
+1859,Worst food/service I've had in a while.,0,bad foodservic ive have in a while
+1862,"Hot dishes are not hot, cold dishes are close to room temp.I watched staff prepare food with BARE HANDS, no gloves.Everything is deep fried in oil.",0,hot dish be not hot cold dish be close to room tempo watch staff prepar food with bare hand no gloveseveryth be deep fri in oil
+1869,The feel of the dining room was more college cooking course than high class dining and the service was slow at best.,0,the feel of the dine room be more colleg cook cours than high class dine and the servic be slow at best
+1870,"I started this review with two stars, but I'm editing it to give it only one.",0,i start thi review with two star but im edit it to give it onli one
+1871,this is the worst sushi i have ever eat besides Costco's.,0,thi be the bad sushi i have ever eat besid costco
+1874,Weird vibe from owners.,0,weird vibe from owner
+1875,There was hardly any meat.,0,there be hardli ani meat
+1876,I've had better bagels from the grocery store.,0,ive have good bagel from the groceri store
+1879,"Now the burgers aren't as good, the pizza which used to be amazing is doughy and flavorless.",0,now the burger arent a good the pizza which use to be amaz be doughi and flavorless
+1880,I found a six inch long piece of wire in my salsa.,0,i find a six inch long piec of wire in my salsa
+1881,"The service was terrible, food was mediocre.",0,the servic be terribl food be mediocr
+1883,I ordered Albondigas soup - which was just warm - and tasted like tomato soup with frozen meatballs.,0,i order albondiga soup which be just warm and tast like tomato soup with frozen meatbal
+1884,"On three different occasions I asked for well done or medium well, and all three times I got the bloodiest piece of meat on my plate.",0,on three differ occas i ask for well do or medium well and all three time i get the bloodi piec of meat on my plate
+1885,I had about two bites and refused to eat anymore.,0,i have about two bite and refus to eat anymor
+1886,The service was extremely slow.,0,the servic be extrem slow
+1887,"After 20 minutes wait, I got a table.",0,after 20 minut wait i get a tabl
+1889,"No allergy warnings on the menu, and the waitress had absolutely no clue as to which meals did or did not contain peanuts.",0,no allergi warn on the menu and the waitress have absolut no clue a to which meal do or do not contain peanut
+1892,Pricing is a bit of a concern at Mellow Mushroom.,0,price be a bit of a concern at mellow mushroom
+1893,Worst Thai ever.,0,bad thai ever
+1898,Highly unprofessional and rude to a loyal patron!,0,highli unprofession and rude to a loyal patron
+1900,Spend your money elsewhere.,0,spend your money elsewher
+1902,The Buffet at Bellagio was far from what I anticipated.,0,the buffet at bellagio be far from what i anticip
+1903,"And the drinks are WEAK, people!",0,and the drink be weak peopl
+1904,-My order was not correct.,0,my order be not correct
+1905,"Also, I feel like the chips are bought, not made in house.",0,also i feel like the chip be buy not make in hous
+1906,After the disappointing dinner we went elsewhere for dessert.,0,after the disappoint dinner we go elsewher for dessert
+1908,We won't be returning.,0,we wont be return
+1910,I seriously cannot believe that the owner has so many unexperienced employees that all are running around like chickens with their heads cut off.,0,i serious can not believ that the owner have so mani unexperienc employe that all be run around like chicken with their head cut off
+1911,"Very, very sad.",0,veri veri sad
+1912,"i felt insulted and disrespected, how could you talk and judge another human being like that?",0,i felt insult and disrespect how could you talk and judg anoth human be like that
+1913,"How can you call yourself a steakhouse if you can't properly cook a steak, I don't understand!",0,how can you call yourself a steakhous if you cant properli cook a steak i dont understand
+1914,I'm not impressed with the concept or the food.,0,im not impress with the concept or the food
+1915,The only thing I wasn't too crazy about was their guacamole as I don't like it puréed.,0,the onli thing i wasnt too crazi about be their guacamol a i dont like it puré
+1916,"There is really nothing for me at postinos, hope your experience is better",0,there be realli noth for me at postino hope your experi be well
+1917,I got food poisoning here at the buffet.,0,i get food poison here at the buffet
+1918,They brought a fresh batch of fries and I was thinking yay something warm but no!,0,they bring a fresh batch of fri and i be think yay someth warm but no
+1919,"What SHOULD have been a hilarious, yummy Christmas Eve dinner to remember was the biggest fail of the entire trip for us.",0,what should have be a hilari yummi christma eve dinner to rememb be the big fail of the entir trip for u
+1920,"Needless to say, I won't be going back anytime soon.",0,needless to say i wont be go back anytim soon
+1921,This place is disgusting!,0,thi place be disgust
+1923,The RI style calamari was a joke.,0,the ri style calamari be a joke
+1924,"However, there was so much garlic in the fondue, it was barely edible.",0,howev there be so much garlic in the fondu it be bare edibl
+1925,"I could barely stomach the meal, but didn't complain because it was a business lunch.",0,i could bare stomach the meal but didnt complain becaus it be a busi lunch
+1926,"It was so bad, I had lost the heart to finish it.",0,it be so bad i have lose the heart to finish it
+1927,It also took her forever to bring us the check when we asked for it.,0,it also take her forev to bring u the check when we ask for it
+1928,We aren't ones to make a scene at restaurants but I just don't get it...definitely lost the love after this one!,0,we arent one to make a scene at restaur but i just dont get itdefinit lose the love after thi one
+1929,Disappointing experience.,0,disappoint experi
+1930,"The food is about on par with Denny's, which is to say, not good at all.",0,the food be about on par with denni which be to say not good at all
+1931,"If you want to wait for mediocre food and downright terrible service, then this is the place for you.",0,if you want to wait for mediocr food and downright terribl servic then thi be the place for you
+1932,WAAAAAAyyyyyyyyyy over rated is all I am saying.,0,waaaaaayyyyyyyyyi over rat be all i be say
+1933,We won't be going back.,0,we wont be go back
+1934,The place was fairly clean but the food simply wasn't worth it.,0,the place be fairli clean but the food simpli wasnt worth it
+1935,This place lacked style!!,0,thi place lack style
+1936,"The sangria was about half of a glass wine full and was $12, ridiculous.",0,the sangria be about half of a glass wine full and be 12 ridicul
+1937,Don't bother coming here.,0,dont bother come here
+1938,"The meat was pretty dry, I had the sliced brisket and pulled pork.",0,the meat be pretti dri i have the slice brisket and pull pork
+1939,"The building itself seems pretty neat; the bathroom is pretty trippy, but I wouldn't eat here again.",0,the build itself seem pretti neat the bathroom be pretti trippi but i wouldnt eat here again
+1940,It was equally awful.,0,it be equal aw
+1941,Probably not in a hurry to go back.,0,probabl not in a hurri to go back
+1942,very slow at seating even with reservation.,0,veri slow at seat even with reserv
+1943,Not good by any stretch of the imagination.,0,not good by ani stretch of the imagin
+1944,The cashew cream sauce was bland and the vegetables were undercooked.,0,the cashew cream sauc be bland and the veget be undercook
+1945,"The chipolte ranch dipping sause was tasteless, seemed thin and watered down with no heat.",0,the chipolt ranch dip saus be tasteless seem thin and water down with no heat
+1946,"It was a bit too sweet, not really spicy enough, and lacked flavor.",0,it be a bit too sweet not realli spici enough and lack flavor
+1947,I was VERY disappointed!!,0,i be veri disappoint
+1948,This place is horrible and way overpriced.,0,thi place be horribl and way overpric
+1949,"Maybe it's just their Vegetarian fare, but I've been twice and I thought it was average at best.",0,mayb it just their vegetarian fare but ive be twice and i think it be averag at best
+1950,It wasn't busy at all and now we know why.,0,it wasnt busi at all and now we know whi
+1951,The tables outside are also dirty a lot of the time and the workers are not always friendly and helpful with the menu.,0,the tabl outsid be also dirti a lot of the time and the worker be not alway friendli and help with the menu
+1952,"The ambiance here did not feel like a buffet setting, but more of a douchey indoor garden for tea and biscuits.",0,the ambianc here do not feel like a buffet set but more of a douchey indoor garden for tea and biscuit
+1953,Con: spotty service.,0,con spotti servic
+1954,"The fries were not hot, and neither was my burger.",0,the fri be not hot and neither be my burger
+1955,But then they came back cold.,0,but then they come back cold
+1956,"Then our food came out, disappointment ensued.",0,then our food come out disappoint ensu
+1957,The real disappointment was our waiter.,0,the real disappoint be our waiter
+1958,My husband said she was very rude... did not even apologize for the bad food or anything.,0,my husband say she be veri rude do not even apolog for the bad food or anyth
+1959,The only reason to eat here would be to fill up before a night of binge drinking just to get some carbs in your stomach.,0,the onli reason to eat here would be to fill up befor a night of bing drink just to get some carb in your stomach
+1960,"Insults, profound deuchebaggery, and had to go outside for a smoke break while serving just to solidify it.",0,insult profound deuchebaggeri and have to go outsid for a smoke break while serv just to solidifi it
+1961,If someone orders two tacos don't' you think it may be part of customer service to ask if it is combo or ala cart?,0,if someon order two taco dont you think it may be part of custom servic to ask if it be combo or ala cart
+1962,She was quite disappointed although some blame needs to be placed at her door.,0,she be quit disappoint although some blame need to be place at her door
+1963,After all the rave reviews I couldn't wait to eat here......what a disappointment!,0,after all the rave review i couldnt wait to eat herewhat a disappoint
+1964,Del Taco is pretty nasty and should be avoided if possible.,0,del taco be pretti nasti and should be avoid if possibl
+1965,It's NOT hard to make a decent hamburger.,0,it not hard to make a decent hamburg
+1966,But I don't like it.,0,but i dont like it
+1967,Hell no will I go back,0,hell no will i go back
+1968,We've have gotten a much better service from the pizza place next door than the services we received from this restaurant.,0,weve have get a much good servic from the pizza place next door than the servic we receiv from thi restaur
+1969,"I don't know what the big deal is about this place, but I won't be back ""ya'all"".",0,i dont know what the big deal be about thi place but i wont be back yaall
+1970,I immediately said I wanted to talk to the manager but I did not want to talk to the guy who was doing shots of fireball behind the bar.,0,i immedi say i want to talk to the manag but i do not want to talk to the guy who be do shot of firebal behind the bar
+1971,The ambiance isn't much better.,0,the ambianc isnt much well
+1972,"Unfortunately, it only set us up for disapppointment with our entrees.",0,unfortun it onli set u up for disapppoint with our entre
+1973,The food wasn't good.,0,the food wasnt good
+1974,"Your servers suck, wait, correction, our server Heimer sucked.",0,your server suck wait correct our server heimer suck
+1975,What happened next was pretty....off putting.,0,what happen next be prettyoff put
+1976,"too bad cause I know it's family owned, I really wanted to like this place.",0,too bad caus i know it famili own i realli want to like thi place
+1977,Overpriced for what you are getting.,0,overpric for what you be get
+1978,I vomited in the bathroom mid lunch.,0,i vomit in the bathroom mid lunch
+1979,"I kept looking at the time and it had soon become 35 minutes, yet still no food.",0,i keep look at the time and it have soon becom 35 minut yet still no food
+1980,"I have been to very few places to eat that under no circumstances would I ever return to, and this tops the list.",0,i have be to veri few place to eat that under no circumst would i ever return to and thi top the list
+1981,We started with the tuna sashimi which was brownish in color and obviously wasn't fresh.,0,we start with the tuna sashimi which be brownish in color and obvious wasnt fresh
+1982,Food was below average.,0,food be below averag
+1983,It sure does beat the nachos at the movies but I would expect a little bit more coming from a restaurant.,0,it sure do beat the nacho at the movi but i would expect a littl bit more come from a restaur
+1984,"All in all, Ha Long Bay was a bit of a flop.",0,all in all ha long bay be a bit of a flop
+1985,The problem I have is that they charge $11.99 for a sandwich that is no bigger than a Subway sub (which offers better and more amount of vegetables).,0,the problem i have be that they charg 1199 for a sandwich that be no big than a subway sub which offer good and more amount of veget
+1986,Shrimp- When I unwrapped it (I live only 1/2 a mile from Brushfire) it was literally ice cold.,0,shrimp when i unwrap it i live onli 12 a mile from brushfir it be liter ice cold
+1987,"It lacked flavor, seemed undercooked, and dry.",0,it lack flavor seem undercook and dri
+1988,It really is impressive that the place hasn't closed down.,0,it realli be impress that the place hasnt close down
+1989,I would avoid this place if you are staying in the Mirage.,0,i would avoid thi place if you be stay in the mirag
+1990,The refried beans that came with my meal were dried out and crusty and the food was bland.,0,the refri bean that come with my meal be dri out and crusti and the food be bland
+1991,Spend your money and time some place else.,0,spend your money and time some place els
+1992,A lady at the table next to us found a live green caterpillar In her salad.,0,a ladi at the tabl next to u find a live green caterpillar in her salad
+1993,the presentation of the food was awful.,0,the present of the food be aw
+1994,I can't tell you how disappointed I was.,0,i cant tell you how disappoint i be
+1995,I think food should have flavor and texture and both were lacking.,0,i think food should have flavor and textur and both be lack
+1996,Appetite instantly gone.,0,appetit instantli go
+1997,Overall I was not impressed and would not go back.,0,overal i be not impress and would not go back
+1998,"The whole experience was underwhelming, and I think we'll just go to Ninja Sushi next time.",0,the whole experi be underwhelm and i think well just go to ninja sushi next time
+1999,"Then, as if I hadn't wasted enough of my life there, they poured salt in the wound by drawing out the time it took to bring the check.",0,then a if i hadnt wast enough of my life there they pour salt in the wound by draw out the time it take to bring the check
+2000,So there is no way for me to plug it in here in the US unless I go by a converter.,0,so there be no way for me to plug it in here in the u unless i go by a convert
+2003,Tied to charger for conversations lasting more than 45 minutes.MAJOR PROBLEMS!!,0,tie to charger for convers last more than 45 minutesmajor problem
+2005,I have to jiggle the plug to get it to line up right to get decent volume.,0,i have to jiggl the plug to get it to line up right to get decent volum
+2006,"If you have several dozen or several hundred contacts, then imagine the fun of sending each of them one by one.",0,if you have sever dozen or sever hundr contact then imagin the fun of send each of them one by one
+2008,"Needless to say, I wasted my money.",0,needless to say i wast my money
+2009,What a waste of money and time!.,0,what a wast of money and time
+2012,If the two were seperated by a mere 5+ ft I started to notice excessive static and garbled sound from the headset.,0,if the two be seper by a mere 5 ft i start to notic excess static and garbl sound from the headset
+2014,"The design is very odd, as the ear ""clip"" is not very comfortable at all.",0,the design be veri odd a the ear clip be not veri comfort at all
+2016,I advise EVERYONE DO NOT BE FOOLED!,0,i advis everyon do not be fool
+2019,It clicks into place in a way that makes you wonder how long that mechanism would last.,0,it click into place in a way that make you wonder how long that mechan would last
+2020,"I went on Motorola's website and followed all directions, but could not get it to pair again.",0,i go on motorola websit and follow all direct but could not get it to pair again
+2022,The commercials are the most misleading.,0,the commerci be the most mislead
+2024,I bought it for my mother and she had a problem with the battery.,0,i buy it for my mother and she have a problem with the batteri
+2027,I didn't think that the instructions provided were helpful to me.,0,i didnt think that the instruct provid be help to me
+2028,People couldnt hear me talk and I had to pull out the earphone and talk on the phone.,0,peopl couldnt hear me talk and i have to pull out the earphon and talk on the phone
+2029,Doesn't hold charge.,0,doesnt hold charg
+2030,"This is a simple little phone to use, but the breakage is unacceptible.",0,thi be a simpl littl phone to use but the breakag be unaccept
+2032,It is unusable in a moving car at freeway speed.,0,it be unus in a move car at freeway speed
+2033,I have two more years left in this contract and I hate this phone.,0,i have two more year leav in thi contract and i hate thi phone
+2035,You need at least 3 mins to get to your phone book from the time you first turn on the phone.Battery life is short.,0,you need at least 3 min to get to your phone book from the time you first turn on the phonebatteri life be short
+2037,Poor Talk Time Performance.,0,poor talk time perform
+2039,worthless product.,0,worthless product
+2041,I was not impressed by this product.,0,i be not impress by thi product
+2043,I only hear garbage for audio.,0,i onli hear garbag for audio
+2046,Who in their right mind is gonna buy this battery?.,0,who in their right mind be gon na buy thi batteri
+2047,AFTER ARGUING WITH VERIZON REGARDING THE DROPPED CALLS WE RETURNED THE PHONES AFTER TWO DAYS.,0,after argu with verizon regard the drop call we return the phone after two day
+2049,Disappointed with battery.,0,disappoint with batteri
+2050,Not loud enough and doesn't turn on like it should.,0,not loud enough and doesnt turn on like it should
+2056,VERY DISAPPOINTED.,0,veri disappoint
+2059,The buttons for on and off are bad.,0,the button for on and off be bad
+2060,Essentially you can forget Microsoft's tech support.,0,essenti you can forget microsoft tech support
+2063,Buy a different phone - but not this.,0,buy a differ phone but not thi
+2064,You have to hold the phone at a particular angle for the other party to hear you clearly.,0,you have to hold the phone at a particular angl for the other parti to hear you clearli
+2065,The one big drawback of the MP3 player is that the buttons on the phone's front cover that let you pause and skip songs lock out after a few seconds.,0,the one big drawback of the mp3 player be that the button on the phone front cover that let you paus and skip song lock out after a few second
+2066,"A week later after I activated it, it suddenly died.",0,a week later after i activ it it suddenli die
+2070,Mic Doesn't work.,0,mic doesnt work
+2071,"Even in my BMW 3 series which is fairly quiet, I have trouble hearing what the other person is saying.",0,even in my bmw 3 seri which be fairli quiet i have troubl hear what the other person be say
+2076,Do Not Buy for D807...wrongly advertised for D807.,0,do not buy for d807wrongli advertis for d807
+2079,I purchased this and within 2 days it was no longer working!!!!!!!!!,0,i purchas thi and within 2 day it be no long work
+2081,Not a good bargain.,0,not a good bargain
+2083,The battery runs down quickly.,0,the batteri run down quickli
+2084,"This item worked great, but it broke after 6 months of use.",0,thi item work great but it break after 6 month of use
+2087,The construction of the headsets is poor.,0,the construct of the headset be poor
+2090,"For a product that costs as much as this one does, I expect it to work far better and with greater ease than this thing does.",0,for a product that cost as much a thi one do i expect it to work far well and with great eas than thi thing do
+2093,The ear buds only play music in one ear.,0,the ear bud onli play music in one ear
+2094,Dont waste your money...,0,dont wast your money
+2096,If you plan to use this in a car forget about it.,0,if you plan to use thi in a car forget about it
+2097,I found this product to be waaay too big.,0,i find thi product to be waaay too big
+2099,I'm very disappointed with my decision.,0,im veri disappoint with my decis
+2101,"Buyer Beware, you could flush money right down the toilet.",0,buyer bewar you could flush money right down the toilet
+2104,I received my supposedly new motorola 375 and apparently there was not a match between the phone and the charger.,0,i receiv my supposedli new motorola 375 and appar there be not a match between the phone and the charger
+2106,"That's a huge design flaw (unless I'm not using it correctly, which I don't think is the case).",0,that a huge design flaw unless im not use it correctli which i dont think be the case
+2108,"The camera, although rated at an impressive 1.3 megapixels, renders images that fall well below expectations of such a relatively high resolution.",0,the camera although rat at an impress 13 megapixel render imag that fall well below expect of such a rel high resolut
+2109,I purcashed this for the car charger and it does not work.,0,i purcash thi for the car charger and it do not work
+2116,i got this phone around the end of may and i'm completely unhappy with it.,0,i get thi phone around the end of may and im complet unhappi with it
+2121,Could not get strong enough signal.,0,could not get strong enough signal
+2123,Bad Quality.,0,bad qualiti
+2126,Basically the service was very bad.,0,basic the servic be veri bad
+2127,it did not work in my cell phone plug i am very up set with the charger!.,0,it do not work in my cell phone plug i be veri up set with the charger
+2129,The BT headset was such a disapoinment.,0,the bt headset be such a disapoin
+2134,Buyer--Be Very Careful!!!!!.,0,buyerb veri care
+2135,The majority of the Logitech earbud headsets failed.,0,the major of the logitech earbud headset fail
+2138,In my house I was getting dropped coverage upstairs and no coverage in my basement.,0,in my hous i be get drop coverag upstair and no coverag in my basement
+2140,What a waste.,0,what a wast
+2141,"During several different 2 minute calls, I experienced 5 drops and it was in an area that had 5 bars.",0,dure sever differ 2 minut call i experi 5 drop and it be in an area that have 5 bar
+2142,I was not happy with this item.,0,i be not happi with thi item
+2143,very disappointed.,0,veri disappoint
+2144,The phone takes FOREVER to charge like 2 to 5 hours literally.,0,the phone take forev to charg like 2 to 5 hour liter
+2146,What a waste of time!,0,what a wast of time
+2147,Its reception is very very poor.,0,it recept be veri veri poor
+2148,Items stated as included from the description ARE NOT INCLUDED.,0,item state a includ from the descript be not includ
+2149,"After 3 months, screen just went black all of a sudden.",0,after 3 month screen just go black all of a sudden
+2150,I Was Hoping for More.,0,i be hop for more
+2151,"Audio Quality is poor, very poor.",0,audio qualiti be poor veri poor
+2154,I've bought $5 wired headphones that sound better than these.,0,ive buy 5 wire headphon that sound good than these
+2160,"All I can do is whine on the Internet, so here it goes.The more I use the thing the less I like it.",0,all i can do be whine on the internet so here it goesth more i use the thing the less i like it
+2162,This is essentially a communications tool that does not communicate.,0,thi be essenti a commun tool that do not commun
+2164,"I still maintain that monkeys shouldn't make headphones, we just obviously don't share enough DNA to copy the design over to humans.",0,i still maintain that monkey shouldnt make headphon we just obvious dont share enough dna to copi the design over to human
+2166,Doesn't work at all.. I bougth it for my L7c and its not working.,0,doesnt work at all i bougth it for my l7c and it not work
+2168,doesn't last long.,0,doesnt last long
+2169,One thing I hate is the mode set button at the side.,0,one thing i hate be the mode set button at the side
+2171,Thank you for wasting my money.,0,thank you for wast my money
+2172,How can that be?The audio quality is poor.,0,how can that beth audio qualiti be poor
+2177,"I put the latest OS on it (v1.15g), and it now likes to slow to a crawl and lock up every once in a while.",0,i put the late o on it v115g and it now like to slow to a crawl and lock up everi onc in a while
+2178,It only recognizes the Phone as its storage device.,0,it onli recogn the phone a it storag devic
+2179,"If you like a loud buzzing to override all your conversations, then this phone is for you!",0,if you like a loud buzz to overrid all your convers then thi phone be for you
+2180,Don't buy this product.,0,dont buy thi product
+2181,I've had this bluetoooth headset for some time now and still not comfortable with the way it fits on the ear.,0,ive have thi bluetoooth headset for some time now and still not comfort with the way it fit on the ear
+2183,"I have this phone and it is a thorn in my side, I really abhor it.",0,i have thi phone and it be a thorn in my side i realli abhor it
+2184,I recently had problems where I could not stay connected for more than 10 minutes before being disconnected.,0,i recent have problem where i could not stay connect for more than 10 minut befor be disconnect
+2186,Design Flaw?.,0,design flaw
+2188,Waste of 13 bucks.,0,wast of 13 buck
+2189,"But when I check voice mail at night, the keypad backlight turns off a few seconds into the first message, and then I'm lost.",0,but when i check voic mail at night the keypad backlight turn off a few second into the first messag and then im lost
+2190,The replacement died in a few weeks.,0,the replac die in a few week
+2193,I have had problems wit hit dropping signal and more.,0,i have have problem wit hit drop signal and more
+2194,Not impressed.,0,not impress
+2197,Bad Choice.,0,bad choic
+2198,The pleather case doesn't fit.,0,the pleather case doesnt fit
+2199,"useless phone, simply deaf.",0,useless phone simpli deaf
+2202,It makes very strange ticking noises before it ends the call.,0,it make veri strang tick nois befor it end the call
+2204,Battery lasts only a few hours.,0,batteri last onli a few hour
+2209,We are sending it back.,0,we be send it back
+2210,I did not bother contacting the company for few dollar product but I learned the lesson that I should not have bought this form online anyway.,0,i do not bother contact the compani for few dollar product but i learn the lesson that i should not have buy thi form onlin anyway
+2211,"If you hate earbugs, avoid this phone by all means.",0,if you hate earbug avoid thi phone by all mean
+2217,"I also didn't like the ""on"" button, it felt like it would crack with use.",0,i also didnt like the on button it felt like it would crack with use
+2218,WORST PHONE EVER.,0,worst phone ever
+2220,Freezes frequently4.,0,freez frequently4
+2221,It's kind of embarrassing to use because of how it looks and mostly it's embarrassing how child-like the company is.,0,it kind of embarrass to use becaus of how it look and mostli it embarrass how childlik the compani be
+2223,"All in all, I'd expected a better consumer experience from Motorola.",0,all in all id expect a good consum experi from motorola
+2224,There's a horrible tick sound in the background on all my calls that I have never experienced before.,0,there a horribl tick sound in the background on all my call that i have never experi befor
+2227,I'm a bit disappointed.,0,im a bit disappoint
+2228,"I have had this phone for over a year now, and I will tell you, its not that great.",0,i have have thi phone for over a year now and i will tell you it not that great
+2229,I ordered this for sony Ericsson W810i but I think it only worked once (thats when I first used it).,0,i order thi for soni ericsson w810i but i think it onli work onc that when i first use it
+2230,The battery is completely useless to me.,0,the batteri be complet useless to me
+2231,What a big waste of time.,0,what a big wast of time
+2232,Don't waste your $$$ on this one.,0,dont wast your on thi one
+2239,Do not make the same mistake as me.,0,do not make the same mistak a me
+2240,Big Disappointment with calendar sync.,0,big disappoint with calendar sync
+2241,the phone was unusable and was not new.,0,the phone be unus and be not new
+2242,Worst Customer Service Ever.,0,worst custom servic ever
+2243,"No additional ear gels provided, and no instructions whatsoever.",0,no addit ear gel provid and no instruct whatsoev
+2244,It defeats the purpose of a bluetooth headset.,0,it defeat the purpos of a bluetooth headset
+2248,Internet is excrutiatingly slow.,0,internet be excrutiatingli slow
+2254,This product had a strong rubber/petroleum smell that was unbearable after a while and caused me to return it,0,thi product have a strong rubberpetroleum smell that be unbear after a while and caus me to return it
+2255,poor quality and service.,0,poor qualiti and servic
+2256,"The cable looks so thin and flimsy, it is scary.",0,the cabl look so thin and flimsi it be scari
+2263,Absolutel junk.,0,absolutel junk
+2264,THAT one didn't work either.,0,that one didnt work either
+2266,Returned 8 hours later.,0,return 8 hour later
+2268,Don't waste your money!.,0,dont wast your money
+2270,"Not only will it drain your player, but may also potentially fry it.",0,not onli will it drain your player but may also potenti fri it
+2272,Unreliable - I'm giving up.,0,unreli im give up
+2274,Avoid this one if you can.,0,avoid thi one if you can
+2276,I wasted my little money with this earpiece.,0,i wast my littl money with thi earpiec
+2282,"First of all, it doesn't wear well.",0,first of all it doesnt wear well
+2286,I wouldn't recommend buying this product.,0,i wouldnt recommend buy thi product
+2287,Piece of Junk.,0,piec of junk
+2288,Poorly contstruct hinge.,0,poorli contstruct hing
+2291,Don't buy it.,0,dont buy it
+2293,DO NOT PURCHASE THIS PHONE.,0,do not purchas thi phone
+2298,Customer service was terrible.,0,custom servic be terribl
+2299,Battery life still not long enough in Motorola Razor V3i.,0,batteri life still not long enough in motorola razor v3i
+2300,Sending it back.,0,send it back
+2307,"As many people complained, I found this headset's microphone was very weak.",0,a mani peopl complain i find thi headset microphon be veri weak
+2308,My 5-year old Nokia 2160 from Tracfone holds the charge a lot better than this.,0,my 5year old nokia 2160 from tracfon hold the charg a lot good than thi
+2309,They do not care about the consumer one bit.,0,they do not care about the consum one bit
+2311,The instruction manual is lacking.,0,the instruct manual be lack
+2314,The battery is unreliable as well as the service use antena.,0,the batteri be unreli as well a the servic use antena
+2315,It's uncomfortable and the sound quality is quite poor compared with the phone (Razr) or with my previous wired headset (that plugged into an LG).,0,it uncomfort and the sound qualiti be quit poor compar with the phone razr or with my previou wire headset that plug into an lg
+2318,I want my money back.,0,i want my money back
+2321,I ordered this product first and was unhappy with it immediately.,0,i order thi product first and be unhappi with it immedi
+2322,The Ngage is still lacking in earbuds.,0,the ngage be still lack in earbud
+2324,"I have 2-3 bars on my cell phone when I am home, but you cant not hear anything.",0,i have 23 bar on my cell phone when i be home but you cant not hear anyth
+2326,"However-the riingtones are not the best, and neither are the games.",0,howeverth riington be not the best and neither be the game
+2327,The plug did not work very well.,0,the plug do not work veri well
+2328,AMAZON SUCKS.,0,amazon suck
+2329,Rip off---- Over charge shipping.,0,rip off over charg ship
+2335,1. long lasting battery (you don't have to recharge it as frequentyly as some of the flip phones)2.,0,1 long last batteri you dont have to recharg it as frequentyli a some of the flip phones2
+2336,Obviously there is a problem with the adhesive.,0,obvious there be a problem with the adhes
+2337,Very disappointing.,0,veri disappoint
+2338,"It was an inexpensive piece, but I would still have expected better quality.",0,it be an inexpens piec but i would still have expect good qualiti
+2339,It is practically useless and did not add any kind of boost to my reception after I bought it.,0,it be practic useless and do not add ani kind of boost to my recept after i buy it
+2341,Was not happy.,0,be not happi
+2342,A PIECE OF JUNK THAT BROKE AFTER BEING ON MY PHONE FOR 2 DAYS!!!,0,a piec of junk that break after be on my phone for 2 day
+2344,Worst customer service.,0,worst custom servic
+2346,Reception is terrible and full of static.,0,recept be terribl and full of static
+2349,"I was sitting in my vehicle, with the cradle on my belt, and the headset lost signal.",0,i be sit in my vehicl with the cradl on my belt and the headset lose signal
+2350,Were JERKS on the phone.,0,be jerk on the phone
+2353,Their network coverage in Los Angeles is horrible.,0,their network coverag in lo angel be horribl
+2354,Excellent starter wireless headset.,0,excel starter wireless headset
+2355,"The loudspeaker option is great, the bumpers with the lights is very ... appealing.",0,the loudspeak option be great the bumper with the light be veri appeal
+2356,The only thing that I think could improve is the sound leaks out from the headset.,0,the onli thing that i think could improv be the sound leak out from the headset
+2357,"First off the reception sucks, I have never had more than 2 bars, ever.",0,first off the recept suck i have never have more than 2 bar ever
+2358,The phone gets EXTREMELY HOT!,0,the phone get extrem hot
+2361,"Also, if your phone is dropped, this case is not going to save it, specially when dropped face down.",0,also if your phone be drop thi case be not go to save it special when drop face down
+2363,"bad fit, way too big.",0,bad fit way too big
+2366,Waste of money.,0,wast of money
+2370,"I'll be drivng along, and my headset starts ringing for no reason.",0,ill be drivng along and my headset start ring for no reason
+2373,The worst phone I've ever had.... Only had it for a few months.,0,the bad phone ive ever have onli have it for a few month
+2374,Not a good item.. It worked for a while then started having problems in my auto reverse tape player.,0,not a good item it work for a while then start have problem in my auto revers tape player
+2375,This is so embarassing and also my ears hurt if I try to push the ear plug into my ear.,0,thi be so embarass and also my ear hurt if i tri to push the ear plug into my ear
+2377,This is a VERY average phone with bad battery life that operates on a weak network.,0,thi be a veri averag phone with bad batteri life that oper on a weak network
+2379,Soyo technology sucks.,0,soyo technolog suck
+2382,Same problem as others have mentioned.,0,same problem a other have mention
+2385,The worst piece of crap ever along with the Verizon customer service.,0,the bad piec of crap ever along with the verizon custom servic
+2386,Poor sound quality.,0,poor sound qualiti
+2391,The picture resolution is far below what other comparably-priced phones are offering today.,0,the pictur resolut be far below what other comparablypr phone be offer today
+2396,"Using all earpieces, left or right, this thing will not stay on my ear.",0,use all earpiec leav or right thi thing will not stay on my ear
+2399,Still Waiting...... I'm sure this item would work well.. if I ever recieve it!,0,still wait im sure thi item would work well if i ever reciev it
+2400,what a disappointment,0,what a disappoint
+2404,don't waste your money and time.,0,dont wast your money and time
+2406,"It's so stupid to have to keep buying new chargers, car chargers, cradles, headphones and car kits every time a new phone comes out.",0,it so stupid to have to keep buy new charger car charger cradl headphon and car kit everi time a new phone come out
+2409,I came over from Verizon because cingulair has nicer cell phones.... the first thing I noticed was the really bad service.,0,i come over from verizon becaus cingulair have nicer cell phone the first thing i notic be the realli bad servic
+2410,I'll be looking for a new earpiece.,0,ill be look for a new earpiec
+2413,We received a WHITE colored battery that goes DEAD after a couple hoursTHe original used to last a week - but still lasts longer than thereplacement,0,we receiv a white color batteri that go dead after a coupl hoursth origin use to last a week but still last long than thereplac
+2414,After a year the battery went completely dead on my headset.,0,after a year the batteri go complet dead on my headset
+2417,This is the first phone I've had that has been so cheaply made.,0,thi be the first phone ive have that have be so cheapli make
+2418,"Att is not clear, sound is very distorted and you have to yell when you talk.",0,att be not clear sound be veri distort and you have to yell when you talk
+2419,The plastic breaks really easy on this clip.,0,the plastic break realli easi on thi clip
+2421,Don't make the same mistake I did.,0,dont make the same mistak i do
+2422,Oh and I forgot to also mention the weird color effect it has on your phone.,0,oh and i forget to also mention the weird color effect it have on your phone
+2424,Also the area where my unit broke).- I'm not too fond of the magnetic strap.,0,also the area where my unit break im not too fond of the magnet strap
+2427,"Another note about this phone's appearance is that it really looks rather bland, especially in the all black model.",0,anoth note about thi phone appear be that it realli look rather bland especi in the all black model
+2432,Low Quality.,0,low qualiti
+2435,Warning - Stay away.,0,warn stay away
+2436,I wish I could return the unit and get back my money.,0,i wish i could return the unit and get back my money
+2438,I used to talk on it for 1 - 1 1/2 hours and the battery would be literally drained and dying.,0,i use to talk on it for 1 1 12 hour and the batteri would be liter drain and die
+2439,"If you don't find it, too bad, as again the unit comes with one earpad only.I would not recommend this to anyone.",0,if you dont find it too bad a again the unit come with one earpad onlyi would not recommend thi to anyon
+2440,Very Displeased.,0,veri displeas
+2441,"I might have gotten a defect, but I would not risk buying it again because of the built quality alone.",0,i might have get a defect but i would not risk buy it again becaus of the built qualiti alon
+2442,They made this case too small and is very difficult to install.,0,they make thi case too small and be veri difficult to instal
+2446,Does not fit.,0,do not fit
+2449,There's really nothing bad I can say about this headset.,0,there realli noth bad i can say about thi headset
+2453,I even fully charged it before I went to bed and turned off blue tooth and wi-fi and noticed that it only had 20 % left in the morning.,0,i even fulli charg it befor i go to bed and turn off blue tooth and wifi and notic that it onli have 20 leav in the morn
+2454,I've also had problems with the phone reading the memory card in which I always turn it on and then off again.,0,ive also have problem with the phone read the memori card in which i alway turn it on and then off again
+2455,Not good when wearing a hat or sunglasses.,0,not good when wear a hat or sunglass
+2459,Horrible phone.,0,horribl phone
+2460,BT50 battery junk!.,0,bt50 batteri junk
+2462,Cant get the software to work with my computer.,0,cant get the softwar to work with my comput
+2463,Disappointed!.,0,disappoint
+2464,poor voice clarity.,0,poor voic clariti
+2466,No buyers remorse on this one!.,0,no buyer remors on thi one
+2467,Very disappointed in AccessoryOne.,0,veri disappoint in accessoryon
+2468,I find this inexcusable and so will probably be returning this phone and perhaps changing carriers.,0,i find thi inexcus and so will probabl be return thi phone and perhap chang carrier
+2471,The update procedure is difficult and cumbersome.,0,the updat procedur be difficult and cumbersom
+2472,Disappointment.. I hate anything that goes in my ear.,0,disappoint i hate anyth that go in my ear
+2476,"Uncomfortable In the Ear, Don't use with LG VX9900 (EnV).",0,uncomfort in the ear dont use with lg vx9900 env
+2477,The volume switch rocketed out of the unit to a destination unknown.,0,the volum switch rocket out of the unit to a destin unknown
+2479,I'd like to return it.,0,id like to return it
+2481,"Verizon's bills, however, are difficult to understand even though their pricing plans are simple.",0,verizon bill howev be difficult to understand even though their price plan be simpl
+2485,A Disappointment.,0,a disappoint
+2486,Its not user friendly.,0,it not user friendli
+2487,Unfortunately the ability to actually know you are receiving a call is a rather important feature and this phone is pitiful in that respect.,0,unfortun the abil to actual know you be receiv a call be a rather import featur and thi phone be piti in that respect
+2488,"Then I exchanged for the same phone, even that had the same problem.",0,then i exchang for the same phone even that have the same problem
+2489,This results in the phone being either stuck at max volume or mute.,0,thi result in the phone be either stick at max volum or mute
+2494,Pretty piece of junk.,0,pretti piec of junk
+2495,Plug was the wrong size.,0,plug be the wrong size
+2497,Save your money.... I've had this item for 11 months now.,0,save your money ive have thi item for 11 month now
+2498,Bad Purchase.,0,bad purchas
+2502,Defective crap.,0,defect crap
+2503,I would have given no star if I was able.,0,i would have give no star if i be abl
+2505,"The sound quality for the device is unacceptable.Unless you are in a really quiet area, you almost hear nothing.",0,the sound qualiti for the devic be unacceptableunless you be in a realli quiet area you almost hear noth
+2506,I would not recommend this item to anyone.,0,i would not recommend thi item to anyon
+2507,The holster that arrived did not match the photo in the ad.,0,the holster that arriv do not match the photo in the ad
+2509,"As an earlier review noted, plug in this charger and nothing happens.",0,a an earli review note plug in thi charger and noth happen
+2511,You never know if you pushed it hard enough or the right number of times for the function you want or not.,0,you never know if you push it hard enough or the right number of time for the function you want or not
+2519,I am not impressed with this and i would not recommend this item to anyone.,0,i be not impress with thi and i would not recommend thi item to anyon
+2520,My only complaint is the standard sound volume is a little low even when turned up to 5(of 5),0,my onli complaint be the standard sound volum be a littl low even when turn up to 5of 5
+2525,REALLY UGLY.,0,realli ugli
+2526,"horrible, had to switch 3 times.",0,horribl have to switch 3 time
+2528,No real improvement.,0,no real improv
+2531,They refuse to refund or replace.,0,they refus to refund or replac
+2532,Unfortunately it's easy to accidentally activate them with the gentle-touch buttons if you accidentally touch the phone to your face while listening.,0,unfortun it easi to accident activ them with the gentletouch button if you accident touch the phone to your face while listen
+2533,So I basically threw my money out the window for nothing.,0,so i basic throw my money out the window for noth
+2535,All it took was one drop from about 6 inches above the kitchen counter and it was cracked.I am not impressed and I am not laughing.,0,all it take be one drop from about 6 inch abov the kitchen counter and it be crackedi be not impress and i be not laugh
+2539,none of the new ones have ever quite worked properly.,0,none of the new one have ever quit work properli
+2541,I've missed numerous calls because of this reason.,0,ive miss numer call becaus of thi reason
+2542,"Perhaps my phone is defective, but people cannot hear me when I use this.",0,perhap my phone be defect but peopl can not hear me when i use thi
+2543,Don't buy this product.,0,dont buy thi product
+2544,"sucked, most of the stuff does not work with my phone.",0,suck most of the stuff do not work with my phone
+2546,Worst software ever used.... If I could give this zero stars I would.,0,bad softwar ever use if i could give thi zero star i would
+2547,Trying to make a call on these is an exercise in frustration.,0,tri to make a call on these be an exercis in frustrat
+2548,The case is a flimsy piece of plastic and has no front or side protection whatsoever.,0,the case be a flimsi piec of plastic and have no front or side protect whatsoev
+2554,I give Wirefly 1 star.I will contact Cingular/AT&T; and inform them of this practice.,0,i give wirefli 1 stari will contact cingularatt and inform them of thi practic
+2555,It's AGGRAVATING!,0,it aggrav
+2559,"None of it works, just don't buy it.",0,none of it work just dont buy it
+2560,"Muddy, low quality sound, and the casing around the wire's insert was poorly super glued and slid off.",0,muddi low qualiti sound and the case around the wire insert be poorli super glue and slide off
+2561,Please dont waste your money.,0,pleas dont wast your money
+2563,"If you are looking for a good quality Motorola Headset keep looking, this isn't it.",0,if you be look for a good qualiti motorola headset keep look thi isnt it
+2564,Yet Plantronincs continues to use the same flawed charger design.,0,yet plantroninc continu to use the same flaw charger design
+2565,Disapointing Results.,0,disapoint result
+2566,Cumbersome design.,0,cumbersom design
+2569,It's A PIECE OF CRAP!,0,it a piec of crap
+2570,"My experience was terrible..... This was my fourth bluetooth headset, and while it was much more comfortable than my last Jabra (which I HATED!!!",0,my experi be terribl thi be my fourth bluetooth headset and while it be much more comfort than my last jabra which i hat
+2572,Worst ever.,0,worst ever
+2575,"I can barely ever hear on it and am constantly saying ""what?""",0,i can bare ever hear on it and be constantli say what
+2576,The battery life is highly unacceptable.,0,the batteri life be highli unaccept
+2577,That company is a joke.,0,that compani be a joke
+2579,Due to this happening on every call I was forced to stop using this headset.,0,due to thi happen on everi call i be forc to stop use thi headset
+2581,"Verizon tech support walked my through a few procedures, none of which worked and I ended up having to do a hard re-set, wiping out all my data.",0,verizon tech support walk my through a few procedur none of which work and i end up have to do a hard reset wipe out all my data
+2582,"Voice Quality, Signal Strength, Dropped Calls.",0,voic qualiti signal strength drop call
+2585,"It feels poorly constructed, the menus are difficult to navigate, and the buttons are so recessed that it is difficult to push them.",0,it feel poorli construct the menu be difficult to navig and the button be so recess that it be difficult to push them
+2587,Also difficult to put on.I'd recommend avoiding this product.,0,also difficult to put onid recommend avoid thi product
+2588,"I only used it two days, and it wasn't always easy to hear with.",0,i onli use it two day and it wasnt alway easi to hear with
+2589,I got the car charger and not even after a week the charger was broken...I went to plug it in and it started smoking.,0,i get the car charger and not even after a week the charger be brokeni go to plug it in and it start smoke
+2590,Sprint - terrible customer service.,0,sprint terribl custom servic
+2595,"What possesed me to get this junk, I have no idea...",0,what posses me to get thi junk i have no idea
+2596,Piece of trash.,0,piec of trash
+2601,"The real killer is the volume, and of course it breaking.",0,the real killer be the volum and of cours it break
+2604,Poor Construction.,0,poor construct
+2605,This is infuriating.,0,thi be infuri
+2607,Sprint charges for this service.,0,sprint charg for thi servic
+2608,"It is cheap, and it feel and look just as cheap.",0,it be cheap and it feel and look just a cheap
+2610,It doesn't work in Europe or Asia.,0,it doesnt work in europ or asia
+2614,the worst phone from samsung...crap..... this crappy Samsung E715.. is the worst i have ever seeen.,0,the bad phone from samsungcrap thi crappi samsung e715 be the bad i have ever seeen
+2615,the charger worked for about a week and then completely stopped charging my phone.,0,the charger work for about a week and then complet stop charg my phone
+2616,Poor product.,0,poor product
+2617,However I needed some better instructions.,0,howev i need some good instruct
+2618,You need two hands to operate the screen.This software interface is decade old and cannot compete with new software designs.,0,you need two hand to oper the screenthi softwar interfac be decad old and can not compet with new softwar design
+2620,"Steer clear of this product and go with the genuine Palm replacementr pens, which come in a three-pack.",0,steer clear of thi product and go with the genuin palm replacementr pen which come in a threepack
+2621,DO NOT BUY DO NOT BUYIT SUCKS,0,do not buy do not buyit suck
+2623,"Plus, I seriously do not believe it is worth its steep price point.",0,plu i serious do not believ it be worth it steep price point
+2625,Very Dissapointing Performance.,0,veri dissapoint perform
+2626,Don't make the same mistake that I did and please don't buy this phone.,0,dont make the same mistak that i do and pleas dont buy thi phone
+2627,This phone might well be the worst I've ever had in any brand.,0,thi phone might well be the bad ive ever have in ani brand
+2628,Case was more or less an extra that I originally put on but later discarded because it scratched my ear.,0,case be more or less an extra that i origin put on but later discard becaus it scratch my ear
+2630,Don't bother - go to the store.,0,dont bother go to the store
+2633,You get what you pay for I guess.,0,you get what you pay for i guess
+2637,"However, BT headsets are currently not good for real time games like first-person shooters since the audio delay messes me up.",0,howev bt headset be current not good for real time game like firstperson shooter sinc the audio delay mess me up
+2639,Disappointing accessory from a good manufacturer.,0,disappoint accessori from a good manufactur
+2640,"Performed awful -- muffled, tinny incoming sound and severe echo for those on the other end of the call.",0,perform aw muffl tinni incom sound and sever echo for those on the other end of the call
+2642,"Obviously they have a terrible customer service, so you get what you pay for.",0,obvious they have a terribl custom servic so you get what you pay for
+2644,"I contacted the company and they told me that, although the unit was still under warranty, if I couldn't produce my receipt I was out of luck.",0,i contact the compani and they tell me that although the unit be still under warranti if i couldnt produc my receipt i be out of luck
+2645,Linksys should have some way to exchange a bad phone for a refurb unit or something!,0,linksi should have some way to exchang a bad phone for a refurb unit or someth
+2648,"When I placed my treo into the case, not only was it NOT snug, but there was A LOT of extra room on the sides.",0,when i place my treo into the case not onli be it not snug but there be a lot of extra room on the side
+2650,Battery is terrible.,0,batteri be terribl
+2652,The earpiece on this is too large or too heavy...it keeps falling out of my ear.,0,the earpiec on thi be too larg or too heavyit keep fall out of my ear
+2653,Utter crap.. Sound quality is TERRIBLE.,0,utter crap sound qualiti be terribl
+2654,"The charger arrived within the promised timeframe, but it did not work.",0,the charger arriv within the promis timefram but it do not work
+2656,"Finally, after three or four times the spring of the latch broke and I could not use it any longer on the visor.",0,final after three or four time the spring of the latch break and i could not use it ani longer on the visor
+2658,Talk about USELESS customer service.,0,talk about useless custom servic
+2659,"It felt too light and ""tinny."".",0,it felt too light and tinni
+2660,This does not fit the Palm Tungsten E2 and it broke the first time I tried to plug it in.,0,thi do not fit the palm tungsten e2 and it break the first time i tri to plug it in
+2665,I could not recommend these more.,0,i could not recommend these more
+2667,"Looks good in the picture, but this case was a huge disappointment!!",0,look good in the pictur but thi case be a huge disappoint
+2670,its extremely slow and takes forever to do anything with it.,0,it extrem slow and take forev to do anyth with it
+2671,"A must study for anyone interested in the ""worst sins"" of industrial design.",0,a must studi for anyon interest in the bad sin of industri design
+2672,The first thing that happened was that the tracking was off.,0,the first thing that happen be that the track be off
+2674,Then I had to continue pairing it periodically since it somehow kept dropping.,0,then i have to continu pair it period sinc it somehow keep drop
+2675,Can't upload ringtones from a third party.,0,cant upload rington from a third parti
+2676,"Bluetooth does not work, phone locks up, screens just flash up and now it just makes calls randomly while in my pocket locked.",0,bluetooth do not work phone lock up screen just flash up and now it just make call randomli while in my pocket lock
+2677,Truly awful.,0,truli aw
+2680,And none of the tones is acceptable.,0,and none of the tone be accept
+2681,camera color balance is AWFUL.,0,camera color balanc be aw
+2682,"This product is clearly not ready for prime time, I don't care how cool it looks, if you can't tell a call is coming in it's worthless.",0,thi product be clearli not readi for prime time i dont care how cool it look if you cant tell a call be come in it worthless
+2684,Chinese Forgeries Abound!.,0,chines forgeri abound
+2686,The instructions didn't explain that a microphone jack could be used.,0,the instruct didnt explain that a microphon jack could be use
+2687,i would advise to not purchase this item it never worked very well.,0,i would advis to not purchas thi item it never work veri well
+2688,Too bad you have to pay up to $$$ a month for the service!,0,too bad you have to pay up to a month for the servic
+2690,The nokia CA-42 USB cable did not work with my phone.,0,the nokia ca42 usb cabl do not work with my phone
+2693,"The biggest complaint I have is, the battery drains superfast.",0,the big complaint i have be the batteri drain superfast
+2694,The design might be ergonomic in theory but I could not stand having these in my ear.,0,the design might be ergonom in theori but i could not stand have these in my ear
+2695,Do NOT buy if you want to use the holster.,0,do not buy if you want to use the holster
+2697,It doesn't make you look cool.,0,it doesnt make you look cool
+2700,"Also, the phone doesn't seem to accept anything except CBR mp3s, preferably ripped by Windows Media Player.",0,also the phone doesnt seem to accept anyth except cbr mp3 prefer rip by window medium player
+2704,So just beware.,0,so just bewar
+2706,So anyone near you will hear part of your conversation.,0,so anyon near you will hear part of your convers
+2708,I bought this phone as a replacement for my StarTac and have regretted it since.,0,i buy thi phone a a replac for my startac and have regret it sinc
+2710,Can't store anything but phone numbers to SIM.,0,cant store anyth but phone number to sim
+2711,"It lasts less than 3o minutes, if I actually try to use the phone.My wife has the same phone with the same problem.",0,it last less than 3o minut if i actual tri to use the phonemi wife have the same phone with the same problem
+2712,Poor quality.,0,poor qualiti
+2714,Not worth it.,0,not worth it
+2715,The phone crashed completely and now I have to get it replaced.,0,the phone crash complet and now i have to get it replac
+2717,"Unfortunately it will not recharge my iPhone 4s, despite connecting it from multiple power sources (iMac, external battery, wall outlet, etc).",0,unfortun it will not recharg my iphon 4 despit connect it from multipl power sourc imac extern batteri wall outlet etc
+2719,if you simply want a small flip phone -- look elsewhere as the extra bells & whistles are mediocre.,0,if you simpli want a small flip phone look elsewher a the extra bell whistl be mediocr
+2723,Think it over when you plan to own this one!This sure is the last MOTO phone for me!,0,think it over when you plan to own thi onethi sure be the last moto phone for me
+2729,After receiving and using the product for just 2 days it broke.,0,after receiv and use the product for just 2 day it break
+2731,None of the three sizes they sent with the headset would stay in my ears.,0,none of the three size they send with the headset would stay in my ear
+2734,We have tried 2 units and they both failed within 2 months.. Pros,0,we have tri 2 unit and they both fail within 2 month pro
+2741,"Couldn't use the unit with sunglasses, not good in Texas!",0,couldnt use the unit with sunglass not good in texa
+2742,It dit not work most of the time with my Nokia 5320.,0,it dit not work most of the time with my nokia 5320
+2743,"Bought mainly for the charger, which broke soon after purchasing.",0,buy mainli for the charger which break soon after purchas
+2744,"If you like a loud buzzing to override all your conversations, then this phone is for you!",0,if you like a loud buzz to overrid all your convers then thi phone be for you
+2746,"stay away from this store, be careful.",0,stay away from thi store be care
+2748,Does not fit.,0,do not fit
+2751,disappointing.,0,disappoint
+2754,The camera on the phone may be used as a dustpan when indoors... I'd rather be using a disposable then this.,0,the camera on the phone may be use a a dustpan when indoor id rather be use a dispos then thi
+2755,Then a few days later the a puff of smoke came out of the phone while in use.,0,then a few day later the a puff of smoke come out of the phone while in use
+2757,The nano stated it.My son was dissapointed.,0,the nano state itmi son be dissapoint
+2760,Would not reccommend.,0,would not reccommend
+2763,This particular model would not work with my Motorola Q smartphone.,0,thi particular model would not work with my motorola q smartphon
+2764,wont work right or atleast for me.,0,wont work right or atleast for me
+2765,in addition it feels &amp; looks as if the phone is all lightweight cheap plastic.,0,in addit it feel amp look a if the phone be all lightweight cheap plastic
+2766,"But now that it is ""out of warranty"" the same problems reoccure.Bottom line... put your money somewhere else... Cingular will not support it.",0,but now that it be out of warranti the same problem reoccurebottom line put your money somewher els cingular will not support it
+2767,"I really wanted the Plantronics 510 to be the right one, but it has too many issues for me.The good",0,i realli want the plantron 510 to be the right one but it have too mani issu for meth good
+2770,AFter the first charge kept going dead after 12 minutes.,0,after the first charg keep go dead after 12 minut
+2771,"VERY cheap plastic, creaks like an old wooden floor.",0,veri cheap plastic creak like an old wooden floor
+2772,"I get absolutely horrible reception in my apartment, where with other phones I have not had this problem.",0,i get absolut horribl recept in my apart where with other phone i have not have thi problem
+2779,"After my phone got to be about a year old, it's been slowly breaking despite much care on my part.",0,after my phone get to be about a year old it be slowli break despit much care on my part
+2780,I am sorry I made this purchase.,0,i be sorri i make thi purchas
+2781,I bought these hoping I could make my Bluetooth headset fit better but these things made it impossible to wear.,0,i buy these hop i could make my bluetooth headset fit well but these thing make it imposs to wear
+2782,Treo and T-Mobile refused to replace it again and forced me to buy another phone without any kind of upgrade discount.,0,treo and tmobil refus to replac it again and forc me to buy anoth phone without ani kind of upgrad discount
+2783,It was horrible!.,0,it be horribl
+2784,I don't think it would hold it too securly on your belt.,0,i dont think it would hold it too securli on your belt
+2785,This allows the possibility of double booking for the same date and time after the first.,0,thi allow the possibl of doubl book for the same date and time after the first
+2786,They work about 2 weeks then break.,0,they work about 2 week then break
+2789,I can't use this case because the smell is disgusting.,0,i cant use thi case becaus the smell be disgust
+2790,NOT WHAT I WANTED.,0,not what i want
+2794,"The internet access was fine, it the rare instance that it worked.",0,the internet access be fine it the rare instanc that it work
+2798,$50 Down the drain.,0,50 down the drain
+2799,I tried talking real loud but shouting on the telephone gets old and I was still told it wasn't great.,0,i tri talk real loud but shout on the telephon get old and i be still tell it wasnt great
+2803,"If there is a wind, it is completely useless.",0,if there be a wind it be complet useless
+2805,Does Not Work.,0,do not work
+2806,"At first I thought I was grtting a good deal at $7.44, until I plugged it into my phone (V3c Razr).",0,at first i think i be grtting a good deal at 744 until i plug it into my phone v3c razr
+2810,Improper description.... I had to return it.,0,improp descript i have to return it
+2814,Battery has no life.,0,batteri have no life
+2815,I checked everywhere and there is no feature for it which is really disappointing.,0,i check everywher and there be no featur for it which be realli disappoint
+2818,Doesn't do the job.,0,doesnt do the job
+2824,Awkward to use and unreliable.,0,awkward to use and unreli
+2826,Not as good as I had hoped.,0,not as good a i have hop
+2828,Doesn't Work.,0,doesnt work
+2830,Unfortunately it did not work.,0,unfortun it do not work
+2831,All three broke within two months of use.,0,all three break within two month of use
+2832,dont buy it.,0,dont buy it
+2833,"My father has the V265, and the battery is dying.",0,my father have the v265 and the batteri be die
+2834,"However, the ear pads come off easily and after only one week I lost one.",0,howev the ear pad come off easili and after onli one week i lose one
+2835,"The calls drop, the phone comes on and off at will, the screen goes black and the worst of all it stops ringing intermittently.",0,the call drop the phone come on and off at will the screen go black and the bad of all it stop ring intermitt
+2836,"Horrible, horrible protector.",0,horribl horribl protector
+2837,I don't like this Nokia either.,0,i dont like thi nokia either
+2838,"Reaching for the bottom row is uncomfortable, and the send and end keys are not where I expect them to be.3.",0,reach for the bottom row be uncomfort and the send and end key be not where i expect them to be3
+2839,I have bought this Nokia cell phone a few weeks ago and it was a nightmare.,0,i have buy thi nokia cell phone a few week ago and it be a nightmar
+2840,It would take too long to describe how bad my customer service experience has been with Amazon.,0,it would take too long to describ how bad my custom servic experi have be with amazon
+2841,the only VERY DISAPPOINTING thing was there was NO SPEAKERPHONE!!!!,0,the onli veri disappoint thing be there be no speakerphon
+2842,Terrible.. My car will not accept this cassette.,0,terribl my car will not accept thi cassett
+2843,"Product is useless, since it does not have enough charging current to charge the 2 cellphones I was planning to use it with.",0,product be useless sinc it do not have enough charg current to charg the 2 cellphon i be plan to use it with
+2844,It's not what it says it is.,0,it not what it say it be
+2845,Stay Away From the Q!.,0,stay away from the q
+2846,Used and dirty.,0,use and dirti
+2847,Very unreliable service from T-mobile !,0,veri unreli servic from tmobil
+2848,Not good enough for the price.,0,not good enough for the price
+2849,I bought two of them and neither will charge.,0,i buy two of them and neither will charg
+2853,These products cover up the important light sensor above the ear outlet.,0,these product cover up the import light sensor abov the ear outlet
+2855,Just does not work.,0,just do not work
+2856,Poor Reliability.,0,poor reliabl
+2858,"If I take a picture, the battery drops a bar, and starts beeping, letting me know its dieing.",0,if i take a pictur the batteri drop a bar and start beep let me know it die
+2859,"Terrible product, and waste of money!",0,terribl product and wast of money
+2860,Last time buying from you.,0,last time buy from you
+2861,It was a waste of my money.,0,it be a wast of my money
+2868,The item received was Counterfeit.,0,the item receiv be counterfeit
+2875,This is by far the worst purchase I've made on Amazon.,0,thi be by far the bad purchas ive make on amazon
+2878,Does not work for listening to music with the cingular 8125.,0,do not work for listen to music with the cingular 8125
+2880,"The bottowm line...another worthless, cheap gimmick from Sprint.",0,the bottowm lineanoth worthless cheap gimmick from sprint
+2881,Having trouble with volume.,0,have troubl with volum
+2883,WARNING - DO NOT BUY!!.,0,warn do not buy
+2885,"When it opens, the battery connection is broken and the device is turned off.",0,when it open the batteri connect be break and the devic be turn off
+2886,"I didn't want the clip going over the top of my ear, causing discomfort.",0,i didnt want the clip go over the top of my ear caus discomfort
+2888,Don't trust their website and don't expect any helpful support.,0,dont trust their websit and dont expect ani help support
+2890,The speaker is of low quality so as making the ring tones sound very cheap.,0,the speaker be of low qualiti so a make the ring tone sound veri cheap
+2893,Bad Reception.,0,bad recept
+2894,This product is very High quality Chinese CRAP!!!!!!,0,thi product be veri high qualiti chines crap
+2897,Don't buy this product - It fails!.,0,dont buy thi product it fail
+2898,Everything about this product is wrong.First,0,everyth about thi product be wrongfirst
+2900,"This was utterly confusing at first, which caused me to lose a couple of very, very important contacts.",0,thi be utterli confus at first which caus me to lose a coupl of veri veri import contact
+2901,Terrible phone holder.,0,terribl phone holder
+2904,Problem is that the ear loops are made of weak material and break easily.,0,problem be that the ear loop be make of weak materi and break easili
+2905,Not nearly as good looking as the AMAZON picture makes it look.,0,not nearli as good look a the amazon pictur make it look
+2907,How stupid is that?,0,how stupid be that
+2912,It always cuts out and makes a beep beep beep sound then says signal failed.,0,it alway cut out and make a beep beep beep sound then say signal fail
+2913,Couldn't figure it out,0,couldnt figur it out
+2914,"My phone sounded OK ( not great - OK), but my wife's phone was almost totally unintelligible, she couldn't understand a word being said on it.",0,my phone sound ok not great ok but my wife phone be almost total unintellig she couldnt understand a word be say on it
+2915,So I had to take the battery out of the phone put it all back together and then restart it.,0,so i have to take the batteri out of the phone put it all back togeth and then restart it
+2916,"While I managed to bend the leaf spring back in place, the metal now has enough stress that it will break on the next drop.",0,while i manag to bend the leaf spring back in place the metal now have enough stress that it will break on the next drop
+2919,"Saggy, floppy piece of junk.",0,saggi floppi piec of junk
+2921,It also had a new problem.,0,it also have a new problem
+2926,It looses connection to the phone even when it is within a couple feet between the two.,0,it loos connect to the phone even when it be within a coupl foot between the two
+2928,Makes it easier to keep up with my bluetooth when I'm not wearing it.,0,make it easi to keep up with my bluetooth when im not wear it
+2929,As I said above....PRETTY USELESS!,0,a i say abovepretti useless
+2930,Never got it!!!!!,0,never get it
+2931,This pair of headphones is the worst that I have ever had sound-wise.,0,thi pair of headphon be the bad that i have ever have soundwis
+2932,[...] down the drain because of a weak snap!,0,down the drain becaus of a weak snap
+2933,Does not charge the Cingular (ATT) 8525 phone.,0,do not charg the cingular att 8525 phone
+2935,"However, after about a year, the fliptop started to get loose and wobbly and eventually my screen went black and I couldn't receive and place calls.",0,howev after about a year the fliptop start to get loos and wobbl and eventu my screen go black and i couldnt receiv and place call
+2936,I kept catching the cable on the seat and I had to pull the phone out to turn it on an off.,0,i keep catch the cabl on the seat and i have to pull the phone out to turn it on an off
+2942,"The mic there is a joke, and the volume is quite low.",0,the mic there be a joke and the volum be quit low
+2943,I'm returning them.,0,im return them
+2944,I does not maintain a connection with the computer while it is on my lap.,0,i do not maintain a connect with the comput while it be on my lap
+2949,I had to purchase a different case.,0,i have to purchas a differ case
+2951,Very much disappointed with this company.,0,veri much disappoint with thi compani
+2953,It didn't charge for me.,0,it didnt charg for me
+2955,Buttons are too small.,0,button be too small
+2959,"However, the keypads are so tinny that I sometimes reach the wrong buttons.",0,howev the keypad be so tinni that i sometim reach the wrong button
+2965,I cannot make calls at certain places.,0,i can not make call at certain place
+2966,"however, my girl was complain that some time the phone doesn't wake up like normal phone does.",0,howev my girl be complain that some time the phone doesnt wake up like normal phone do
+2968,This company charge me a restocking fee and still not given me my refund back.,0,thi compani charg me a restock fee and still not give me my refund back
+2969,I'm trying to return it for a refund.,0,im tri to return it for a refund
+2970,I plugged it in only to find out not a darn thing worked.,0,i plug it in onli to find out not a darn thing work
+2972,Earbud piece breaks easily.,0,earbud piec break easili
+2973,Lousy product.,0,lousi product
+2974,This phone tries very hard to do everything but fails at it's very ability to be a phone.,0,thi phone tri veri hard to do everyth but fail at it veri abil to be a phone
+2979,Not enough volume.,0,not enough volum
+2980,Echo Problem....Very unsatisfactory,0,echo problemveri unsatisfactori
+2981,you could only take 2 videos at a time and the quality was very poor.,0,you could onli take 2 video at a time and the qualiti be veri poor
+2982,don't waste your money.,0,dont wast your money
+2983,I am going to have to be the first to negatively review this product.,0,i be go to have to be the first to neg review thi product
+2984,Adapter does not provide enough charging current.,0,adapt do not provid enough charg current
+2985,"There was so much hype over this phone that I assumed it was the best, my mistake.",0,there be so much hype over thi phone that i assum it be the best my mistak
+2986,You also cannot take pictures with it in the case because the lense is covered.,0,you also can not take pictur with it in the case becaus the lens be cover
+2987,Phone falls out easily.,0,phone fall out easili
+2988,"It didn't work, people can not hear me when I talk.",0,it didnt work peopl can not hear me when i talk
+2989,The text messaging feature is really tricky to use.,0,the text messag featur be realli tricki to use
+2990,I'm really disappointed all I have now is a charger that doesn't work.,0,im realli disappoint all i have now be a charger that doesnt work
+2991,Painful on the ear.,0,pain on the ear
+2992,Lasted one day and then blew up.,0,last one day and then blow up
+2993,disappointed.,0,disappoint
+2994,Kind of flops around.,0,kind of flop around
+2995,The screen does get smudged easily because it touches your ear and face.,0,the screen do get smudg easili becaus it touch your ear and face
+2996,What a piece of junk.. I lose more calls on this phone.,0,what a piec of junk i lose more call on thi phone
+2997,Item Does Not Match Picture.,0,item do not match pictur
+2998,The only thing that disappoint me is the infra red port (irda).,0,the onli thing that disappoint me be the infra red port irda
+2999,"You can not answer calls with the unit, never worked once!",0,you can not answer call with the unit never work onc

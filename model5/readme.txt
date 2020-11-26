@@ -1,0 +1,2 @@
+scalar vector machine
+stopwords included

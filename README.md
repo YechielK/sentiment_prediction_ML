@@ -10,6 +10,6 @@ To see app
     - `source venv/bin/activate`
 - install requirements
   - `pip install -r requirements.txt`
-- run `python run.py`
+- run `python app.py`
 - go to `localhost:3000`
 - type in a sentence and push "submit"

@@ -1,0 +1,1 @@
+no lemming, no stemming, include stopwords, include punctuation

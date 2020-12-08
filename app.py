@@ -1,5 +1,5 @@
 from lib.predict import predict
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, g
 app = Flask(__name__)
 
 
@@ -12,11 +12,18 @@ def index():
 def predict_route():
     sentence = request.args.get("sentence")
     output = predict(sentence)
+
+
     if output == 1:
         output = "Positive"
+        prob = g.model.predict_proba(g.X).round(3)[0][1]
+
     else:
         output = "Negative"
-    return render_template('index.html', result=output, sentence=sentence, showPrediction=True)
+        prob = g.model.predict_proba(g.X).round(3)[0][0]
+
+
+    return render_template('index.html', result=output, sentence=sentence, lemmed=g.lemmed, prob=prob, showPrediction=True)
 
 if __name__ == '__main__':
 	app.run( port="3000", debug=True)

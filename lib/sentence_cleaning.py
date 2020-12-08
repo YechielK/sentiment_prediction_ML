@@ -1,6 +1,7 @@
 # NLTK is our Natural-Language-Took-Kit
 import re
 import string
+import nltk
 from nltk.corpus import wordnet
 from nltk.stem import WordNetLemmatizer
 from nltk.stem import PorterStemmer
@@ -49,6 +50,7 @@ def lem_with_pos_tag(a_string):
 
     # Join the list of words together into a string
     a_string = ' '.join(valid_words)
+
 
     return a_string
 
@@ -119,6 +121,6 @@ def text_pipeline(s):
     # s = remove_punctuation(s)
     # s = lowercase(s)
     # s = remove_stopwords(s)
-    # s = lem_with_pos_tag(s)
+    s = lem_with_pos_tag(s)
     # s = stem_words(s)
     return s
